@@ -1,0 +1,132 @@
+{
+  "id": "83587d1c-69ef-4657-8a5f-f734f67fe1a5",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mizuki Hoshino",
+    "metadata": {
+      "age": 39,
+      "accent": "Canadian English with a subtle German lilt",
+      "gender": "woman",
+      "location": "Canada",
+      "pronouns": "she/they",
+      "education": "Some college or university",
+      "ethnicity": "East Asian",
+      "job_title": "Organic Farm Coordinator",
+      "languages": "English",
+      "birth_date": "1985-06-21",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Agriculture",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Driven",
+        "Thoughtful",
+        "Mentally Tough",
+        "Curious",
+        "Resourceful",
+        "Observant"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Kelowna",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "mizukihoshino",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Vancouver, British Columbia, Canada",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant stress and isolation navigating cultural expectations versus a non-traditional, demanding career path in agriculture.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Outdoor",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Growth",
+        "Community",
+        "Integrity",
+        "Health"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:12:40.145+00:00",
+  "updated_at": "2025-11-14T23:31:35.805Z",
+  "version": 14
+}

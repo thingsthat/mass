@@ -1,0 +1,59 @@
+{
+  "id": "dc5d45a0-8c67-40c3-8ebb-58f79f35d06c",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Expert",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "trauma_history": "Experienced isolation and friction in traditional educational and professional settings due to highly unconventional thought patterns, leading to early struggles with imposter syndrome and social burnout.",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "parental_status": "Childfree by choice",
+      "spending_habits": "Budget-conscious",
+      "attachment_style": "Avoidant",
+      "diet_preferences": "Vegetarian",
+      "family_structure": "Nuclear",
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "childhood_location": "Small town near Ottawa, Ontario",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Moderate",
+      "therapy_experience": "Past",
+      "communication_style": "Analytical",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "mental_health_status": "Good",
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Art galleries"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  }
+}

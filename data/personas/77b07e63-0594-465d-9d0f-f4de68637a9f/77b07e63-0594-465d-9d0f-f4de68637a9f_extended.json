@@ -1,0 +1,60 @@
+{
+  "id": "77b07e63-0594-465d-9d0f-f4de68637a9f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Medium",
+      "childhood_location": "Remote village in the Brecon Beacons, Wales",
+      "family_structure": "Extended",
+      "trauma_history": "Overcame significant economic hardship and the social stigma of pursuing a demanding career without formal academic credentials; experienced loss of a long-term partner two decades ago.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

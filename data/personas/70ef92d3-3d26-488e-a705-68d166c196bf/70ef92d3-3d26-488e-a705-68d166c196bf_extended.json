@@ -1,0 +1,61 @@
+{
+  "id": "70ef92d3-3d26-488e-a705-68d166c196bf",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant cultural clash and marginalization growing up, leading to a deep distrust of majority systems and a fierce drive for intellectual and personal autonomy.",
+      "myers_briggs_type": "ENTP",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

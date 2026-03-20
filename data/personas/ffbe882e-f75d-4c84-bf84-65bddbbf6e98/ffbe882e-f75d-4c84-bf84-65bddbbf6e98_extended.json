@@ -1,0 +1,63 @@
+{
+  "id": "ffbe882e-f75d-4c84-bf84-65bddbbf6e98",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "No specific diet",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "A market town in Kent, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Amicable separation, otherwise stable upbringing with emotional reserve",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Independence",
+        "Responsibility",
+        "Tradition"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Museums",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Very private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

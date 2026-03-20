@@ -1,0 +1,135 @@
+{
+  "id": "948edd12-d607-44aa-97e7-10e56c1a0a4b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Samira Adebayo",
+    "metadata": {
+      "age": 35,
+      "accent": "African-Caribbean English",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Solutions Architect",
+      "languages": "English",
+      "birth_date": "1989-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Curious",
+        "Diplomatic",
+        "Analytical",
+        "Resourceful",
+        "Observant",
+        "Open-minded",
+        "Adaptable"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "London",
+      "sexual_orientation": "queer"
+    },
+    "username": "sadebayo",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced challenges navigating nonbinary identity within a traditional cultural and family structure during early adulthood.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Justice",
+        "Freedom",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Gaming",
+        "Podcasts",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:44:44.673+00:00",
+  "updated_at": "2025-11-14T23:31:40.594Z",
+  "version": 14
+}

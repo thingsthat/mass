@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kwame Osei",
+    "metadata": {
+      "age": 41,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Black",
+      "accent": "Mancunian",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Perfectionist",
+        "Nonconformist",
+        "Analytical",
+        "Reserved",
+        "Loyal",
+        "Methodical"
+      ],
+      "job_title": "Senior Software Engineer",
+      "relationship_status": "married",
+      "political_leaning": "Populist",
+      "birth_date": "1983-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Other",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Manchester"
+    },
+    "username": "kosei",
+    "connections": [
+      {
+        "persona_id": "0117231b-e8fb-45e9-a6cd-0f92e592b5e4",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Sarisha Adewale"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:33:40.520Z",
+  "updated_at": "2025-11-14T23:31:03.273Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "096f67ef-4e19-467b-88a3-ba917b442265"
+}

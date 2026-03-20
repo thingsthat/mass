@@ -1,0 +1,42 @@
+{
+  "id": "f2437c67-1c48-4863-86f1-c160e92326ac",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Olivia Evans",
+    "metadata": {
+      "age": 35,
+      "accent": "General American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "High School Teacher",
+      "languages": "English",
+      "birth_date": "1989-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "kind",
+        "empathetic",
+        "thoughtful",
+        "creative",
+        "curious"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Austin, Texas",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "oliviaevans"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T18:33:43.948+00:00",
+  "updated_at": "2025-11-14T23:32:09.484Z",
+  "version": 14
+}

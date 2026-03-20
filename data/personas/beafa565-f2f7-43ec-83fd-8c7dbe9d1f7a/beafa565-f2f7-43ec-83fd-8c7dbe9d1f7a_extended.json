@@ -1,0 +1,60 @@
+{
+  "id": "beafa565-f2f7-43ec-83fd-8c7dbe9d1f7a",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "None",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "Easton, Bristol",
+      "family_structure": "Single parent",
+      "trauma_history": "Father struggled with long-term unemployment and mental health issues, eventually leaving when Amina was in her early teens. Experienced financial instability. Unexpected pregnancy at 19, raising son as a single mother.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Compassion",
+        "Responsibility",
+        "Justice",
+        "Integrity"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Documentaries",
+        "Books"
+      ],
+      "attachment_style": "Anxious",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

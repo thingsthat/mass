@@ -1,0 +1,137 @@
+{
+  "id": "0b19f5e2-486e-46de-af40-a55a858d0077",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "P\u00e1id\u00ed Mac Cionnaith",
+    "metadata": {
+      "age": 69,
+      "accent": "Irish",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Independent Business Consultant",
+      "languages": "English",
+      "birth_date": "1955-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Business Services",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Gentle",
+        "Humble",
+        "Sensitive",
+        "Outgoing",
+        "Analytical",
+        "Resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Belfast",
+      "sexual_orientation": "queer"
+    },
+    "username": "pcionnaith",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "West Belfast, Northern Ireland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced civil unrest and political violence during childhood and young adulthood in Belfast (The Troubles), leading to a strong, lifelong focus on stability and peace.",
+      "income_range": "100k-150k",
+      "career_stage": "Self-employed",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Compassion",
+        "Growth",
+        "Integrity",
+        "Community",
+        "Balance"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Podcasts",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:13:06.924+00:00",
+  "updated_at": "2025-11-14T23:31:04.426Z",
+  "version": 12
+}

@@ -1,0 +1,136 @@
+{
+  "id": "6bab6894-62a2-4ca9-92f3-f13861a1ced0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Euan MacInnes",
+    "metadata": {
+      "age": 39,
+      "accent": "Scottish (Glaswegian, light)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Freelance Illustrator",
+      "languages": "English",
+      "birth_date": "1985-06-21",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Kind",
+        "Intuitive",
+        "Thoughtful",
+        "Observant",
+        "Imaginative",
+        "Easygoing",
+        "Creative"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Glasgow",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "emacinnes",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Glasgow, Scotland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the emotional strain and financial insecurity resulting from his father's industrial job loss and subsequent career change during his adolescence.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Home",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Withdrawn",
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Analytical"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Creativity",
+        "Authenticity",
+        "Community",
+        "Growth",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Tablet"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Movies"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:50:33.476+00:00",
+  "updated_at": "2025-11-14T23:31:29.233Z",
+  "version": 14
+}

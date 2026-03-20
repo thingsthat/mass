@@ -1,0 +1,43 @@
+{
+  "id": "ee03d2b5-0c5e-4fdf-a1c4-43e91a45a0a7",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Seren Holloway",
+    "metadata": {
+      "age": 23,
+      "accent": "Bristolian with a slight overlay from her family's heritage",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Christian",
+      "city_town": "Bristol",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Content Creator",
+      "languages": "English",
+      "birth_date": "2001-08-10",
+      "zodiac_sign": "Leo",
+      "job_industry": "Marketing & Advertising",
+      "political_leaning": "Centrist",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Sincere",
+        "Socially Anxious",
+        "Protective",
+        "Resilient",
+        "Creative",
+        "Empathetic"
+      ],
+      "relationship_status": "separated",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "sholloway"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:53:37.162+00:00",
+  "updated_at": "2025-11-14T23:32:08.337Z",
+  "version": 5
+}

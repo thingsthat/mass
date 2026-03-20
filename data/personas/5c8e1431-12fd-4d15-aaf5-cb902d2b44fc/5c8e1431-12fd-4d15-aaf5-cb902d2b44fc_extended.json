@@ -1,0 +1,61 @@
+{
+  "id": "5c8e1431-12fd-4d15-aaf5-cb902d2b44fc",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Seattle metropolitan area, Washington",
+      "family_structure": "Extended",
+      "trauma_history": "Early financial instability required significant resourcefulness and delayed educational path.",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Social contract"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Gaming",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

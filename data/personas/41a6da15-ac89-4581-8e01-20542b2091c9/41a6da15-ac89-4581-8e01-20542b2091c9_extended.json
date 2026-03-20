@@ -1,0 +1,59 @@
+{
+  "id": "41a6da15-ac89-4581-8e01-20542b2091c9",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Oxford, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Widowed tragically five years ago, followed shortly after by a life-altering accident involving experimental particles, leaving him with powers and profound responsibility, resulting in chronic grief and internal conflict.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Utilitarian",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Struggling",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

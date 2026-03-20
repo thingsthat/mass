@@ -1,0 +1,61 @@
+{
+  "id": "0d02be30-b40b-43f9-9f36-f3ed4e823945",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Small",
+      "childhood_location": "South London, UK",
+      "family_structure": "Single parent",
+      "trauma_history": "Father's absence; navigating complex cultural, sexual, and relationship identities amidst societal norms.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Integrity",
+        "Justice",
+        "Compassion",
+        "Authenticity",
+        "Community"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

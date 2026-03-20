@@ -1,0 +1,61 @@
+{
+  "id": "300045ee-517f-47b1-bfe6-bc21190aa69c",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "No specific diet",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Quiet market town in Suffolk, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced profound loss five years ago with the sudden passing of her husband, which solidified her cautious nature and led her to seek perfection in work as a coping mechanism.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Responsibility",
+        "Independence",
+        "Community"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

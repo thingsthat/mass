@@ -1,0 +1,44 @@
+{
+  "id": "30e42c81-587e-4405-89c0-03ba63377ef9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lira Mendes",
+    "metadata": {
+      "age": 23,
+      "accent": "British (West Country)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Atheist",
+      "city_town": "Bristol",
+      "education": "Associate degree",
+      "ethnicity": "Multiracial",
+      "job_title": "Nursery Assistant and Student",
+      "languages": "English",
+      "birth_date": "2001-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Education",
+      "political_leaning": "Moderate-Conservative",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Resilient",
+        "Pragmatic",
+        "Cautious",
+        "Analytical",
+        "Passionate",
+        "Independent",
+        "Dryly Humorous"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "lmendes"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T12:15:40.244+00:00",
+  "updated_at": "2025-11-14T23:31:14.001Z",
+  "version": 5
+}

@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Prakash Bala",
+    "metadata": {
+      "age": 42,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "South Asian",
+      "accent": "Indian English",
+      "location": "Other",
+      "languages": "English",
+      "job_industry": "Finance",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Gregarious (Situationally Outgoing)",
+        "Analytical",
+        "Indecisive",
+        "Procrastinator (Last-Minute Perfectionist)",
+        "Empathetic",
+        "Progressive"
+      ],
+      "job_title": "Senior Financial Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1982-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Hindu",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Bengaluru"
+    },
+    "username": "prakash_bala",
+    "connections": [
+      {
+        "persona_id": "9bd391d0-d89f-4019-bba0-f2c84867f5e1",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Roshni Bala"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:55:47.563Z",
+  "updated_at": "2025-11-14T23:32:00.951Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "d42f21c6-cf67-4a40-898b-adcfe59f347b"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b299021f-3b41-4465-a965-34b843a3371f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ryo Tanaka",
+    "metadata": {
+      "age": 22,
+      "accent": "Standard British English with a subtle East Asian lilt, influenced by their Japanese heritage.",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Currently enrolled",
+      "ethnicity": "East Asian",
+      "job_title": "Junior Software Developer",
+      "languages": "English",
+      "birth_date": "2002-05-01",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "observant",
+        "mentally tough",
+        "analytical",
+        "creative",
+        "thoughtful",
+        "principled"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Manchester",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "ryotanaka"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:17:43.115+00:00",
+  "updated_at": "2025-11-14T23:31:50.497Z",
+  "version": 12
+}

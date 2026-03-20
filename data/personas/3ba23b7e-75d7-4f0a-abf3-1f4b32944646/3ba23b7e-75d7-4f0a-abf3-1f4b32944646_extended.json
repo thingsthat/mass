@@ -1,0 +1,59 @@
+{
+  "id": "3ba23b7e-75d7-4f0a-abf3-1f4b32944646",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Birmingham, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigated cultural expectations as a first-generation Briton and experienced a challenging divorce in mid-life, leading to introspection and resilience.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Family",
+        "Integrity",
+        "Justice",
+        "Growth",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Movies",
+        "Gaming",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

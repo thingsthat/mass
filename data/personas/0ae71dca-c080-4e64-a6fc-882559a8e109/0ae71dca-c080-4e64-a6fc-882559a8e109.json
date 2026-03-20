@@ -1,0 +1,137 @@
+{
+  "id": "0ae71dca-c080-4e64-a6fc-882559a8e109",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zephyrine Paine",
+    "metadata": {
+      "age": 38,
+      "accent": "Standard London accent with a subtle, melodic lilt, occasionally exhibiting RP influences cultivated during professional work.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Digital Content Strategist",
+      "languages": "English",
+      "birth_date": "1986-07-22",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Marketing & Advertising",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Loyal",
+        "Kind",
+        "Affectionate",
+        "Creative",
+        "Observant",
+        "Easygoing",
+        "Imaginative"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "zephyrinepaine",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced generational pressures related to cultural assimilation and the challenges of supporting immigrant parents' small business; minimal personal trauma.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Creativity",
+        "Community",
+        "Compassion",
+        "Integrity",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music",
+        "Documentaries",
+        "Social media",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:49:00.117+00:00",
+  "updated_at": "2025-11-14T23:31:04.189Z",
+  "version": 14
+}

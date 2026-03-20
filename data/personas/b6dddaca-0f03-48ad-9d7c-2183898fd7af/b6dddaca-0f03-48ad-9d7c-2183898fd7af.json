@@ -1,0 +1,56 @@
+{
+  "id": "b6dddaca-0f03-48ad-9d7c-2183898fd7af",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sophea Kael",
+    "metadata": {
+      "age": 39,
+      "accent": "General American with a subtle, gentle lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "they/them",
+      "education": "Vocational or technical training",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Curriculum Developer for Culinary Arts Program",
+      "languages": "English",
+      "birth_date": "1985-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Education",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "curious about others",
+        "principled",
+        "affectionate",
+        "intuitive",
+        "imaginative",
+        "observant",
+        "empathetic"
+      ],
+      "relationship_status": "married",
+      "religion": "Buddhist",
+      "height_centimeters": 160,
+      "city_town": "Portland, Oregon",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "sopheakael",
+    "connections": [
+      {
+        "persona_id": "9af6372a-baa9-44c0-a18e-b819183744f2",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Romeo Bautista"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:00:26.336+00:00",
+  "updated_at": "2025-11-14T23:31:51.846Z",
+  "version": 12
+}

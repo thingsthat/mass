@@ -1,0 +1,99 @@
+{
+  "id": "414add18-603a-4f31-b24e-dc3419bd4c3c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lyra Solace",
+    "metadata": {
+      "age": 39,
+      "accent": "Neutral American with warm, melodic undertone",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Unemployed (formerly Community Outreach Coordinator)",
+      "languages": "English",
+      "birth_date": "1985-11-20",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Empathetic",
+        "Resilient",
+        "Intuitive",
+        "Friendly",
+        "Resourceful",
+        "Adventurous"
+      ],
+      "relationship_status": "widowed",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Portland, Oregon",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "lsolace",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Miami, Florida, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Currently processing complex grief following the sudden death of her husband two years ago.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Current",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:27:42.335+00:00",
+  "updated_at": "2025-11-14T23:31:18.825Z",
+  "version": 14
+}

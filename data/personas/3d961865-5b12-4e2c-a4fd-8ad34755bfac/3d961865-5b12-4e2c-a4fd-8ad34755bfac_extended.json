@@ -1,0 +1,59 @@
+{
+  "id": "3d961865-5b12-4e2c-a4fd-8ad34755bfac",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Isle of Skye, Scotland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Profoundly affected by an environmental disaster (oil spill during adolescence) and navigated personal challenges related to self-discovery and identity formation in a small, traditional community.",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Gaming",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

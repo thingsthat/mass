@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stanley Chapman",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Mancunian",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Marketing & Advertising",
+      "education": "High school diploma or equivalent",
+      "personality_traits": [
+        "Conventional",
+        "Emotionally Needy",
+        "Loyal",
+        "Meticulous",
+        "Cautious",
+        "Resentful",
+        "Traditional"
+      ],
+      "job_title": "Marketing Coordinator",
+      "relationship_status": "in a relationship",
+      "political_leaning": "Conservative",
+      "birth_date": "1969-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "schapman"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:14:29.558Z",
+  "updated_at": "2025-11-14T23:31:16.050Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "39272c0d-ff4f-4633-bc3e-375641a062e9"
+}

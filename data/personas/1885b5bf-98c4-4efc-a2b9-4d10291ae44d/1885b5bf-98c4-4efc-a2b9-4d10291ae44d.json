@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Esther Kemi",
+    "metadata": {
+      "age": 65,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Sub-Saharan African",
+      "accent": "Standard British English with a subtle West African lilt from her parents' influence, though mostly assimilated.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "High school diploma or equivalent",
+      "personality_traits": [
+        "Skilled",
+        "Meticulous",
+        "Emotionally Intelligent",
+        "Stoic",
+        "Resilient",
+        "Community-Minded"
+      ],
+      "job_title": "Senior Healthcare Assistant",
+      "relationship_status": "divorced",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1959-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "Birmingham"
+    },
+    "username": "esther_kemi"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:31:10.848Z",
+  "updated_at": "2025-11-14T23:31:07.458Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "1885b5bf-98c4-4efc-a2b9-4d10291ae44d"
+}

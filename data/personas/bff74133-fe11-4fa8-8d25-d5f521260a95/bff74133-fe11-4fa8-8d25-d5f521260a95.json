@@ -1,0 +1,135 @@
+{
+  "id": "bff74133-fe11-4fa8-8d25-d5f521260a95",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Soleil Quintana",
+    "metadata": {
+      "age": 31,
+      "accent": "Californian English with a subtle Latin American cadence",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "Hispanic",
+      "job_title": "Bioinformatics Research Technician",
+      "languages": "English",
+      "birth_date": "1993-10-30",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Intuitive",
+        "Calm Under Pressure",
+        "Loyal",
+        "Thoughtful",
+        "Observant",
+        "Resourceful",
+        "Practical"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "San Diego",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "squintana",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "San Diego, California, United States",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced financial instability and social isolation during her parents' early years post-immigration, which fostered her strong sense of resourcefulness and independence.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Knowledge",
+        "Compassion",
+        "Adventure"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:52:55.71+00:00",
+  "updated_at": "2025-11-14T23:31:55.295Z",
+  "version": 12
+}

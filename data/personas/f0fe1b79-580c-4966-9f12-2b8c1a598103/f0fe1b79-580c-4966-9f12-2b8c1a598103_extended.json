@@ -1,0 +1,61 @@
+{
+  "id": "f0fe1b79-580c-4966-9f12-2b8c1a598103",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Curitiba, Paraná, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "None explicitly mentioned in the profile. Grew up in a warm, middle-class family environment with strong familial support.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Community",
+        "Compassion",
+        "Growth",
+        "Authenticity"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Sports",
+        "Music",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

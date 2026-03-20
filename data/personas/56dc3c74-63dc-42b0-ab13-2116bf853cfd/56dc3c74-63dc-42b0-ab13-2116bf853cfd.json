@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Imogen Grant",
+    "metadata": {
+      "age": 57,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "Other",
+      "accent": "Southern British English (Estuary accent influence)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Media & Entertainment",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Meticulous",
+        "Expressive",
+        "Steady",
+        "Community-Oriented",
+        "Pragmatic",
+        "Observant",
+        "Witty"
+      ],
+      "job_title": "Broadcast Operations Manager",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1967-04-10",
+      "zodiac_sign": "Aries",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Brighton"
+    },
+    "username": "imogengrant",
+    "connections": [
+      {
+        "persona_id": "5ae5ab78-c3ae-4626-a5c6-284f83f02c9a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Marcus Grant"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:48:15.330Z",
+  "updated_at": "2025-11-14T23:31:23.767Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "56dc3c74-63dc-42b0-ab13-2116bf853cfd"
+}

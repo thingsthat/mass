@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stephen Clark",
+    "metadata": {
+      "age": 39,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Northern English accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Other",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Socially Anxious",
+        "Analytical",
+        "Conscientious",
+        "Thoughtful",
+        "Assertive (Contextual)",
+        "Detail-Oriented"
+      ],
+      "job_title": "Urban Planning Consultant (Part-time)",
+      "relationship_status": "married",
+      "political_leaning": "Socialist",
+      "birth_date": "1985-04-10",
+      "zodiac_sign": "Aries",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Manchester"
+    },
+    "username": "stephen_clark",
+    "connections": [
+      {
+        "persona_id": "1f215a53-6b70-4b3e-8e12-b28075ae05a9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Fiona Wallace"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:40:19.705Z",
+  "updated_at": "2025-11-14T23:31:05.020Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "0bb570ad-8a19-4631-a7aa-66d9c944501c"
+}

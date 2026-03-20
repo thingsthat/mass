@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marcus Grant",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Other",
+      "accent": "London accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Legal",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Perfectionist",
+        "Detail-Oriented",
+        "Honest",
+        "Reserved",
+        "Diligent",
+        "Thoughtful"
+      ],
+      "job_title": "Senior Legal Executive",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1969-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "London"
+    },
+    "username": "marcus_grant",
+    "connections": [
+      {
+        "persona_id": "56dc3c74-63dc-42b0-ab13-2116bf853cfd",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Imogen Grant"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:13:05.949Z",
+  "updated_at": "2025-11-14T23:31:24.885Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "5ae5ab78-c3ae-4626-a5c6-284f83f02c9a"
+}

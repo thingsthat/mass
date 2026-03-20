@@ -1,0 +1,99 @@
+{
+  "id": "0949e4e6-b3b5-412f-9aff-4589f1bb0018",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ol\u00e1vio Fid\u00e9le Baffour",
+    "metadata": {
+      "age": 31,
+      "accent": "Brazilian Portuguese, precise and articulate",
+      "gender": "nonbinary",
+      "location": "Other",
+      "pronouns": "he/they",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Black",
+      "job_title": "Chartered Financial Risk Analyst",
+      "languages": "Portuguese",
+      "birth_date": "1993-08-05",
+      "zodiac_sign": "Leo",
+      "job_industry": "Finance",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Observant",
+        "Empathetic",
+        "Resourceful",
+        "Brave",
+        "Analytical",
+        "Philosophical"
+      ],
+      "relationship_status": "widowed",
+      "religion": "Prefer not to say",
+      "height_centimeters": 178,
+      "city_town": "Salvador",
+      "sexual_orientation": "homosexual"
+    },
+    "username": "olvio_fidle_baff",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "None"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bras\u00edlia, Brazil (with time in Madrid and Lisbon)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Sudden loss of spouse/partner three years ago; currently managing grief through consistent therapy.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Gaming",
+        "Documentaries",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Current",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Rideshare",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:30:43.749+00:00",
+  "updated_at": "2025-11-14T23:31:03.021Z",
+  "version": 12
+}

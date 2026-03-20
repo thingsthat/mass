@@ -1,0 +1,56 @@
+{
+  "id": "56de0184-a244-40a7-805c-863e1f740dde",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anwen Devi",
+    "metadata": {
+      "age": 43,
+      "accent": "Standard British English with a subtle Welsh lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Agnostic",
+      "city_town": "Cardiff",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Technical Director of Engineering",
+      "languages": "English",
+      "birth_date": "1981-06-15",
+      "zodiac_sign": "Gemini",
+      "job_industry": "Engineering",
+      "political_leaning": "Liberal",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Charismatic",
+        "Insightful",
+        "Lives with Intention",
+        "Resilient",
+        "Funny",
+        "Analytical",
+        "Passionate about Sustainability"
+      ],
+      "relationship_status": "married",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "adevi",
+    "connections": [
+      {
+        "persona_id": "60444ee8-63a3-4d01-97bf-6433abf210f0",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Vivek Sharma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T09:51:32.025+00:00",
+  "updated_at": "2025-11-14T23:31:23.897Z",
+  "version": 8
+}

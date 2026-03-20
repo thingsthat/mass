@@ -1,0 +1,136 @@
+{
+  "id": "9364588a-07ec-4842-9dea-e915735731ee",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nia Akosua",
+    "metadata": {
+      "age": 27,
+      "accent": "Subtle Bristolian",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "University Student",
+      "languages": "English",
+      "birth_date": "1997-01-15",
+      "zodiac_sign": "Capricorn",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Curious",
+        "Impatient",
+        "Oversharing",
+        "Cautious",
+        "Principled",
+        "Resourceful",
+        "Determined"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Prefer not to say",
+      "height_centimeters": 165,
+      "city_town": "Bristol",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "niaakosua",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Piercings",
+        "Long hair",
+        "Scars"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Irregular",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bristol, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed significant socio-economic disparity and environmental destruction during two years of solo international travel, informing deep seated concerns about global inequality.",
+      "income_range": "Under 20k",
+      "career_stage": "Student",
+      "work_environment": "Co-working space",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Anxious"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Justice",
+        "Community",
+        "Integrity",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Social contract"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Live events",
+        "Streaming services"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:41:10.506+00:00",
+  "updated_at": "2025-11-14T23:31:40.468Z",
+  "version": 12
+}

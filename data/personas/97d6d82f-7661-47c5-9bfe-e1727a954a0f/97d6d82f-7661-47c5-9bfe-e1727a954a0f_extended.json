@@ -1,0 +1,59 @@
+{
+  "id": "97d6d82f-7661-47c5-9bfe-e1727a954a0f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Scars",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced significant early responsibility, financial hardship during childhood, and is currently navigating a high-conflict separation.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Pragmatic",
+        "Religious"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Music",
+        "Books"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Rideshare"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

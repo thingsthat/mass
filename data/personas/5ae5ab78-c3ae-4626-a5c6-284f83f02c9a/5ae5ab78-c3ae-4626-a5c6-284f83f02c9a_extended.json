@@ -1,0 +1,63 @@
+{
+  "id": "5ae5ab78-c3ae-4626-a5c6-284f83f02c9a",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Brixton, South London",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessing systemic inequalities during his upbringing, which shaped his sense of justice.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Integrity",
+        "Justice",
+        "Community",
+        "Responsibility",
+        "Knowledge"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

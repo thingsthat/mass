@@ -1,0 +1,60 @@
+{
+  "id": "8f99ea1d-08b7-4c19-8524-2c66d4e67d86",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bristol, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the typical ups and downs of life and career, overcoming challenges through resilience, but no specific severe trauma has been mentioned.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Integrity",
+        "Community",
+        "Growth",
+        "Pragmatic",
+        "Respect"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

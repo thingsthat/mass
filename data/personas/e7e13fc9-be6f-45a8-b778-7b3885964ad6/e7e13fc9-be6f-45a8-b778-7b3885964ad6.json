@@ -1,0 +1,132 @@
+{
+  "id": "e7e13fc9-be6f-45a8-b778-7b3885964ad6",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Makena Jabari",
+    "metadata": {
+      "age": 31,
+      "accent": "Soft South African accent, blended with American English",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "Black",
+      "job_title": "Operations Coordinator",
+      "languages": "English",
+      "birth_date": "1993-08-28",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Outgoing",
+        "Philosophical",
+        "Analytical",
+        "Curious",
+        "Insightful",
+        "Disciplined"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Atlanta",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "mjabari",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Johannesburg, South Africa, and Atlanta, Georgia, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced minor isolation and cultural identity friction growing up between South African and American cultures, which fostered her philosophical and empathetic approach to diversity.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Compassion",
+        "Growth",
+        "Authenticity",
+        "Responsibility"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Documentaries",
+        "Books",
+        "Music",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:18:44.521+00:00",
+  "updated_at": "2025-11-14T23:32:05.955Z",
+  "version": 12
+}

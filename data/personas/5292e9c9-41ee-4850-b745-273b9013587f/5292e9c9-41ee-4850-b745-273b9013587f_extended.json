@@ -1,0 +1,59 @@
+{
+  "id": "5292e9c9-41ee-4850-b745-273b9013587f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "social_circle_size": "Medium",
+      "childhood_location": "Outskirts of Cambridge",
+      "family_structure": "Adoptive",
+      "trauma_history": "Experienced the complexities of adoption and the challenges of single parenthood at a young age.",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "37ca492b-0bac-432f-856b-a1f0a4752bf5",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Scars",
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Manchester Suburb, United Kingdom",
+      "family_structure": "Single parent",
+      "trauma_history": "Navigating extreme financial instability and societal judgment after becoming a parent as a teenager.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Utilitarian",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

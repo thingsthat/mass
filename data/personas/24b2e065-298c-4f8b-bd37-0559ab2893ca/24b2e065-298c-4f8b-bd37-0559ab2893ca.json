@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lennox Sterling",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Caribbean",
+      "accent": "British Caribbean",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Manufacturing",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Fiercely Independent",
+        "Cautious",
+        "Analytical",
+        "Environmentally Principled",
+        "Gregarious",
+        "Detail-Oriented",
+        "Introspective"
+      ],
+      "job_title": "Production Supervisor",
+      "relationship_status": "separated",
+      "political_leaning": "Conservative",
+      "birth_date": "1969-07-28",
+      "zodiac_sign": "Leo",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Birmingham"
+    },
+    "username": "lennoxsterling"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:43:26.642Z",
+  "updated_at": "2025-11-14T23:31:10.682Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "24b2e065-298c-4f8b-bd37-0559ab2893ca"
+}

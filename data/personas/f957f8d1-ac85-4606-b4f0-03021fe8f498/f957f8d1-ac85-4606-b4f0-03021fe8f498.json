@@ -1,0 +1,44 @@
+{
+  "id": "f957f8d1-ac85-4606-b4f0-03021fe8f498",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elias Valbuena",
+    "metadata": {
+      "age": 31,
+      "accent": "London (Multicultural English)",
+      "gender": "genderfluid",
+      "location": "United Kingdom",
+      "pronouns": "prefer not to say",
+      "education": "Some college or university",
+      "ethnicity": "Hispanic",
+      "job_title": "Social Media Manager (Political Campaigns)",
+      "languages": "English",
+      "birth_date": "1993-08-28",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Technology",
+      "political_leaning": "Populist",
+      "personality_traits": [
+        "Diplomatic",
+        "Meticulous",
+        "Charismatic",
+        "Strategic",
+        "Principled",
+        "Adaptable",
+        "Perceptive"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 172,
+      "city_town": "Manchester",
+      "sexual_orientation": "queer"
+    },
+    "username": "evalbuena"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T15:08:57.488+00:00",
+  "updated_at": "2025-11-14T23:32:12.318Z",
+  "version": 12
+}

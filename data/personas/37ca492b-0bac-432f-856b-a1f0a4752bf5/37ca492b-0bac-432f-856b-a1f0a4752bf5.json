@@ -1,0 +1,136 @@
+{
+  "id": "37ca492b-0bac-432f-856b-a1f0a4752bf5",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Clara Beaumont",
+    "metadata": {
+      "age": 31,
+      "accent": "Northern English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "prefer not to say",
+      "education": "Vocational or technical training",
+      "ethnicity": "Prefer not to say",
+      "job_title": "Construction Site Supervisor",
+      "languages": "English",
+      "birth_date": "1992-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Construction",
+      "political_leaning": "Conservative",
+      "personality_traits": [
+        "Analytical",
+        "Pragmatic",
+        "Principled",
+        "Resourceful",
+        "Observant",
+        "Independent"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "clara_beaumont",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Scars",
+        "None notable"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Manchester Suburb, United Kingdom",
+      "family_structure": "Single parent",
+      "trauma_history": "Navigating extreme financial instability and societal judgment after becoming a parent as a teenager.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Field",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Practical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Independence",
+        "Growth",
+        "Success"
+      ],
+      "moral_framework": [
+        "Utilitarian",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T15:13:05.039+00:00",
+  "updated_at": "2025-11-14T23:31:15.922Z",
+  "version": 12
+}

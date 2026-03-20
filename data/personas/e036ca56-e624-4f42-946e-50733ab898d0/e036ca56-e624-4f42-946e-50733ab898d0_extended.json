@@ -1,0 +1,61 @@
+{
+  "id": "e036ca56-e624-4f42-946e-50733ab898d0",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Rarely",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Cambridge, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "While no specific trauma is detailed, his cautious and risk-averse nature, perhaps cultivated over a long career in finance, suggests a strong preference for stability and avoiding unforeseen challenges.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Security",
+        "Stability",
+        "Responsibility"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

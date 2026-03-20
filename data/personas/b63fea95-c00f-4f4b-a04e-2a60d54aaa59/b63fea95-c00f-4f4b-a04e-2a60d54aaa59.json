@@ -1,0 +1,43 @@
+{
+  "id": "b63fea95-c00f-4f4b-a04e-2a60d54aaa59",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zamir Abbas",
+    "metadata": {
+      "age": 48,
+      "accent": "Standard Southern British with a subtle London lilt",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Vocational or technical training",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Senior Exhibition Designer",
+      "languages": "English",
+      "birth_date": "1976-10-05",
+      "zodiac_sign": "Libra",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "observant",
+        "diplomatic",
+        "thoughtful",
+        "creative",
+        "authentic",
+        "grounded"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Muslim",
+      "height_centimeters": 178,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "zamir_abbas"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:49:15.877+00:00",
+  "updated_at": "2025-11-14T23:31:51.360Z",
+  "version": 14
+}

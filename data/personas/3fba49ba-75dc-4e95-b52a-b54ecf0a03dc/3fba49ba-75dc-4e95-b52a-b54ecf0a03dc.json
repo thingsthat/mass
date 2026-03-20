@@ -1,0 +1,135 @@
+{
+  "id": "3fba49ba-75dc-4e95-b52a-b54ecf0a03dc",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Orrin Okoroafor",
+    "metadata": {
+      "age": 26,
+      "accent": "Soft, melodic South London accent with hints of Nigerian intonation, especially when excited or passionate.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "Black",
+      "job_title": "Program Coordinator",
+      "languages": "English",
+      "birth_date": "1997-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Insightful",
+        "Empathetic",
+        "Resilient",
+        "Diplomatic",
+        "Adventurous",
+        "Curious about others",
+        "Lives with intention"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Brixton",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "ookoroafor",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "South London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Navigated significant personal challenges relating to gender identity and societal acceptance within her community, fostering deep resilience.",
+      "income_range": "20k-40k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Seeking support",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Collaborative",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Community",
+        "Compassion",
+        "Authenticity",
+        "Growth",
+        "Justice"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Music",
+        "Streaming services",
+        "Live events",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:56:50.141+00:00",
+  "updated_at": "2025-11-14T23:31:18.065Z",
+  "version": 14
+}

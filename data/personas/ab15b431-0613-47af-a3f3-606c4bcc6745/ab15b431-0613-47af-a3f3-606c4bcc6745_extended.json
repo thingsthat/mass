@@ -1,0 +1,59 @@
+{
+  "id": "ab15b431-0613-47af-a3f3-606c4bcc6745",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings"
+      ],
+      "disabilities": [
+        "Mental health condition"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Caffeine",
+        "None"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "History of serious substance use disorder; spent 3 years in witness protection due to political and safety concerns.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

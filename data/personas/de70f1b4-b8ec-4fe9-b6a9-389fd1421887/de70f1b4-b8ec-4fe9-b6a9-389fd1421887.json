@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Keziah Reid",
+    "metadata": {
+      "age": 28,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Caribbean",
+      "accent": "British English with a subtle Cambridge lilt and occasional Jamaican inflections, especially when relaxed or speaking passionately",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Marketing & Advertising",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Perfectionist",
+        "Analytical",
+        "Resilient",
+        "Introverted",
+        "Quirky",
+        "Principled",
+        "Nurturing"
+      ],
+      "job_title": "Senior Social Media Strategist",
+      "relationship_status": "single",
+      "political_leaning": "Liberal",
+      "birth_date": "1996-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Cambridge"
+    },
+    "username": "keziah_reid"
+  },
+  "type": "persona",
+  "created_at": "2025-11-05T16:25:17.793Z",
+  "updated_at": "2025-11-14T23:32:02.934Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "de70f1b4-b8ec-4fe9-b6a9-389fd1421887"
+}

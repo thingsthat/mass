@@ -1,0 +1,136 @@
+{
+  "id": "41a6da15-ac89-4581-8e01-20542b2091c9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Cedric Pembroke",
+    "metadata": {
+      "age": 58,
+      "accent": "A warm, slightly formal British accent, reminiscent of a seasoned academic.",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Freelance Archival Researcher",
+      "languages": "English",
+      "job_industry": "Media & Entertainment",
+      "personality_traits": [
+        "Mentally Tough",
+        "Driven",
+        "Playful (subtly)",
+        "Open-minded",
+        "Insightful",
+        "Introverted",
+        "Thoughtful"
+      ],
+      "relationship_status": "widowed",
+      "sexual_orientation": "heterosexual",
+      "political_leaning": "Centrist",
+      "birth_date": "1966-03-22",
+      "zodiac_sign": "Aries",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Cambridge"
+    },
+    "username": "cedricpembroke",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Responsibility",
+        "Peace"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Self-employed",
+      "drugs_status": "Never",
+      "income_range": "100k-150k",
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Walk",
+        "Car owner",
+        "Public transit"
+      ],
+      "trauma_history": "Widowed tragically five years ago, followed shortly after by a life-altering accident involving experimental particles, leaving him with powers and profound responsibility, resulting in chronic grief and internal conflict.",
+      "moral_framework": [
+        "Utilitarian",
+        "Pragmatic"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Value-seeking",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "attachment_style": "Avoidant",
+      "career_ambitions": "Passion pursuing",
+      "diet_preferences": "Omnivore",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Very satisfied",
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Hybrid",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "E-reader"
+      ],
+      "childhood_location": "Oxford, England",
+      "chronic_conditions": [
+        "Sleep disorder"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Light",
+      "therapy_experience": "Open to it",
+      "communication_style": "Analytical",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "mental_health_status": "Struggling",
+      "relationship_history": [
+        "Married once",
+        "Widowed",
+        "Long-term relationships"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Music"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T10:10:02.353+00:00",
+  "updated_at": "2025-11-14T23:31:19.073Z",
+  "version": 8
+}

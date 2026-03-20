@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mateo Rylann",
+    "metadata": {
+      "age": 33,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Hispanic",
+      "accent": "A subtle Manchester accent, overlaid with the precise diction of someone who learned English as a second language but now speaks it fluently, occasionally exhibiting a slight melodic lilt from his Spanish heritage.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Ambitious",
+        "Impatient",
+        "Kind",
+        "Analytical",
+        "Creative Problem-Solver",
+        "Driven"
+      ],
+      "job_title": "Clinical Research Coordinator",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1991-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "mrylann",
+    "connections": [
+      {
+        "persona_id": "8778641f-9344-4fa4-bd74-1f3844fe36ad",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Marisol Rylann"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:52:57.978Z",
+  "updated_at": "2025-11-14T23:31:45.124Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "a2731615-dcc0-4da8-a04d-d47a8f27f8c5"
+}

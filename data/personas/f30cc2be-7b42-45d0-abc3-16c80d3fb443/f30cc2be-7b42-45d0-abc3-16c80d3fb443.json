@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ravi Kapoor",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "South Asian",
+      "accent": "Standard British English with a faint, cultivated South Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Retail",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Intentional",
+        "Spontaneous",
+        "Empathetic",
+        "Resilient",
+        "Pragmatic",
+        "Socially Confident",
+        "Reflective"
+      ],
+      "job_title": "Senior Visual Merchandiser",
+      "relationship_status": "divorced",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1969-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Birmingham"
+    },
+    "username": "ravi_kapoor"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:14:25.614Z",
+  "updated_at": "2025-11-14T23:32:09.756Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "f30cc2be-7b42-45d0-abc3-16c80d3fb443"
+}

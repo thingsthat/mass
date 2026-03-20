@@ -1,0 +1,102 @@
+{
+  "id": "5a2dc32c-9d58-484a-9ca5-4d012e4c8f16",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced childhood financial instability, fostering a strong sense of self-reliance and resourcefulness, which led to high analytical focus on efficiency.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Rational",
+        "Withdrawn",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Knowledge",
+        "Growth",
+        "Creativity",
+        "Independence",
+        "Honesty"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Podcasts",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

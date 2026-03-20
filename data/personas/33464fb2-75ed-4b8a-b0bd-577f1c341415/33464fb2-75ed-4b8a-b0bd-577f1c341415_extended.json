@@ -1,0 +1,58 @@
+{
+  "id": "33464fb2-75ed-4b8a-b0bd-577f1c341415",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "East London",
+      "family_structure": "Nuclear",
+      "trauma_history": "None notable",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Religious",
+        "Deontological"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

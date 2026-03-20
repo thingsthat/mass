@@ -1,0 +1,61 @@
+{
+  "id": "f2becf24-5f86-4715-afa6-0fdae7968679",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Tobacco"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "Durban, South Africa",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced cultural displacement and financial strain following emigration, which catalyzed his mental toughness and resilience.",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Gaming",
+        "Documentaries",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

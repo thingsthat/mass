@@ -1,0 +1,135 @@
+{
+  "id": "1f352ad3-3ef5-42de-9ab5-7e50357d43a0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zahra Karim",
+    "metadata": {
+      "age": 23,
+      "accent": "London English with a subtle Egyptian lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Junior Documentary Producer",
+      "languages": "English",
+      "birth_date": "2001-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Intuitive",
+        "Open-minded",
+        "Creative",
+        "Observant",
+        "Empathic",
+        "Ambitious",
+        "Adventure Seeker"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "zahrakarim",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Long hair",
+        "Piercings"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "None",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed community struggles and dealt with pressures related to navigating conflicting cultural expectations (traditional vs. modern/Western ideals) during adolescence.",
+      "income_range": "40k-60k",
+      "career_stage": "Entry-level",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Analytical"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Compassion",
+        "Integrity",
+        "Growth",
+        "Creativity",
+        "Justice"
+      ],
+      "moral_framework": [
+        "Religious",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:46:45.422+00:00",
+  "updated_at": "2025-11-14T23:31:09.186Z",
+  "version": 14
+}

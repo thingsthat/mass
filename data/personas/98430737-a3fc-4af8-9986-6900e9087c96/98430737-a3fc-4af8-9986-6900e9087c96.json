@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Yasmin Al-Farsi",
+    "metadata": {
+      "age": 38,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Middle Eastern",
+      "accent": "Standard British English with a subtle, occasional soft lilt, particularly noticeable when she is relaxed or discussing topics connected to her heritage.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Human Resources",
+      "education": "Associate degree",
+      "personality_traits": [
+        "Idealistic & Hopeful",
+        "Meticulously Organized",
+        "Subtly Eccentric",
+        "Empathic & Supportive",
+        "Self-critical (Prone to Guilt)",
+        "Reflective & Abstract",
+        "Reserved (Initially)"
+      ],
+      "job_title": "HR Generalist",
+      "relationship_status": "in a relationship",
+      "political_leaning": "Centrist",
+      "birth_date": "1985-10-30",
+      "zodiac_sign": "Scorpio",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 165,
+      "city_town": "Manchester"
+    },
+    "username": "yasmin_alfarsi"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:20:12.514Z",
+  "updated_at": "2025-11-14T23:31:41.640Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "98430737-a3fc-4af8-9986-6900e9087c96"
+}

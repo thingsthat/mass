@@ -1,0 +1,43 @@
+{
+  "id": "b81902e1-795d-46f1-b9f5-ffecf16cfcdf",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Muirgen Wallace",
+    "metadata": {
+      "age": 23,
+      "accent": "General American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "White",
+      "job_title": "Freight Dispatcher",
+      "languages": "English",
+      "birth_date": "2001-05-10",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Transportation",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "analytical",
+        "mentally tough",
+        "observant",
+        "grounded",
+        "loyal",
+        "thoughtful"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Christian",
+      "height_centimeters": 165,
+      "city_town": "Baltimore, Maryland",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "muirgen_wallace"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:57:33.49+00:00",
+  "updated_at": "2025-11-14T23:31:52.113Z",
+  "version": 12
+}

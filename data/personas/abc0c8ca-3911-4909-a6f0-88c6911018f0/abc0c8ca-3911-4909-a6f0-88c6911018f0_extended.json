@@ -1,0 +1,99 @@
+{
+  "id": "abc0c8ca-3911-4909-a6f0-88c6911018f0",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Independence",
+        "Integrity",
+        "Growth",
+        "Creativity"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Mid-career",
+      "drugs_status": "Occasional",
+      "income_range": "100k-150k",
+      "learning_style": [
+        "Reading/Writing",
+        "Visual"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Expert",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "trauma_history": "A history of emotional distance and high expectations within an affluent family structure, leading to feelings of being an outsider and a necessity to cultivate intense self-reliance.",
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist",
+        "Pragmatic"
+      ],
+      "parental_status": "Childfree by choice",
+      "spending_habits": "Luxury-focused",
+      "stress_response": [
+        "Rational",
+        "Productive"
+      ],
+      "attachment_style": "Avoidant",
+      "career_ambitions": "Entrepreneurial",
+      "diet_preferences": "No specific diet",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Very satisfied",
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Hybrid",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart TV"
+      ],
+      "childhood_location": "London, United Kingdom",
+      "chronic_conditions": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Moderate",
+      "therapy_experience": "Past",
+      "communication_style": "Assertive",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Long hair"
+      ],
+      "mental_health_status": "Good",
+      "relationship_history": [
+        "Currently single",
+        "Few relationships",
+        "Short-term relationships"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  }
+}

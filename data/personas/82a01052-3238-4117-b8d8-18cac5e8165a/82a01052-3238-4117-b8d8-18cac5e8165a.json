@@ -1,0 +1,98 @@
+{
+  "id": "82a01052-3238-4117-b8d8-18cac5e8165a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Bartholomew Abernathy",
+    "metadata": {
+      "age": 68,
+      "accent": "Geordie",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "religion": "Agnostic",
+      "city_town": "Newcastle upon Tyne",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Independent Abstract Artist & Urban Storyteller",
+      "languages": "English",
+      "birth_date": "1956-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Independent",
+      "height_centimeters": 175,
+      "personality_traits": [
+        "Maverick",
+        "Observant",
+        "Resourceful",
+        "Introspective",
+        "Passionate",
+        "Resilient"
+      ],
+      "relationship_status": "it's complicated",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "babernathy",
+    "metadata_extended": {
+      "body_type": "Average",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "trauma_history": "Loss of a close friend in early adulthood due to mental health struggles, which reinforced his commitment to unconventional living and authentic expression.",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "parental_status": "Empty nester",
+      "spending_habits": "Frugal",
+      "attachment_style": "Avoidant",
+      "diet_preferences": "Omnivore",
+      "family_structure": "Nuclear",
+      "news_consumption": "Moderate",
+      "travel_frequency": "Rare",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INFP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "Gateshead, Tyne and Wear, UK (working-class neighborhood)",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Light",
+      "therapy_experience": "Past",
+      "communication_style": "Direct",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Gray hair"
+      ],
+      "mental_health_status": "Good",
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "environmental_consciousness": "High"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T21:53:45.947+00:00",
+  "updated_at": "2025-11-14T23:31:35.560Z",
+  "version": 8
+}

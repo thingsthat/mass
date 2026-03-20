@@ -1,0 +1,137 @@
+{
+  "id": "e786651b-2ea7-4650-b266-3926f17a169e",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Renuka Singh",
+    "metadata": {
+      "age": 31,
+      "accent": "American English with a subtle South Asian lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "South Asian",
+      "job_title": "Sustainable Farm Manager",
+      "languages": "English",
+      "birth_date": "1992-03-25",
+      "zodiac_sign": "Aries",
+      "job_industry": "Agriculture",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Open-minded",
+        "Curious",
+        "Authentic",
+        "Empathetic",
+        "Resilient",
+        "Adventurous",
+        "Observant"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Burlington",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "rsingh",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Rural Vermont, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigated significant cultural pressure to pursue a more 'traditional' and financially stable career path, leading to periods of self-doubt and isolation before fully embracing her passion for farming.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Field",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Community",
+        "Growth",
+        "Authenticity",
+        "Health",
+        "Independence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Podcasts",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts",
+        "Allergy medication"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:29:53.455+00:00",
+  "updated_at": "2025-11-14T23:32:05.420Z",
+  "version": 12
+}

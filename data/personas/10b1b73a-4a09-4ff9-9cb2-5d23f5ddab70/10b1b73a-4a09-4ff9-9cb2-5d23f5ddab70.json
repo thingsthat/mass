@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Emma Thompson",
+    "metadata": {
+      "age": 42,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Southern English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Currently enrolled",
+      "personality_traits": [
+        "Principled",
+        "Laid-back",
+        "Confrontational",
+        "Analytical",
+        "Resilient",
+        "Empathetic"
+      ],
+      "job_title": "Postgraduate Student",
+      "relationship_status": "divorced",
+      "political_leaning": "Progressive",
+      "birth_date": "1981-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Atheist",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "emmathompson"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:17:07.768Z",
+  "updated_at": "2025-11-14T23:31:05.996Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "10b1b73a-4a09-4ff9-9cb2-5d23f5ddab70"
+}

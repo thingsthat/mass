@@ -1,0 +1,148 @@
+{
+  "id": "1cab4911-f45c-4c2d-909e-fe8b56091d11",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rhona Alvarenga",
+    "metadata": {
+      "age": 41,
+      "accent": "Soft Brazilian Portuguese lilt, with clear, articulate English pronunciation.",
+      "gender": "woman",
+      "location": "Brazil",
+      "pronouns": "they/them",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Hispanic",
+      "job_title": "Retail Operations Director",
+      "languages": "English",
+      "birth_date": "1983-09-28",
+      "zodiac_sign": "Libra",
+      "job_industry": "Retail",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Curious",
+        "Ambitious",
+        "Sensitive",
+        "Analytical",
+        "Grounded",
+        "Diplomatic",
+        "Strategic"
+      ],
+      "relationship_status": "married",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Belo Horizonte",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "rhonaalvarenga",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "S\u00e3o Paulo, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced high burnout and severe anxiety early in career due to extreme work stress; now actively managed through disciplined mindfulness and meditation.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Balance",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart watch"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    },
+    "connections": [
+      {
+        "persona_id": "8495408f-b238-4101-91e6-04151a2fad12",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Mateus Ribeiro"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:32:37.476+00:00",
+  "updated_at": "2025-11-14T23:31:08.532Z",
+  "version": 12
+}

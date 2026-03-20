@@ -1,0 +1,136 @@
+{
+  "id": "87f31cd9-5f3e-47b7-909d-461781b0d6ea",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Isabella Flores",
+    "metadata": {
+      "age": 34,
+      "accent": "Canadian English",
+      "gender": "woman",
+      "location": "Canada",
+      "pronouns": "she/her",
+      "education": "Vocational or technical training",
+      "ethnicity": "Hispanic",
+      "job_title": "Video Editor",
+      "languages": "English",
+      "birth_date": "1990-07-20",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Empathetic",
+        "Authentic",
+        "Creative",
+        "Observant",
+        "Adaptable",
+        "Resourceful",
+        "Disciplined"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Christian",
+      "height_centimeters": 165,
+      "city_town": "Vancouver",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "iflores",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Toronto, Canada",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant anxiety during early career development while navigating professional spaces as a woman of color, but received support and managed to adapt.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Justice",
+        "Growth",
+        "Authenticity",
+        "Family"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Documentaries",
+        "Music",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:43:25.528+00:00",
+  "updated_at": "2025-11-14T23:31:36.888Z",
+  "version": 14
+}

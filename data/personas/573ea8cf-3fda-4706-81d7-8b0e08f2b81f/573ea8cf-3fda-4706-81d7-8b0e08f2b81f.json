@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Arjun Vashistha",
+    "metadata": {
+      "age": 63,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "South Asian",
+      "accent": "British English with a subtle South Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Logical",
+        "Calm Under Pressure",
+        "Intensely Focused",
+        "Reserved",
+        "Principled",
+        "Observant"
+      ],
+      "job_title": "Senior Project Manager, Civil Engineering",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1961-04-15",
+      "zodiac_sign": "Aries",
+      "religion": "Hindu",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 172,
+      "city_town": "Manchester"
+    },
+    "username": "arjun_vashistha",
+    "connections": [
+      {
+        "persona_id": "4e36003b-3233-4657-ac2f-a1c7a1691d0a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Leena Vashistha"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:46:35.039Z",
+  "updated_at": "2025-11-14T23:31:24.022Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "573ea8cf-3fda-4706-81d7-8b0e08f2b81f"
+}

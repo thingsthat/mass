@@ -1,0 +1,44 @@
+{
+  "id": "e7944f42-3288-402b-8844-7b542f683ba9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zafira Elara: The Digital Alchemist",
+    "metadata": {
+      "age": 26,
+      "accent": "Australian with a subtle, melodic lilt often associated with her Middle Eastern heritage",
+      "gender": "genderfluid",
+      "location": "Australia",
+      "pronouns": "she/her",
+      "religion": "Prefer not to say",
+      "city_town": "Sydney",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Independent Digital Alchemist",
+      "languages": "English",
+      "birth_date": "1998-11-15",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Socialist",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Idealistic",
+        "Expressive",
+        "Empathetic",
+        "Highly Anxious",
+        "Non-Conformist",
+        "Creative",
+        "Resilient"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "zelara"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T22:01:05.495+00:00",
+  "updated_at": "2025-11-14T23:32:05.548Z",
+  "version": 8
+}

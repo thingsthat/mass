@@ -1,0 +1,43 @@
+{
+  "id": "499d023f-07b6-4315-bcc0-97baacf7a828",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Catalina Mendoza",
+    "metadata": {
+      "age": 33,
+      "accent": "Standard British English with a subtle Latin influence",
+      "gender": "agender",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "Currently enrolled",
+      "ethnicity": "Latino",
+      "job_title": "PhD Candidate in Environmental Science",
+      "languages": "English",
+      "birth_date": "1991-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Science & Research",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "analytical",
+        "understated",
+        "direct",
+        "compassionate",
+        "resourceful",
+        "idealistic"
+      ],
+      "relationship_status": "prefer not to say",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Bristol",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "cmendoza"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:46:28.701+00:00",
+  "updated_at": "2025-11-14T23:31:21.120Z",
+  "version": 12
+}

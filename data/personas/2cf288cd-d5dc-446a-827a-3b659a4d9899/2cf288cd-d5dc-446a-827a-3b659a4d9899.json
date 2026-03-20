@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rani Sharma",
+    "metadata": {
+      "age": 64,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "South Asian",
+      "accent": "Midlands English with a subtle South Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Diligent",
+        "Empathetic",
+        "Direct",
+        "Community-Oriented",
+        "Pragmatic",
+        "Inquisitive",
+        "Resilient"
+      ],
+      "job_title": "Senior Healthcare Assistant",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1960-02-15",
+      "zodiac_sign": "Aquarius",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 160,
+      "city_town": "Birmingham"
+    },
+    "username": "ranisharma",
+    "connections": [
+      {
+        "persona_id": "aa011d8e-ef3f-47c5-8589-9fa362b73ccc",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Sunil Sharma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:29:03.772Z",
+  "updated_at": "2025-11-14T23:31:12.788Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "2cf288cd-d5dc-446a-827a-3b659a4d9899"
+}

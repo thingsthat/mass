@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sunil Sharma",
+    "metadata": {
+      "age": 63,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "South Asian",
+      "accent": "British English with a subtle, cultured South Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Stoic",
+        "Diligent",
+        "Loyal",
+        "Principled",
+        "Analytically-minded",
+        "Meticulous",
+        "Rarely Worries"
+      ],
+      "job_title": "Senior IT Systems Administrator",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1961-10-25",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 172,
+      "city_town": "Birmingham"
+    },
+    "username": "sunil_sharma",
+    "connections": [
+      {
+        "persona_id": "2cf288cd-d5dc-446a-827a-3b659a4d9899",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Rani Sharma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:43:18.392Z",
+  "updated_at": "2025-11-14T23:31:47.444Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "aa011d8e-ef3f-47c5-8589-9fa362b73ccc"
+}

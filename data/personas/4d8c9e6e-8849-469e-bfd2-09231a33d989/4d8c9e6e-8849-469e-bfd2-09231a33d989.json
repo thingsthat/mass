@@ -1,0 +1,133 @@
+{
+  "id": "4d8c9e6e-8849-469e-bfd2-09231a33d989",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Imani Khalfani",
+    "metadata": {
+      "age": 32,
+      "accent": "London (multicultural English)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "UX Designer",
+      "languages": "English",
+      "birth_date": "1992-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Philosophical",
+        "Grounded",
+        "Curious",
+        "Empathetic",
+        "Resilient",
+        "Adaptable"
+      ],
+      "relationship_status": "single",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "imanikhalfani",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, United Kingdom",
+      "family_structure": "Extended",
+      "trauma_history": "Navigating cultural identity conflicts and microaggressions related to her British-Somali heritage throughout childhood and early career.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Compassion",
+        "Integrity",
+        "Growth",
+        "Community",
+        "Justice"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-02T12:34:12.918+00:00",
+  "updated_at": "2025-11-14T23:31:22.261Z",
+  "version": 14
+}

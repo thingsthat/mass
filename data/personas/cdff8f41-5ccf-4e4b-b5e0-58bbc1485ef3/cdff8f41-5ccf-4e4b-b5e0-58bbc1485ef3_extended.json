@@ -1,0 +1,62 @@
+{
+  "id": "cdff8f41-5ccf-4e4b-b5e0-58bbc1485ef3",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "quaint, traditional market town in the South West of England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed a close childhood friend make hasty, ill-considered financial decisions leading to hardship, which solidified Jonathan’s belief in methodical planning and due diligence.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Compassion",
+        "Responsibility",
+        "Community"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

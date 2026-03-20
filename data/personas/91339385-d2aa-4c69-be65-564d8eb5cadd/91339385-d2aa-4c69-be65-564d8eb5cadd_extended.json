@@ -1,0 +1,60 @@
+{
+  "id": "91339385-d2aa-4c69-be65-564d8eb5cadd",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Large",
+      "childhood_location": "A bustling district of London, in a North African immigrant community",
+      "family_structure": "Nuclear",
+      "trauma_history": "Growing up in a first-generation immigrant household, she likely navigated unique cultural and integration challenges, fostering significant resilience.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Community",
+        "Justice",
+        "Loyalty",
+        "Growth",
+        "Compassion"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Moderate"
+    }
+  }
+}

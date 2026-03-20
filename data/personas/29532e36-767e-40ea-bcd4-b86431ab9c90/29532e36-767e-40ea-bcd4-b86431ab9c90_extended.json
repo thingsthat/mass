@@ -1,0 +1,61 @@
+{
+  "id": "29532e36-767e-40ea-bcd4-b86431ab9c90",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "A working-class industrial town in the Midlands, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced financial hardship and academic challenges during her early career while pursuing her Master's degree.",
+      "myers_briggs_type": "ESTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Family",
+        "Responsibility",
+        "Achievement",
+        "Community",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

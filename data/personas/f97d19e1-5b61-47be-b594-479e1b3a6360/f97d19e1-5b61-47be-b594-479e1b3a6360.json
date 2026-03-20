@@ -1,0 +1,44 @@
+{
+  "id": "f97d19e1-5b61-47be-b594-479e1b3a6360",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Seraphina Quill",
+    "metadata": {
+      "age": 29,
+      "accent": "South London",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Spiritual",
+      "city_town": "Brighton",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Curio Shop Assistant",
+      "languages": "English",
+      "birth_date": "1995-10-30",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Retail",
+      "political_leaning": "Progressive",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Dreamy & Romantic",
+        "Free-Spirited",
+        "Disarmingly Naive",
+        "Eclectic & Curious",
+        "Artistically Inclined",
+        "Emotionally Open",
+        "Commitment-Wary"
+      ],
+      "relationship_status": "open relationship",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "squill"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T21:54:18.469+00:00",
+  "updated_at": "2025-11-14T23:32:12.484Z",
+  "version": 8
+}

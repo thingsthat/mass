@@ -1,0 +1,136 @@
+{
+  "id": "a3d6c8eb-ecd8-4545-9ddf-af8159a8dcb1",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Orion Maxwell",
+    "metadata": {
+      "age": 31,
+      "accent": "North American (subtle Canadian lilt)",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Associate degree",
+      "ethnicity": "White",
+      "job_title": "Field Operations Technician",
+      "languages": "English",
+      "birth_date": "1993-10-31",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Telecommunications",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "Loyal",
+        "Sensitive",
+        "Principled",
+        "Adventurous",
+        "Personable",
+        "Observant"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 180,
+      "city_town": "Portland",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "orionmaxwell",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Small town in rural British Columbia, Canada",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural and emotional isolation when moving solo to the United States in zir early twenties, requiring a period of deep introspection and adjustment.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Field",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Withdrawn",
+        "Rational",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Independence",
+        "Adventure",
+        "Integrity",
+        "Growth",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart watch"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "pansexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:56:13.14+00:00",
+  "updated_at": "2025-11-14T23:31:45.860Z",
+  "version": 12
+}

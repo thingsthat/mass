@@ -1,0 +1,60 @@
+{
+  "id": "fe1b61a3-0b25-4b52-9025-1e0a5bf65dc3",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Seattle, Washington (Chinatown District)",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed and actively addressed systemic racism and economic hardship impacting her immigrant community during her youth, which led to a life dedicated to advocacy.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

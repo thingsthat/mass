@@ -1,0 +1,59 @@
+{
+  "id": "63adbfac-5a0d-45ca-a6fa-64d92e89f1de",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bristol, UK",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced significant financial instability and forced independence in late teens/early twenties following parental divorce and moving abroad alone.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Streaming services"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

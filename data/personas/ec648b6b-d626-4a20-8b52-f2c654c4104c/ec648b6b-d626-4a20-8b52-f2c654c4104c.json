@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anya Reid",
+    "metadata": {
+      "age": 30,
+      "gender": "woman",
+      "pronouns": "they/them",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English with a subtle London lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Hospitality",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Relationship-Focused",
+        "Indirectly Assertive",
+        "Perceptive Listener",
+        "Pragmatic Thinker",
+        "Adaptable",
+        "Subtly Influential",
+        "Loyal"
+      ],
+      "job_title": "Operations Manager",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1994-08-05",
+      "zodiac_sign": "Leo",
+      "religion": "Other",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Manchester"
+    },
+    "username": "anyareid",
+    "connections": [
+      {
+        "persona_id": "acce72f0-0e4c-47e9-a8aa-8dda1692ce4a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Lorcan Gallagher"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:57:51.563Z",
+  "updated_at": "2025-11-14T23:32:07.417Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ec648b6b-d626-4a20-8b52-f2c654c4104c"
+}

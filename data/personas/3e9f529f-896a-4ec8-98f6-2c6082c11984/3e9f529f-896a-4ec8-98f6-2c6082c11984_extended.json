@@ -1,0 +1,61 @@
+{
+  "id": "3e9f529f-896a-4ec8-98f6-2c6082c11984",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Atlanta, Georgia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessing algorithmic biases and its societal impact, which fueled his career in ethical AI.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Integrity",
+        "Justice",
+        "Knowledge",
+        "Community",
+        "Balance"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

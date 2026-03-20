@@ -1,0 +1,43 @@
+{
+  "id": "c118ea0e-e299-4f1b-ab5c-b089488877d1",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kamal Ezzat",
+    "metadata": {
+      "age": 59,
+      "accent": "Distinct French accent, with slight Arabic cadence",
+      "gender": "man",
+      "location": "France",
+      "pronouns": "she/they",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "North African",
+      "job_title": "University Ethics and Policy Lecturer",
+      "languages": "German",
+      "birth_date": "1965-01-08",
+      "zodiac_sign": "Capricorn",
+      "job_industry": "Education",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "creative",
+        "resilient",
+        "insightful",
+        "philosophical",
+        "empathetic",
+        "disciplined"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Marseille",
+      "sexual_orientation": "queer"
+    },
+    "username": "kamal_ezzat"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:36:44.864+00:00",
+  "updated_at": "2025-11-14T23:31:55.710Z",
+  "version": 12
+}

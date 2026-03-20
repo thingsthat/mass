@@ -1,0 +1,59 @@
+{
+  "id": "a116373d-d7f1-4d3d-b2ff-af6ad84e1a76",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Northern industrial town, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced early family difficulties leading to self-reliance; navigated a divorce.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Independence",
+        "Responsibility",
+        "Integrity",
+        "Security",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Traditional TV",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

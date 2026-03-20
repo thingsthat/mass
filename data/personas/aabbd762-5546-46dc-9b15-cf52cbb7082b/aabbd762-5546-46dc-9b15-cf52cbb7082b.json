@@ -1,0 +1,44 @@
+{
+  "id": "aabbd762-5546-46dc-9b15-cf52cbb7082b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kaelani Rhys",
+    "metadata": {
+      "age": 22,
+      "accent": "Bristolian English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Prefer not to say",
+      "city_town": "Bristol",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Healthcare Assistant",
+      "languages": "English",
+      "birth_date": "2002-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Healthcare",
+      "political_leaning": "Populist",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Resilient",
+        "Stubborn",
+        "Insightful",
+        "Decisive",
+        "Pragmatic",
+        "Protective",
+        "Optimistic (Cautiously)"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "kaelanirhys"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:56:21.351+00:00",
+  "updated_at": "2025-11-14T23:31:47.957Z",
+  "version": 5
+}

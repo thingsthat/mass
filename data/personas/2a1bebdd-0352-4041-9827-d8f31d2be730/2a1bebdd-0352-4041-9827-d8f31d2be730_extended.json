@@ -1,0 +1,58 @@
+{
+  "id": "2a1bebdd-0352-4041-9827-d8f31d2be730",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Small",
+      "childhood_location": "London, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced emotional neglect in a highly intellectual, disciplined family environment during childhood, leading to reliance on external structure and logic.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

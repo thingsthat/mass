@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elena Aldana",
+    "metadata": {
+      "age": 52,
+      "gender": "woman",
+      "pronouns": "they/them",
+      "ethnicity": "Hispanic",
+      "accent": "Standard Canadian English with a subtle melodic lilt.",
+      "location": "Canada",
+      "languages": "English",
+      "job_industry": "Media & Entertainment",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Empathetic",
+        "Insecure",
+        "Pragmatic",
+        "Diligent",
+        "Guarded",
+        "Principled"
+      ],
+      "job_title": "Senior Documentary Producer",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1972-04-15",
+      "zodiac_sign": "Aries",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Toronto"
+    },
+    "username": "elena_aldana",
+    "connections": [
+      {
+        "persona_id": "a19381fa-ecc5-4958-996c-8befec8ed37f",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Ramiro Aldana"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:56:21.451Z",
+  "updated_at": "2025-11-14T23:31:24.140Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "585dc790-78b9-4216-8144-d8cc1eb7f072"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "00f40e20-1115-4cf0-89ff-dac4d8d054ab",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Veer Kothari",
+    "metadata": {
+      "age": 23,
+      "accent": "London (subtly influenced by his heritage)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Athletic Performance Coach",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Sports & Recreation",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Humble",
+        "Outgoing",
+        "Creative",
+        "Analytical",
+        "Passionate about Sustainability",
+        "Observant",
+        "Innovative"
+      ],
+      "relationship_status": "single",
+      "religion": "Hindu",
+      "height_centimeters": 175,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "vkothari",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "None"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Sustained a significant knee injury during youth football, ending playing aspirations. This ignited his passion for injury prevention and holistic recovery.",
+      "income_range": "40k-60k",
+      "career_stage": "Entry-level",
+      "work_environment": "Field",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Collaborative"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Growth",
+        "Compassion",
+        "Responsibility",
+        "Innovation",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart watch"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Music",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently single",
+        "Few relationships"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:48:04.75+00:00",
+  "updated_at": "2025-11-14T23:31:01.565Z",
+  "version": 15
+}

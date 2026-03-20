@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Paul Harrison",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "White",
+      "accent": "Refined Standard British English, with a soft Bristolian lilt that surfaces when relaxed or impassioned.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Human Resources",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Meticulous",
+        "Analytical",
+        "Reserved",
+        "Principled",
+        "Resilient",
+        "Calm",
+        "Thoughtful"
+      ],
+      "job_title": "Senior HR Business Partner",
+      "relationship_status": "separated",
+      "political_leaning": "Liberal",
+      "birth_date": "1970-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Bristol"
+    },
+    "username": "pharrison"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:13:28.471Z",
+  "updated_at": "2025-11-14T23:32:07.539Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ed04fc47-b767-44ba-a3b9-9640498739d0"
+}

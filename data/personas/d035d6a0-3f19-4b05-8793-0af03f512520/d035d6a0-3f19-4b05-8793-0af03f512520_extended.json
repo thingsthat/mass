@@ -1,0 +1,65 @@
+{
+  "id": "d035d6a0-3f19-4b05-8793-0af03f512520",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Birmingham, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "A long-term, on-again-off-again relationship has presented significant emotional challenges, forcing him to confront his introverted tendencies and need for control.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Justice",
+        "Responsibility",
+        "Growth",
+        "Freedom"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Desktop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Music",
+        "Streaming services"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

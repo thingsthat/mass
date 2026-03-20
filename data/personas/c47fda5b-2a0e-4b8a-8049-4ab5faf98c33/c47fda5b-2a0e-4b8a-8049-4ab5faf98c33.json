@@ -1,0 +1,137 @@
+{
+  "id": "c47fda5b-2a0e-4b8a-8049-4ab5faf98c33",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aoibh\u00ednn Dubois",
+    "metadata": {
+      "age": 58,
+      "accent": "French-Irish (subtle, melodic cadence)",
+      "gender": "woman",
+      "location": "France",
+      "pronouns": "she/they",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Global Programs Development Officer",
+      "languages": "English",
+      "birth_date": "1966-03-05",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Perfectionist",
+        "Analytical",
+        "Charismatic",
+        "Intentional",
+        "Intuitive",
+        "Philosophical",
+        "Resilient"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Lyon",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aoibhnn_dubois82",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair",
+        "Scars",
+        "Freckles"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Dublin, Ireland and various global cities due to parents' NGO work.",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant bureaucratic and ethical challenges working in high-stress, developing regions, leading to long periods of burnout.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Compassion",
+        "Integrity",
+        "Wisdom",
+        "Growth",
+        "Responsibility"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:41:14.87+00:00",
+  "updated_at": "2025-11-14T23:31:56.400Z",
+  "version": 12
+}

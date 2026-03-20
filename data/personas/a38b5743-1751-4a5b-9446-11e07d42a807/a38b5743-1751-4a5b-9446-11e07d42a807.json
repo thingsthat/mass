@@ -1,0 +1,44 @@
+{
+  "id": "a38b5743-1751-4a5b-9446-11e07d42a807",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kaelen Li",
+    "metadata": {
+      "age": 22,
+      "accent": "Slight Cardiff lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Some college or university",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Biology Undergraduate & Research Assistant",
+      "languages": "English",
+      "birth_date": "2002-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Student",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "principled",
+        "humble",
+        "charismatic",
+        "analytical",
+        "curious",
+        "adventurous",
+        "thoughtful"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Cardiff",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "kli"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:49:33.93+00:00",
+  "updated_at": "2025-11-14T23:31:45.732Z",
+  "version": 14
+}

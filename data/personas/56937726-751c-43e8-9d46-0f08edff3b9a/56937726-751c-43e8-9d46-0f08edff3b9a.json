@@ -1,0 +1,136 @@
+{
+  "id": "56937726-751c-43e8-9d46-0f08edff3b9a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Astrid Solhaug",
+    "metadata": {
+      "age": 58,
+      "accent": "Norwegian-tinged British English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Boutique Hotel Manager",
+      "languages": "English",
+      "birth_date": "1966-03-20",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Hospitality",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Curious about others",
+        "Spontaneous",
+        "Lives with intention",
+        "Observant",
+        "Creative",
+        "Insightful",
+        "Adaptable"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "astridsolhaug",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Long hair",
+        "Freckles"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Coastal Norway (small town)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced cultural displacement as a teenager, leading to years of feeling like an outsider and needing to adapt quickly.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Analytical"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Authenticity",
+        "Creativity",
+        "Adventure",
+        "Growth",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Divorced",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:46:17.384+00:00",
+  "updated_at": "2025-11-14T23:31:23.629Z",
+  "version": 14
+}

@@ -1,0 +1,96 @@
+{
+  "id": "03573869-1625-4e91-958a-1afa889726cd",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jamie Davies",
+    "metadata": {
+      "age": 35,
+      "accent": "Standard British English",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Associate degree",
+      "ethnicity": "White",
+      "job_title": "Financial Analyst",
+      "languages": "English",
+      "birth_date": "1988-10-26",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Finance",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Sensitive",
+        "Ambitious",
+        "Analytical",
+        "Disciplined",
+        "Observant",
+        "Resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 170,
+      "city_town": "London",
+      "sexual_orientation": "queer"
+    },
+    "username": "jdavies",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "A smaller, more traditional town outside London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced a period of navigating societal expectations and finding acceptance for their nonbinary identity in a more traditional upbringing.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:45:40.802+00:00",
+  "updated_at": "2025-11-14T23:31:01.825Z",
+  "version": 15
+}

@@ -1,0 +1,61 @@
+{
+  "id": "bfd9f7bd-e20d-4de9-9246-6a93e70cdb16",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "South London",
+      "family_structure": "Nuclear",
+      "trauma_history": "Financial constraints forced early departure from college to support family.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Family",
+        "Integrity",
+        "Responsibility",
+        "Community",
+        "Growth"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Sports",
+        "Museums",
+        "Gaming"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

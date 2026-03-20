@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Audrey Willowby",
+    "metadata": {
+      "age": 58,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Standard Southern English (refined)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Science & Research",
+      "education": "Associate degree",
+      "personality_traits": [
+        "Abstract",
+        "Meticulous",
+        "Pragmatic",
+        "Witty",
+        "Introspective",
+        "Cautious"
+      ],
+      "job_title": "Research Analyst, Environmental Data",
+      "relationship_status": "widowed",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1966-03-05",
+      "zodiac_sign": "Pisces",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Cambridge"
+    },
+    "username": "audreywillowby"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:17:26.799Z",
+  "updated_at": "2025-11-14T23:31:13.583Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "300045ee-517f-47b1-bfe6-bc21190aa69c"
+}

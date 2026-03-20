@@ -1,0 +1,142 @@
+{
+  "id": "4822c229-7c22-4fc4-bdf4-599259fb771b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Seren Haf",
+    "metadata": {
+      "age": 26,
+      "accent": "Soft Welsh accent",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Art Workshop Facilitator",
+      "languages": "English",
+      "birth_date": "1998-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Curious",
+        "Calm Under Pressure",
+        "Grounded",
+        "Creative",
+        "Intuitive",
+        "Morning Person"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Cardiff",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "serenhaf",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Rural coastal West Wales, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Brief history of severe anxiety in early university years, managed through therapy and art practice; now stable and grounded.",
+      "income_range": "20k-40k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Emotion-based",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Creativity",
+        "Compassion",
+        "Community",
+        "Growth",
+        "Authenticity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Music",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:57:47.746+00:00",
+  "updated_at": "2025-11-14T23:31:20.886Z",
+  "version": 14
+}

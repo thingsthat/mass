@@ -1,0 +1,43 @@
+{
+  "id": "ab3c6268-d30a-4b33-abfa-a7c79e2ce11c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zoraida Flores",
+    "metadata": {
+      "age": 23,
+      "accent": "mild Bristolian lilt, softened by international roots",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Agnostic",
+      "city_town": "Bristol",
+      "education": "Currently enrolled",
+      "ethnicity": "Multiracial",
+      "job_title": "Nursing Assistant (Trainee)",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Healthcare",
+      "political_leaning": "Liberal",
+      "height_centimeters": 162,
+      "personality_traits": [
+        "Observant",
+        "Open-minded",
+        "Resilient",
+        "Practical",
+        "Empathetic",
+        "Driven"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "zoraidaflores"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:54:20.379+00:00",
+  "updated_at": "2025-11-14T23:31:48.196Z",
+  "version": 5
+}

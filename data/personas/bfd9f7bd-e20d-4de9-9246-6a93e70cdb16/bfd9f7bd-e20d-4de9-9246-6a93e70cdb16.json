@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stephen Smith",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "they/them",
+      "ethnicity": "Black",
+      "accent": "General British English, with a slight Northern lilt from Manchester",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Hospitality",
+      "education": "Some college or university",
+      "personality_traits": [
+        "Hands-on",
+        "Diligent",
+        "Pragmatic",
+        "Reserved",
+        "Loyal",
+        "Observant",
+        "Gets overwhelmed easily"
+      ],
+      "job_title": "Hotel Operations Manager",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1970-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "ssmith",
+    "connections": [
+      {
+        "persona_id": "188ce053-86d0-42ba-8521-a37fe1deec47",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Patricia Taylor"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:11:12.906Z",
+  "updated_at": "2025-11-14T23:31:55.149Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "bfd9f7bd-e20d-4de9-9246-6a93e70cdb16"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "8b048b16-7795-46a2-8e2d-9441e3daa6b3",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "London, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "While Shirin herself didn't experience civil unrest, her parents' immigration from Beirut after years of conflict has subtly shaped her appreciation for stability, resilience, and a nuanced understanding of global challenges.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Growth",
+        "Community",
+        "Respect"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Audiobooks",
+        "Documentaries",
+        "Museums",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

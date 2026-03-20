@@ -1,0 +1,60 @@
+{
+  "id": "19dd4f1f-f5a1-48f5-b9eb-8734426e765b",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "A quaint border town near Chepstow, Wales",
+      "family_structure": "Nuclear",
+      "trauma_history": "No significant trauma explicitly detailed, though navigating dual cultural identities presented unique challenges.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Justice",
+        "Integrity",
+        "Knowledge",
+        "Community",
+        "Growth"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Movies",
+        "Gaming"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

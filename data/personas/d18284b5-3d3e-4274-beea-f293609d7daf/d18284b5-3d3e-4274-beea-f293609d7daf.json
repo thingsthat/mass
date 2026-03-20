@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Fiona Carling",
+    "metadata": {
+      "age": 58,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "White",
+      "accent": "Standard British English (subtly West Country)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Nonprofit",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Realistic",
+        "Solitary",
+        "Empathetic",
+        "Intuitive",
+        "Direct",
+        "Resilient",
+        "Openly Expressive"
+      ],
+      "job_title": "Programme Director, Community Outreach",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1966-04-12",
+      "zodiac_sign": "Aries",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "fionacarling",
+    "connections": [
+      {
+        "persona_id": "d96521d1-9469-4b9b-a39a-5ef499573191",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Ellis Carling"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:03:10.107Z",
+  "updated_at": "2025-11-14T23:31:59.736Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "d18284b5-3d3e-4274-beea-f293609d7daf"
+}

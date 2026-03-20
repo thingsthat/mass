@@ -1,0 +1,136 @@
+{
+  "id": "0c7030d2-0b5d-42b6-937a-6e9bf6227cc1",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Clover Hawthorne",
+    "metadata": {
+      "age": 33,
+      "accent": "General American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed",
+      "job_title": "Data Ethicist",
+      "languages": "English",
+      "birth_date": "1991-03-20",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Insightful",
+        "Observant",
+        "Analytical",
+        "Resourceful",
+        "Thoughtful",
+        "Curious",
+        "Disciplined"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Austin",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "cloverhawthorne",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Los Angeles, California",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed and internalized the emotional burden of systemic injustice and economic hardship in her childhood community, driving her current professional focus on ethical systems.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Visual"
+      ],
+      "core_values": [
+        "Integrity",
+        "Justice",
+        "Growth",
+        "Knowledge",
+        "Authenticity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:26:10.612+00:00",
+  "updated_at": "2025-11-14T23:31:05.256Z",
+  "version": 14
+}

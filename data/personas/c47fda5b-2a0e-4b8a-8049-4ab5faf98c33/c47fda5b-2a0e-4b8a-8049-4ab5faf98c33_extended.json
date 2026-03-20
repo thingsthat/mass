@@ -1,0 +1,59 @@
+{
+  "id": "c47fda5b-2a0e-4b8a-8049-4ab5faf98c33",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Freckles",
+        "Scars"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Dublin, Ireland and various global cities due to parents' NGO work.",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant bureaucratic and ethical challenges working in high-stress, developing regions, leading to long periods of burnout.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

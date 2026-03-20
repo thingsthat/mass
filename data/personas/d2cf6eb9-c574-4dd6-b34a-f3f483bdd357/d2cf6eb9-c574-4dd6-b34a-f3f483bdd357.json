@@ -1,0 +1,136 @@
+{
+  "id": "d2cf6eb9-c574-4dd6-b34a-f3f483bdd357",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lena Chen",
+    "metadata": {
+      "age": 35,
+      "accent": "Mild London accent, though she's lived in Manchester for years.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Senior Healthcare Administrator",
+      "languages": "English",
+      "birth_date": "1989-08-12",
+      "zodiac_sign": "Leo",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Open-minded",
+        "Empathetic",
+        "Observant",
+        "Disciplined",
+        "Resourceful",
+        "Resilient",
+        "Compassionate"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Buddhist",
+      "height_centimeters": 165,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "lena_chen",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Contact lenses",
+        "None notable"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced systemic discrimination and difficulty navigating healthcare systems as a child, influencing her career choice and dedication to patient advocacy.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Office",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Visual"
+      ],
+      "core_values": [
+        "Integrity",
+        "Compassion",
+        "Community",
+        "Justice",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Gaming"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:48:08.357+00:00",
+  "updated_at": "2025-11-14T23:32:00.688Z",
+  "version": 14
+}

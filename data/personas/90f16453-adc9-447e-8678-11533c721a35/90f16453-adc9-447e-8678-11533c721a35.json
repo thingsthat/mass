@@ -1,0 +1,97 @@
+{
+  "id": "90f16453-adc9-447e-8678-11533c721a35",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Safwan Al-Jazairi",
+    "metadata": {
+      "age": 41,
+      "accent": "French (with North African influences)",
+      "gender": "man",
+      "location": "France",
+      "pronouns": "ze/zir",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Middle Eastern",
+      "job_title": "PhD Candidate / Research Assistant",
+      "languages": "English",
+      "birth_date": "1983-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Perfectionist",
+        "Emotionally Intelligent",
+        "Insightful",
+        "Passionate about Sustainability",
+        "Determined",
+        "Observant"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Marseille",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "safwan_aljazairi",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Beard"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Algiers, Algeria and Lyon, France (split upbringing)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced cultural displacement and identity tension following mid-childhood migration; currently dealing with financial strain from a necessary career shift to academia.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:36:01.975+00:00",
+  "updated_at": "2025-11-14T23:31:39.835Z",
+  "version": 12
+}

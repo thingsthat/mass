@@ -1,0 +1,62 @@
+{
+  "id": "7bccd510-3bc4-4dbc-bdce-ae582105deab",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "working-class suburb of Manchester",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced a high-stakes data migration project early in his career that failed spectacularly due to unforeseen complications, leading to a profound appreciation for meticulous preparation and skepticism.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Responsibility",
+        "Loyalty",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Movies",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

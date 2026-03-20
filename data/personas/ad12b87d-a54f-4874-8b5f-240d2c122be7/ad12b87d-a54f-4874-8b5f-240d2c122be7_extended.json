@@ -1,0 +1,62 @@
+{
+  "id": "ad12b87d-a54f-4874-8b5f-240d2c122be7",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "Manchester, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Coming out as homosexual to her parents caused initial challenges, though they eventually became fully accepting and supportive.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Authenticity",
+        "Community",
+        "Compassion",
+        "Justice",
+        "Respect"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Movies",
+        "Documentaries",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "b5649602-8f09-4669-bb94-aa63e4d28dc0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kezia Adichie",
+    "metadata": {
+      "age": 23,
+      "accent": "Soft Australian/New Zealander Blend",
+      "gender": "nonbinary",
+      "location": "New Zealand",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Early-career UX Researcher",
+      "languages": "English",
+      "birth_date": "2001-09-15",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Witty",
+        "Adaptable",
+        "Easygoing",
+        "Empathetic",
+        "Observant",
+        "Grounded"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Wellington",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "keziaadichie",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Brisbane, Australia, and various cities in New Zealand",
+      "family_structure": "Nuclear",
+      "trauma_history": "Brief but frequent cultural displacement due to parental career moves, leading to early development of high adaptability but underlying feelings of rootlessness.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Authenticity",
+        "Freedom",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Gaming",
+        "Documentaries",
+        "Music",
+        "Books"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered",
+        "It's complicated"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "bisexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:31:07.584+00:00",
+  "updated_at": "2025-11-14T23:31:50.990Z",
+  "version": 12
+}

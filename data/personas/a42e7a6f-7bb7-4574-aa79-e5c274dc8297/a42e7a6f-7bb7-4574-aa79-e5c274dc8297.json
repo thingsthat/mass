@@ -1,0 +1,43 @@
+{
+  "id": "a42e7a6f-7bb7-4574-aa79-e5c274dc8297",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eliza Fiore",
+    "metadata": {
+      "age": 23,
+      "accent": "Bristolian with French-Caribbean lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "religion": "Atheist",
+      "city_town": "Bristol",
+      "education": "Currently enrolled",
+      "ethnicity": "Mixed",
+      "job_title": "Student Nurse / Part-time Healthcare Assistant",
+      "languages": "English",
+      "birth_date": "2001-08-28",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Healthcare",
+      "political_leaning": "Moderate-Liberal",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Assertive",
+        "Tactful",
+        "Resilient",
+        "Extroverted",
+        "Empathetic",
+        "Detail-Oriented"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "elizafiore"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T12:13:21.75+00:00",
+  "updated_at": "2025-11-14T23:31:45.988Z",
+  "version": 5
+}

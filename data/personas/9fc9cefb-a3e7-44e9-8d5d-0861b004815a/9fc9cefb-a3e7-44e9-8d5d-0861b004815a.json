@@ -1,0 +1,44 @@
+{
+  "id": "9fc9cefb-a3e7-44e9-8d5d-0861b004815a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Th\u00e9o Durand",
+    "metadata": {
+      "age": 27,
+      "accent": "Subtle French accent",
+      "gender": "man",
+      "location": "Other",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Renewable Energy Project Manager",
+      "languages": "English",
+      "birth_date": "1997-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Energy & Utilities",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "friendly",
+        "adaptable",
+        "analytical",
+        "resourceful",
+        "observant",
+        "thoughtful",
+        "grounded"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 181,
+      "city_town": "Lyon, France",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "tdurand"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:59:33.035+00:00",
+  "updated_at": "2025-11-14T23:31:43.980Z",
+  "version": 14
+}

@@ -1,0 +1,44 @@
+{
+  "id": "be7fe6c4-0ec0-4c9f-9869-cd71bae11c46",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Faelan MacKay",
+    "metadata": {
+      "age": 31,
+      "accent": "Soft Scottish accent, occasionally inflected with a subtle global lilt from early childhood travels.",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "East Asian",
+      "job_title": "Financial Analyst",
+      "languages": "English",
+      "birth_date": "1993-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Finance",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "analytical",
+        "emotionally intelligent",
+        "insightful",
+        "disciplined",
+        "curious",
+        "humble",
+        "observant"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "faelanmackay"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:12:08.127+00:00",
+  "updated_at": "2025-11-14T23:31:54.037Z",
+  "version": 14
+}

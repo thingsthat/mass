@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ethan Beaumont",
+    "metadata": {
+      "age": 31,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English (Received Pronunciation - RP)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Energy & Utilities",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Analytical",
+        "Principled",
+        "Reserved",
+        "Stubborn",
+        "Sensitive",
+        "Perfectionistic",
+        "Overcompensating"
+      ],
+      "job_title": "Senior Research Scientist",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1993-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Edinburgh"
+    },
+    "username": "ethan_beaumont",
+    "connections": [
+      {
+        "persona_id": "3fa540a4-5881-4ac0-a66f-1ae4c21cf8c8",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Indira Maeve Beaumont"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:45:41.642Z",
+  "updated_at": "2025-11-14T23:31:16.411Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "397e46fc-e67f-43c4-ada5-1bafbbc4005e"
+}

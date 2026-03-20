@@ -1,0 +1,56 @@
+{
+  "id": "e7a58a44-5258-40dd-9020-1a723abd14b9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eilis \u00d3 Cuinn",
+    "metadata": {
+      "age": 31,
+      "accent": "Subtle Pacific Northwest",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Art & Design Educator",
+      "languages": "English",
+      "birth_date": "1993-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "creative",
+        "lives with intention",
+        "resourceful",
+        "empathetic",
+        "curious",
+        "imaginative",
+        "thoughtful"
+      ],
+      "relationship_status": "married",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Portland, Oregon",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "ecuinn",
+    "connections": [
+      {
+        "persona_id": "c584be1d-b456-458a-8f60-74fa7f865aca",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Owen Cuinn"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:57:58.408+00:00",
+  "updated_at": "2025-11-14T23:32:05.677Z",
+  "version": 12
+}

@@ -1,0 +1,61 @@
+{
+  "id": "60444ee8-63a3-4d01-97bf-6433abf210f0",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Scars"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Leicester, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Suffered a career-ending knee injury at 18, which crushed his dreams of playing professional football.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Community",
+        "Growth",
+        "Integrity",
+        "Justice",
+        "Family"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Gaming",
+        "Movies"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

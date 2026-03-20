@@ -1,0 +1,58 @@
+{
+  "id": "aa7f0267-4a45-4bc3-96e8-87617f34862f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "West London, England",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed the financial strain and lack of opportunity experienced by working-class families in her community during her youth, which motivated her career path and ethical focus.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Religious",
+        "Consequentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

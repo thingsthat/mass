@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Susan Davies",
+    "metadata": {
+      "age": 58,
+      "gender": "woman",
+      "pronouns": "they/them",
+      "ethnicity": "White",
+      "accent": "Liverpudlian",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "No formal education",
+      "personality_traits": [
+        "Resilient",
+        "Insightful",
+        "Guarded",
+        "Diligent",
+        "Practical",
+        "Reserved",
+        "Observant"
+      ],
+      "job_title": "Site Supervisor",
+      "relationship_status": "prefer not to say",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1965-03-10",
+      "zodiac_sign": "Pisces",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Liverpool"
+    },
+    "username": "susan_davies"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:15:48.191Z",
+  "updated_at": "2025-11-14T23:31:17.671Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "3f363f60-1306-47fc-b7ef-e43289a57c16"
+}

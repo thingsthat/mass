@@ -1,0 +1,63 @@
+{
+  "id": "c03259f3-2ee9-49e2-bc09-5528308d453e",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Coastal cities across the Mediterranean and Atlantic, on a sailboat",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced mother's early death and a nomadic, transient childhood; found public scrutiny from a reality TV show overwhelming; became a single mother at a young age.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Responsibility",
+        "Community",
+        "Growth",
+        "Authenticity",
+        "Service",
+        "Integrity",
+        "Balance"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Other"
+      ],
+      "attachment_style": "Anxious",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Walk",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

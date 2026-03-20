@@ -1,0 +1,60 @@
+{
+  "id": "b304349a-2c90-49d2-b9d5-e29e15211def",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "Mental health condition",
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "trauma_history": "Experienced significant strain and temporary estrangement from family following gender identity realization; history of housing instability during early years in Brighton while establishing freelance career.",
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Frugal",
+      "attachment_style": "Anxious",
+      "diet_preferences": "Vegetarian",
+      "family_structure": "Nuclear",
+      "news_consumption": "Heavy",
+      "travel_frequency": "Occasional",
+      "housing_situation": "Shared housing",
+      "myers_briggs_type": "ENFP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "South London, United Kingdom",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Large",
+      "social_media_usage": "Heavy",
+      "therapy_experience": "Open to it",
+      "communication_style": "Assertive",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings"
+      ],
+      "mental_health_status": "Fair",
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Very open",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  }
+}

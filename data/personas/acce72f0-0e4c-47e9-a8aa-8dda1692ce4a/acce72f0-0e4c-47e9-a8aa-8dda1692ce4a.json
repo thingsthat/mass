@@ -1,0 +1,50 @@
+{
+  "id": "acce72f0-0e4c-47e9-a8aa-8dda1692ce4a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lorcan Gallagher",
+    "metadata": {
+      "age": 31,
+      "accent": "British (London, subtle Irish lilt)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Venture Capitalist",
+      "languages": "English",
+      "job_industry": "Technology",
+      "personality_traits": [
+        "imaginative",
+        "resilient",
+        "open-minded",
+        "curious about others",
+        "disciplined",
+        "analytical",
+        "ambitious"
+      ],
+      "relationship_status": "married",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "lorcan_gallagher",
+    "connections": [
+      {
+        "persona_id": "ec648b6b-d626-4a20-8b52-f2c654c4104c",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Anya Reid"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T00:05:32.167+00:00",
+  "updated_at": "2025-11-14T23:31:48.574Z",
+  "version": 8
+}

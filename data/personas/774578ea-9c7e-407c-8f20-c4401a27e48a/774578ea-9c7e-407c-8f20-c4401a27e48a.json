@@ -1,0 +1,98 @@
+{
+  "id": "774578ea-9c7e-407c-8f20-c4401a27e48a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Thiago Kwame Monteiro",
+    "metadata": {
+      "age": 30,
+      "accent": "Brazilian Portuguese",
+      "gender": "man",
+      "location": "Other",
+      "pronouns": "he/they",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Black",
+      "job_title": "Senior UX/UI Designer",
+      "languages": "English",
+      "birth_date": "1994-06-05",
+      "zodiac_sign": "Gemini",
+      "job_industry": "Technology",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Outgoing",
+        "Confident",
+        "Independent",
+        "Charismatic",
+        "Innovative",
+        "Passionate about Sustainability"
+      ],
+      "relationship_status": "single",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "S\u00e3o Paulo",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "thiago_kwame_mon",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Large",
+      "childhood_location": "Outskirts of S\u00e3o Paulo, Brazil",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed and navigated periods of severe resource scarcity and community instability during childhood, influencing current drive for equity.",
+      "myers_briggs_type": "ENTP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Rideshare",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:31:35.48+00:00",
+  "updated_at": "2025-11-14T23:31:32.300Z",
+  "version": 12
+}

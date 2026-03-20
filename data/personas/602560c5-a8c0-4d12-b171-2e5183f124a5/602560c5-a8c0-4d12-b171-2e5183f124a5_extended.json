@@ -1,0 +1,58 @@
+{
+  "id": "602560c5-a8c0-4d12-b171-2e5183f124a5",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Cardiff, Wales, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Significant childhood illness requiring extended hospitalization, which instilled both a deep fear of vulnerability and a profound dedication to healthcare precision.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Virtue ethics",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

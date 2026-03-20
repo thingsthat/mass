@@ -1,0 +1,44 @@
+{
+  "id": "fba49a99-2dee-431e-bdd1-443bdf98944c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Milo Nkosi-Dupont",
+    "metadata": {
+      "age": 24,
+      "accent": "Cultivated English with a faint French and rhythmic African cadence",
+      "gender": "nonbinary",
+      "location": "France",
+      "pronouns": "ze/zir",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Cybersecurity Analyst (Pen-Testing Focus)",
+      "languages": "English",
+      "birth_date": "1999-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Technology",
+      "political_leaning": "Libertarian",
+      "personality_traits": [
+        "observant",
+        "brave",
+        "mentally tough",
+        "analytical",
+        "resourceful",
+        "disciplined",
+        "ambitious"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Agnostic",
+      "height_centimeters": 170,
+      "city_town": "Marseille",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "milo_nkosidupont"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:39:04.634+00:00",
+  "updated_at": "2025-11-14T23:32:13.238Z",
+  "version": 12
+}

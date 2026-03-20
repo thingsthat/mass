@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Priya Jenkins",
+    "metadata": {
+      "age": 38,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Mixed",
+      "accent": "General British",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Other",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Principled",
+        "Empathetic",
+        "Introspective",
+        "Action-Oriented",
+        "Socially Conscious",
+        "Reserved",
+        "Authenticity-Seeking"
+      ],
+      "job_title": "Ethical Sourcing Consultant",
+      "relationship_status": "polyamorous",
+      "political_leaning": "Liberal",
+      "birth_date": "1986-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Spiritual",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "priya_jenkins"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:17:43.294Z",
+  "updated_at": "2025-11-14T23:31:05.384Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "0d02be30-b40b-43f9-9f36-f3ed4e823945"
+}

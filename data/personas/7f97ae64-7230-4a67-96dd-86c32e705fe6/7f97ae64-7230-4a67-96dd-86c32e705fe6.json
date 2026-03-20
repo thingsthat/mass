@@ -1,0 +1,43 @@
+{
+  "id": "7f97ae64-7230-4a67-96dd-86c32e705fe6",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Isolde Blythe",
+    "metadata": {
+      "age": 38,
+      "accent": "Scottish",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Currently enrolled",
+      "ethnicity": "White",
+      "job_title": "Adult Learning Coordinator & Tutor",
+      "languages": "English",
+      "birth_date": "1986-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Education",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "adventurous",
+        "lives with intention",
+        "outgoing",
+        "resilient",
+        "curious about others",
+        "analytical"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Spiritual",
+      "height_centimeters": 167,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "iblythe"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:20:08.252+00:00",
+  "updated_at": "2025-11-14T23:31:34.720Z",
+  "version": 14
+}

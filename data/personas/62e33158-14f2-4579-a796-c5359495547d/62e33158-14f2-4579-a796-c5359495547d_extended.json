@@ -1,0 +1,60 @@
+{
+  "id": "62e33158-14f2-4579-a796-c5359495547d",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bustling, multicultural neighborhood in West London",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the threatened closure of a beloved community center in her youth, a challenging event that deeply shaped her commitment to social justice and collective action.",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Community",
+        "Responsibility",
+        "Compassion",
+        "Growth",
+        "Integrity"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Gaming"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

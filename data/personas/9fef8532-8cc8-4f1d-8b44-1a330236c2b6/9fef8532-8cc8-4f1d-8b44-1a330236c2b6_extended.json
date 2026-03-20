@@ -1,0 +1,58 @@
+{
+  "id": "9fef8532-8cc8-4f1d-8b44-1a330236c2b6",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Rio de Janeiro, Brazil",
+      "family_structure": "Single parent",
+      "trauma_history": "Early loss of father leading to subsequent financial hardship for the family during formative years.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

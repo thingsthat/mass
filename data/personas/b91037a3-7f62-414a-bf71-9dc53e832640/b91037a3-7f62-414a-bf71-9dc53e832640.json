@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Charlie Turner",
+    "metadata": {
+      "age": 38,
+      "gender": "genderfluid",
+      "pronouns": "they/them",
+      "ethnicity": "White",
+      "accent": "Southern English Accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Honest",
+        "Principled",
+        "Hermit-like",
+        "Overcompensating",
+        "Thoughtful",
+        "Resilient"
+      ],
+      "job_title": "Further Education Tutor",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1986-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Agnostic",
+      "sexual_orientation": "pansexual",
+      "height_centimeters": 172,
+      "city_town": "Bristol"
+    },
+    "username": "charlieturner",
+    "connections": [
+      {
+        "persona_id": "85d6b770-2694-4dc4-8264-d0a0c2b73734",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Alex Turner"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:52:40.879Z",
+  "updated_at": "2025-11-14T23:31:52.478Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "b91037a3-7f62-414a-bf71-9dc53e832640"
+}

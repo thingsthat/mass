@@ -1,0 +1,61 @@
+{
+  "id": "84d4ded4-1195-4417-8d57-a9442b75847f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Pescatarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Southern California, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant internalized stress related to navigating gender identity and cultural expectations within a traditional family structure during adolescence.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "attachment_style": "Anxious",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Current",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

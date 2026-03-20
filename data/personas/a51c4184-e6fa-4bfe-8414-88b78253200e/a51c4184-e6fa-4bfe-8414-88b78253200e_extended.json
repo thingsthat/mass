@@ -1,0 +1,60 @@
+{
+  "id": "a51c4184-e6fa-4bfe-8414-88b78253200e",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Coastal town in New Zealand",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating identity issues associated with mixed heritage and the challenge of leaving his close-knit home environment for solo study abroad in the UK.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

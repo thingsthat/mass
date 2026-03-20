@@ -1,0 +1,44 @@
+{
+  "id": "7ab87933-eb83-481b-8e37-2e0a82b94f27",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anya Chen",
+    "metadata": {
+      "age": 32,
+      "accent": "Standard British English (subtle)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "East Asian",
+      "job_title": "Software Developer",
+      "languages": "English",
+      "birth_date": "1992-01-25",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "intuitive",
+        "empathetic",
+        "analytical",
+        "curious",
+        "resourceful",
+        "calm under pressure",
+        "open-minded"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 163,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "anyachen"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:23:30.085+00:00",
+  "updated_at": "2025-11-14T23:31:33.380Z",
+  "version": 14
+}

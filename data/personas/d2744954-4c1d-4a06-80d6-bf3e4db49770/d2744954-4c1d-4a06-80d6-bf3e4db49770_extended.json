@@ -1,0 +1,62 @@
+{
+  "id": "d2744954-4c1d-4a06-80d6-bf3e4db49770",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "A moderately sized town in Gloucestershire, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating cultural differences and a sense of disconnect as a multiracial, queer individual in a rural upbringing; coming out in their early twenties was a challenging but pivotal experience, solidifying their commitment to authenticity.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Authenticity",
+        "Integrity",
+        "Justice",
+        "Growth",
+        "Community"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Movies",
+        "Gaming",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

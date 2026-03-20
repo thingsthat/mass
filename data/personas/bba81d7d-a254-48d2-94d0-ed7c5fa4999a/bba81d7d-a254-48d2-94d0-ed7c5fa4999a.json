@@ -1,0 +1,40 @@
+{
+  "creator_id": null,
+  "details": {
+    "name": "Elias Mansour",
+    "metadata": {
+      "age": 38,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Middle Eastern",
+      "accent": "Mancunian with Middle Eastern undertones",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_title": "Senior Mortgage Advisor",
+      "job_industry": "Finance",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "hands-on",
+        "energetic",
+        "open-minded",
+        "pragmatic",
+        "patient",
+        "community-oriented"
+      ],
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1986-05-12",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "height_centimeters": 182,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "elias_mansour"
+  },
+  "type": "persona",
+  "created_at": "2026-03-15T23:56:10.093Z",
+  "updated_at": "2026-03-15T23:56:10.093Z",
+  "version": 1,
+  "id": "bba81d7d-a254-48d2-94d0-ed7c5fa4999a"
+}

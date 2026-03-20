@@ -1,0 +1,97 @@
+{
+  "id": "e818cc1e-38ce-4221-b2d2-4bdc443be483",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zafir Emam",
+    "metadata": {
+      "age": 51,
+      "accent": "Soft North African, slightly Americanized",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "she/they",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Senior Grid Optimization Analyst",
+      "languages": "English",
+      "birth_date": "1972-10-23",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Energy & Utilities",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Charismatic",
+        "Confident",
+        "Gentle",
+        "Open-Minded",
+        "Analytical",
+        "Laid-Back",
+        "Expert at Obscure Trivia"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Austin",
+      "sexual_orientation": "queer"
+    },
+    "username": "zafir_emam",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Alexandria, Egypt",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant emotional transition following an amicable divorce five years ago, leading to a deliberate shift in lifestyle priorities.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:40:19.374+00:00",
+  "updated_at": "2025-11-14T23:32:06.084Z",
+  "version": 12
+}

@@ -1,0 +1,43 @@
+{
+  "id": "d956e561-4016-4b19-9b36-d1fbbe566f3b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Devang Moraes",
+    "metadata": {
+      "age": 41,
+      "accent": "Brazilian Portuguese English",
+      "gender": "man",
+      "location": "Brazil",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Lead Data Architect",
+      "languages": "English",
+      "birth_date": "1983-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "principled",
+        "affectionate",
+        "analytical",
+        "ambitious",
+        "resourceful",
+        "observant"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Christian",
+      "height_centimeters": 173,
+      "city_town": "S\u00e3o Paulo",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "devang_moraes"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:34:55.988+00:00",
+  "updated_at": "2025-11-14T23:32:01.998Z",
+  "version": 12
+}

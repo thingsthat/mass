@@ -1,0 +1,60 @@
+{
+  "id": "a17510cc-7767-47bc-bdbd-338c9040dd98",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Scars",
+        "Beard"
+      ],
+      "disabilities": [
+        "PTSD"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Small town outside San Antonio, Texas",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant operational stress and observed traumatic events during deployment, resulting in minor but managed symptoms of hypervigilance.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Music",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Multiple vehicles",
+        "Public transit"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

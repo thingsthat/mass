@@ -1,0 +1,62 @@
+{
+  "id": "706a7e2b-5e56-43e7-b52c-1a41cd90f6e9",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "Mental health condition"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Blackburn, Lancashire, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant economic decline in his hometown leading to factory closures and community upheaval; has grappled with social anxiety since youth.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Family",
+        "Integrity",
+        "Responsibility",
+        "Community",
+        "Tradition"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Sports",
+        "Books",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

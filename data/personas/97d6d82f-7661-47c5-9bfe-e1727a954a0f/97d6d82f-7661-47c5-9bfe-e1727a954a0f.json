@@ -1,0 +1,135 @@
+{
+  "id": "97d6d82f-7661-47c5-9bfe-e1727a954a0f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zara Khan",
+    "metadata": {
+      "age": 45,
+      "accent": "British English (London)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "Primary education",
+      "ethnicity": "Mixed",
+      "job_title": "Head Chef",
+      "languages": "English",
+      "birth_date": "1978-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Hospitality",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Mentally Tough",
+        "Disciplined",
+        "Resilient",
+        "Resourceful",
+        "Independent",
+        "Observant",
+        "Humble"
+      ],
+      "relationship_status": "separated",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "zarakhan",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Scars",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, UK",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced significant early responsibility, financial hardship during childhood, and is currently navigating a high-conflict separation.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Restaurant",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Achievement",
+        "Responsibility",
+        "Community",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Pragmatic",
+        "Religious"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Music",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Chronic pain"
+      ],
+      "medication_usage": [
+        "Pain medication",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Rideshare"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:40:58.005+00:00",
+  "updated_at": "2025-11-14T23:31:41.409Z",
+  "version": 14
+}

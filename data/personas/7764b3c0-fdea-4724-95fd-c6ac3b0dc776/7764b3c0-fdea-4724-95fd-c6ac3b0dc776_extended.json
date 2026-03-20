@@ -1,0 +1,61 @@
+{
+  "id": "7764b3c0-fdea-4724-95fd-c6ac3b0dc776",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Large",
+      "childhood_location": "Melbourne, Australia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed and dealt with significant secondary trauma and high-stress safety risks during frequent field deployments in conflict zones.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

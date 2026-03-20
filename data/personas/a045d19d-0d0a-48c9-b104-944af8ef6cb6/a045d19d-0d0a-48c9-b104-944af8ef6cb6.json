@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marcus Wright",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Multiracial",
+      "accent": "London (Estuary English)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Energy & Utilities",
+      "education": "High school diploma or equivalent",
+      "personality_traits": [
+        "Brave",
+        "Judgmental",
+        "Blunt",
+        "Pragmatic",
+        "Loyal",
+        "Resilient",
+        "Methodical"
+      ],
+      "job_title": "Energy Network Coordinator",
+      "relationship_status": "divorced",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1969-08-10",
+      "zodiac_sign": "Leo",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "London"
+    },
+    "username": "marcuswright"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:54:31.389Z",
+  "updated_at": "2025-11-14T23:31:44.348Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "a045d19d-0d0a-48c9-b104-944af8ef6cb6"
+}

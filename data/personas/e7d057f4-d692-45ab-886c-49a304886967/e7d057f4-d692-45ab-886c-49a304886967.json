@@ -1,0 +1,43 @@
+{
+  "id": "e7d057f4-d692-45ab-886c-49a304886967",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Octave Bergeron",
+    "metadata": {
+      "age": 68,
+      "accent": "Soft Quebecois (English spoken with subtle French intonation)",
+      "gender": "man",
+      "location": "Canada",
+      "pronouns": "prefer not to say",
+      "education": "Vocational or technical training",
+      "ethnicity": "Mixed",
+      "job_title": "Master Beekeeper & Apiary Consultant",
+      "languages": "English",
+      "birth_date": "1956-03-05",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Agriculture",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "curious about others",
+        "creative",
+        "empathetic",
+        "resourceful",
+        "playful",
+        "always learning"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Spiritual",
+      "height_centimeters": 172,
+      "city_town": "Saint-\u00c9tienne-des-Gr\u00e8s",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "octavebergeron"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:43:43.062+00:00",
+  "updated_at": "2025-11-14T23:32:05.830Z",
+  "version": 12
+}

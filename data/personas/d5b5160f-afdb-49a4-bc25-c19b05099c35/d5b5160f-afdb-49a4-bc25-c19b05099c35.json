@@ -1,0 +1,43 @@
+{
+  "id": "d5b5160f-afdb-49a4-bc25-c19b05099c35",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "R\u00edona N\u00ed Bhrolch\u00e1in",
+    "metadata": {
+      "age": 49,
+      "accent": "Soft Australian, slight Irish lilt",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "ze/zir",
+      "education": "Associate degree",
+      "ethnicity": "White",
+      "job_title": "Geotechnical Engineering Technician",
+      "languages": "English",
+      "birth_date": "1975-04-25",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Engineering",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "philosophical",
+        "ambitious",
+        "outgoing",
+        "humble",
+        "creative",
+        "resourceful"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Perth",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "rona_n_bhrolchin"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:59:12.556+00:00",
+  "updated_at": "2025-11-14T23:32:01.488Z",
+  "version": 12
+}

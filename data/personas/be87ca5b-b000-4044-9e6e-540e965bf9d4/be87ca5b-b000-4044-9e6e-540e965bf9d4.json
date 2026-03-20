@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mei-Lin Nakamura",
+    "metadata": {
+      "age": 59,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "East Asian",
+      "accent": "General American, with a very subtle, almost imperceptible lilt that occasionally surfaces when she is deeply engaged or speaking with family, a soft echo of her heritage.",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Other",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Observant",
+        "Analytical",
+        "Indirect",
+        "Principled",
+        "Optimistic",
+        "Patient",
+        "Resourceful"
+      ],
+      "job_title": "Heritage Preservation Consultant",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1965-09-15",
+      "zodiac_sign": "Virgo",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "San Francisco, California"
+    },
+    "username": "mnakamura",
+    "connections": [
+      {
+        "persona_id": "12559dd2-e871-4d45-9ca1-cf3061059b6a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kenzo Nakamura"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:37:44.836Z",
+  "updated_at": "2025-11-14T23:31:54.167Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "be87ca5b-b000-4044-9e6e-540e965bf9d4"
+}

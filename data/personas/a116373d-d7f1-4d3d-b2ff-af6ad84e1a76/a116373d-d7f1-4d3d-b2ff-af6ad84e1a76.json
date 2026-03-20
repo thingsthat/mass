@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Deborah Ainsworth",
+    "metadata": {
+      "age": 58,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Southern English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Real Estate",
+      "education": "Primary education",
+      "personality_traits": [
+        "independent",
+        "introverted",
+        "diligent",
+        "practical",
+        "resilient",
+        "observant"
+      ],
+      "job_title": "Property Maintenance Coordinator",
+      "relationship_status": "divorced",
+      "political_leaning": "Centrist",
+      "birth_date": "1966-04-15",
+      "zodiac_sign": "Aries",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "deborah_ainswort"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:17:56.388Z",
+  "updated_at": "2025-11-14T23:31:44.605Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "a116373d-d7f1-4d3d-b2ff-af6ad84e1a76"
+}

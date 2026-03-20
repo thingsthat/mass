@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Callum Reynolds",
+    "metadata": {
+      "age": 31,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "White",
+      "accent": "Soft West Country",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Human Resources",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Empathetic",
+        "Driven",
+        "Analytical",
+        "Principled",
+        "Collaborative",
+        "Curious"
+      ],
+      "job_title": "HR Business Partner",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1993-01-15",
+      "zodiac_sign": "Capricorn",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Bristol"
+    },
+    "username": "callum_reynolds",
+    "connections": [
+      {
+        "persona_id": "c13fde6d-59f7-4178-a573-acd26d4dc455",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Ailsa MacIntyre"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:00:22.611Z",
+  "updated_at": "2025-11-14T23:31:28.956Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "6a9523c8-fd77-4c6b-a9fa-93518b726639"
+}

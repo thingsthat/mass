@@ -1,0 +1,24 @@
+{
+  "name": "mass-cli",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --config ../eslint.config.mjs \"**/*.{js,ts,mjs,vue}\"",
+    "lint:fix": "eslint --config ../eslint.config.mjs \"**/*.{js,ts,mjs,vue}\" --fix",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "build": "tsup src/cli.ts --format cjs --outDir ../dist --clean --tsconfig tsconfig.json && (cp ../core/serve/report-ui.html ../dist/ 2>/dev/null || true) && (mkdir -p ../dist/css && cp ../core/serve/css/theme.css ../dist/css/ 2>/dev/null || true)",
+    "dev": "MASS_CLI=true node --import tsx src/cli.ts"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^9.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "@types/inquirer": "^9.0.7",
+    "esbuild-plugin-tsconfig-paths": "^1.0.2",
+    "tsup": "^8.3.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.9.3"
+  }
+}

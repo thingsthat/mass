@@ -1,0 +1,93 @@
+{
+  "id": "d5e237dc-9e7c-407a-994b-9a8d13e8ffee",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Curly hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "South Manchester, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced microaggressions and navigating systemic bias during adolescence; minor history of stress-related anxiety linked to balancing cultural expectations and professional aspirations.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Promotion seeking",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Seeking support",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Collaborative",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Community",
+        "Compassion",
+        "Integrity",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Religious",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Live events",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

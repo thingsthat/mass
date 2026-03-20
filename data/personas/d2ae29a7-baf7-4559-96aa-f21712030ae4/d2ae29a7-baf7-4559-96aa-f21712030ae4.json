@@ -1,0 +1,137 @@
+{
+  "id": "d2ae29a7-baf7-4559-96aa-f21712030ae4",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alasdair MacMurtrie",
+    "metadata": {
+      "age": 39,
+      "accent": "Scottish (Edinburgh dialect)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "they/he",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Cultural Heritage Analyst",
+      "languages": "English",
+      "birth_date": "1985-06-15",
+      "zodiac_sign": "Gemini",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Curious",
+        "Empathetic",
+        "Imaginative",
+        "Analytical",
+        "Thoughtful",
+        "Resourceful",
+        "Passionate about Sustainability"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "amacmurtrie",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Toronto, Canada",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural displacement and identity struggles during his early years transitioning between Goan, Canadian, and later, Scottish identities, impacting early relationships.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Visual"
+      ],
+      "core_values": [
+        "Integrity",
+        "Compassion",
+        "Growth",
+        "Community"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Museums",
+        "Audiobooks"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered",
+        "It's complicated"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:21:04.628+00:00",
+  "updated_at": "2025-11-14T23:32:00.560Z",
+  "version": 14
+}

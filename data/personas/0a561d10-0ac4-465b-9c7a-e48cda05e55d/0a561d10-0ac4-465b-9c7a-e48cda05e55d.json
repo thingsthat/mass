@@ -1,0 +1,99 @@
+{
+  "id": "0a561d10-0ac4-465b-9c7a-e48cda05e55d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Renzo Alarcon",
+    "metadata": {
+      "age": 22,
+      "accent": "Bristolian dialect, with a very subtle Spanish lilt",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Vocational or technical training",
+      "ethnicity": "Hispanic",
+      "job_title": "Part-time Caf\u00e9 Shift Supervisor",
+      "languages": "English",
+      "birth_date": "2002-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Hospitality",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Ambitious",
+        "Resilient",
+        "Determined",
+        "Empathetic",
+        "Curious",
+        "Imaginative"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Bristol",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "ralarcon",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Early life challenges navigating cultural identity and socio-economic insecurity.",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:13:59.075+00:00",
+  "updated_at": "2025-11-14T23:31:03.500Z",
+  "version": 15
+}

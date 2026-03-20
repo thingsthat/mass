@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kwame Ndlovu",
+    "metadata": {
+      "age": 45,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Black",
+      "accent": "British (London)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Disciplined",
+        "Perfectionist",
+        "Analytical",
+        "Reserved",
+        "Inquisitive",
+        "Principled",
+        "Diligent"
+      ],
+      "job_title": "Secondary School History Teacher",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1979-10-28",
+      "zodiac_sign": "Scorpio",
+      "religion": "Muslim",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "kwamendlovu",
+    "connections": [
+      {
+        "persona_id": "edadd718-d6c3-479a-8511-fe20058243ec",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kwame Ndlovu"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:05:11.157Z",
+  "updated_at": "2025-11-14T23:31:23.393Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "548f5bb8-e581-44c0-801a-a151b3dce7d8"
+}

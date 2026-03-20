@@ -1,0 +1,136 @@
+{
+  "id": "6735ba54-2949-46d3-b713-9da1a5cada9e",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rhys Cadwaladr",
+    "metadata": {
+      "age": 51,
+      "accent": "Brazilian Portuguese (native speaker, fluent in English with a subtle melodic cadence)",
+      "gender": "man",
+      "location": "Other",
+      "pronouns": "he/him",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Master Luthier",
+      "languages": "English",
+      "birth_date": "1973-01-08",
+      "zodiac_sign": "Capricorn",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Analytical",
+        "Imaginative",
+        "Intuitive",
+        "Romantic",
+        "Extroverted",
+        "Principled"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Curitiba",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "rcadwaladr",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Scars",
+        "Beard",
+        "Glasses"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Curitiba, Paran\u00e1, Brazil",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced internal and social conflicts related to gender identity and transition in early adulthood, now resolved and supported by family and community.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Home",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Creativity",
+        "Integrity",
+        "Freedom",
+        "Growth",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Books",
+        "Museums",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies",
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:34:24.476+00:00",
+  "updated_at": "2025-11-14T23:31:28.188Z",
+  "version": 12
+}

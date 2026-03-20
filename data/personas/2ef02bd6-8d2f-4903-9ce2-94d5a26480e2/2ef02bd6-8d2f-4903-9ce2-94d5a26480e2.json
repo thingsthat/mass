@@ -1,0 +1,139 @@
+{
+  "id": "2ef02bd6-8d2f-4903-9ce2-94d5a26480e2",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jian Liem",
+    "metadata": {
+      "age": 49,
+      "accent": "Canadian English with a subtle lilt.",
+      "gender": "man",
+      "location": "Canada",
+      "pronouns": "he/him",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "East Asian",
+      "job_title": "Program Director",
+      "languages": "English",
+      "birth_date": "1975-04-12",
+      "zodiac_sign": "Aries",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Empathetic",
+        "Imaginative",
+        "Calm Under Pressure",
+        "Analytical",
+        "Philosophical",
+        "Resourceful"
+      ],
+      "relationship_status": "separated",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "Vancouver",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "jliem",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Richmond, British Columbia, Canada",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigated significant personal stress related to cultural expectations and the recent separation from a long-term marriage.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Rational",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Visual",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Community",
+        "Growth",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Streaming services",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:13:18.718+00:00",
+  "updated_at": "2025-11-14T23:31:13.353Z",
+  "version": 13
+}

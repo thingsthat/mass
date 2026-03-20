@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rina Reddy",
+    "metadata": {
+      "age": 31,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "South Asian",
+      "accent": "Standard British English (RP) with subtle South Asian inflections, particularly when discussing family or cultural topics.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Student",
+      "education": "Professional degree (e.g., JD, MD)",
+      "personality_traits": [
+        "Diligent",
+        "Empathetic",
+        "Accommodating",
+        "Socially Anxious",
+        "Resilient",
+        "Curious",
+        "Affectionate"
+      ],
+      "job_title": "Medical Resident (Post-Graduate Student)",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1993-05-12",
+      "zodiac_sign": "Taurus",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "London"
+    },
+    "username": "rinareddy",
+    "connections": [
+      {
+        "persona_id": "bb5d646d-22c9-4f3a-8c55-91b29649e9c1",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kavish Reddy"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:59:18.616Z",
+  "updated_at": "2025-11-14T23:31:13.468Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "2f5b7531-8f6f-48d5-a2e1-40f1de1554e4"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "85d2c5d3-0fa2-4da1-95fc-2077df80e84a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stellan Novak",
+    "metadata": {
+      "age": 68,
+      "accent": "Scottish accent with a subtle Eastern European lilt",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "No formal education",
+      "ethnicity": "Other",
+      "job_title": "Master Carpenter",
+      "languages": "English",
+      "birth_date": "1956-03-15",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Construction",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Romantic",
+        "Adaptable",
+        "Lives with Intention",
+        "Resourceful",
+        "Grounded",
+        "Observant",
+        "Humble"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 172,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "snovak",
+    "metadata_extended": {
+      "body_type": "Muscular",
+      "distinctive_features": [
+        "Tattoos",
+        "Scars",
+        "Beard",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Tobacco",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Various nomadic settlements in Eastern Europe, settling near Edinburgh, Scotland in their late teens.",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced historical prejudice related to Romani heritage and periods of instability and displacement during childhood.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ISTP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Community",
+        "Tradition",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Basic",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Arthritis"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Other prescription"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:12:21.951+00:00",
+  "updated_at": "2025-11-14T23:31:36.513Z",
+  "version": 14
+}

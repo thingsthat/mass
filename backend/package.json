@@ -1,0 +1,17 @@
+{
+  "name": "mass-backend",
+  "version": "0.2.0",
+  "scripts": {
+    "lint": "eslint --config ../eslint.config.mjs \"**/*.{js,ts,mjs,vue}\"",
+    "lint:fix": "eslint --config ../eslint.config.mjs \"**/*.{js,ts,mjs,vue}\" --fix",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "dev": "NODE_ENV=development tsx src/server.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4"
+  },
+  "dependencies": {
+    "graphql": "16.8.1"
+  }
+}

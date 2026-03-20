@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kwame Ndlovu",
+    "metadata": {
+      "age": 45,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Black",
+      "accent": "London",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Pessimistic",
+        "Passive-Aggressive",
+        "Perceptive",
+        "Reserved",
+        "Loyal",
+        "Principled",
+        "Analytical"
+      ],
+      "job_title": "Head of English Department",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1978-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Muslim",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 178,
+      "city_town": "London"
+    },
+    "username": "kwamendlovu",
+    "connections": [
+      {
+        "persona_id": "548f5bb8-e581-44c0-801a-a151b3dce7d8",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kwame Ndlovu"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:16:47.919Z",
+  "updated_at": "2025-11-14T23:32:08.202Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "edadd718-d6c3-479a-8511-fe20058243ec"
+}

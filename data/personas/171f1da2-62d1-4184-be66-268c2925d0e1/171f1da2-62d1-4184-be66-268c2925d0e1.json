@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Daniel Oluwasegun",
+    "metadata": {
+      "age": 30,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English with a subtle West African lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Business Services",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Logical",
+        "Resilient",
+        "Funny",
+        "Collaborative",
+        "Composed",
+        "Principled"
+      ],
+      "job_title": "Senior Business Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1993-05-28",
+      "zodiac_sign": "Gemini",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 182,
+      "city_town": "Manchester"
+    },
+    "username": "danieloluwasegun",
+    "connections": [
+      {
+        "persona_id": "0bae2570-d016-49ea-bf50-ec78538c6e51",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Sanyukta Rai-Fitzwilliam"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:35:05.074Z",
+  "updated_at": "2025-11-14T23:31:07.209Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "171f1da2-62d1-4184-be66-268c2925d0e1"
+}

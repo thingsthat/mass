@@ -1,0 +1,44 @@
+{
+  "id": "9d80ec4b-ada1-4b79-9bef-5e850a636dc0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eshe MacGregor",
+    "metadata": {
+      "age": 23,
+      "accent": "Scottish (Glaswegian)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Production Coordinator",
+      "languages": "English",
+      "birth_date": "2001-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Manufacturing",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "curious",
+        "imaginative",
+        "observant",
+        "witty",
+        "resourceful",
+        "humble",
+        "easygoing"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Glasgow",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "eshe_macgregor"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:22:47.755+00:00",
+  "updated_at": "2025-11-14T23:31:43.350Z",
+  "version": 14
+}

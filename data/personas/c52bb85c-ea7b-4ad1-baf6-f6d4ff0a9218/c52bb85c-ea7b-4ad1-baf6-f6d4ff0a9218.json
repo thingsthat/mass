@@ -1,0 +1,44 @@
+{
+  "id": "c52bb85c-ea7b-4ad1-baf6-f6d4ff0a9218",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elara MacCoinneach",
+    "metadata": {
+      "age": 34,
+      "accent": "Scottish",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Freelance Nature Photographer",
+      "languages": "English",
+      "birth_date": "1990-03-05",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "empathetic",
+        "thoughtful",
+        "resilient",
+        "intuitive",
+        "philosophical",
+        "curious about others",
+        "always learning"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Glasgow",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "elara_maccoinnea"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:36:11.377+00:00",
+  "updated_at": "2025-11-14T23:31:56.518Z",
+  "version": 14
+}

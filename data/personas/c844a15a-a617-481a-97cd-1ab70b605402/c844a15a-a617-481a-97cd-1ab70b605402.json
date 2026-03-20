@@ -1,0 +1,44 @@
+{
+  "id": "c844a15a-a617-481a-97cd-1ab70b605402",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rin Okami",
+    "metadata": {
+      "age": 25,
+      "accent": "Refined Australian accent with a subtle global intonation",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "they/them",
+      "religion": "Buddhist",
+      "city_town": "Melbourne",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "East Asian",
+      "job_title": "Avant-Garde Art Curator",
+      "languages": "English",
+      "birth_date": "1998-03-05",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Independent",
+      "height_centimeters": 162,
+      "personality_traits": [
+        "Independent",
+        "Eccentric",
+        "Insightful",
+        "Discerning",
+        "Unflappable",
+        "Creative",
+        "Perceptive"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "rinokami"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T22:06:09.707+00:00",
+  "updated_at": "2025-11-14T23:31:57.691Z",
+  "version": 9
+}

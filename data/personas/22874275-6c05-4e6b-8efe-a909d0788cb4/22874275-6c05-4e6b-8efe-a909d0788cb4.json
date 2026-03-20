@@ -1,0 +1,56 @@
+{
+  "id": "22874275-6c05-4e6b-8efe-a909d0788cb4",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Calliope Farnsworth",
+    "metadata": {
+      "age": 49,
+      "accent": "Subtle Midwestern American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "name only",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Logistics Operations Manager",
+      "languages": "English",
+      "birth_date": "1975-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Transportation",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "kind",
+        "curious",
+        "creative",
+        "adventurous",
+        "resourceful",
+        "analytical",
+        "intuitive"
+      ],
+      "relationship_status": "married",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Denver, Colorado",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "cfarnsworth",
+    "connections": [
+      {
+        "persona_id": "ceb16131-7f7c-47c5-95db-306a71617154",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Patrick Sullivan"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:16:07.67+00:00",
+  "updated_at": "2025-11-14T23:31:10.205Z",
+  "version": 12
+}

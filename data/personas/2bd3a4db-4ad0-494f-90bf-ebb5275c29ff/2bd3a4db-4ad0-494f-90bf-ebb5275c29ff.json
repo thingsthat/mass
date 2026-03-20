@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marcus Griffiths",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "British English (West Midlands)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Compassionate",
+        "People-pleasing",
+        "Disciplined",
+        "Problem-solver",
+        "Resilient",
+        "Reflective",
+        "Optimistic"
+      ],
+      "job_title": "Senior Project Manager",
+      "relationship_status": "divorced",
+      "political_leaning": "Conservative",
+      "birth_date": "1968-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Birmingham"
+    },
+    "username": "mgriffiths"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:43:05.823Z",
+  "updated_at": "2025-11-14T23:31:12.306Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "2bd3a4db-4ad0-494f-90bf-ebb5275c29ff"
+}

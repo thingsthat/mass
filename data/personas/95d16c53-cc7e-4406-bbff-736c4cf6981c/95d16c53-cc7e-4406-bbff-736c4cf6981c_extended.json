@@ -1,0 +1,59 @@
+{
+  "id": "95d16c53-cc7e-4406-bbff-736c4cf6981c",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "None",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Large",
+      "childhood_location": "Birmingham, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the challenges common to second-generation immigrants and witnessed her parents' struggles, fostering resilience.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Responsibility",
+        "Community",
+        "Religious",
+        "Compassion",
+        "Integrity"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Basic",
+      "preferred_devices": [
+        "Smartphone",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Streaming services",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "c87b8fea-9e2e-48a8-93b7-fd3e3ab1df6c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Morven Adebayo",
+    "metadata": {
+      "age": 61,
+      "accent": "Southern American accent with a subtle Scottish lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Primary education",
+      "ethnicity": "Black",
+      "job_title": "Master Prop Fabricator",
+      "languages": "English",
+      "birth_date": "1963-10-30",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Confident",
+        "Driven",
+        "Humble",
+        "Curious",
+        "Resourceful",
+        "Observant",
+        "Playful"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Atlanta",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "madebayo",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Gray hair",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Atlanta, Georgia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Overcame early economic disadvantages and educational barriers through dedication to practical craftsmanship, fostering deep resourcefulness and resilience.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ISTP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive",
+        "Independent"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Achievement",
+        "Integrity",
+        "Growth",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Museums",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Arthritis",
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Multiple vehicles"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:04:15.102+00:00",
+  "updated_at": "2025-11-14T23:31:57.953Z",
+  "version": 12
+}

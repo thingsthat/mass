@@ -1,0 +1,136 @@
+{
+  "id": "5300ddc2-7d23-4dab-b5c4-086e6b5e9a5a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marisol V\u00e1squez",
+    "metadata": {
+      "age": 21,
+      "accent": "American English with a subtle, melodic Spanish cadence",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "they/he",
+      "education": "Currently enrolled",
+      "ethnicity": "Hispanic",
+      "job_title": "Student Teaching Assistant (K-6 Science)",
+      "languages": "English",
+      "birth_date": "2003-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Education",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Analytical",
+        "Grounded",
+        "Observant",
+        "Resourceful",
+        "Witty"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Albuquerque",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "marisolvsquez",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "South Valley of Albuquerque, New Mexico",
+      "family_structure": "Extended",
+      "trauma_history": "Experiences with generational poverty and witnessing the academic struggles of bilingual students in under-resourced schools.",
+      "income_range": "Under 20k",
+      "career_stage": "Student",
+      "work_environment": "School",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Justice",
+        "Growth",
+        "Responsibility",
+        "Integrity",
+        "Community"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Tablet"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Museums",
+        "Art galleries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently partnered",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies",
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:40:53.79+00:00",
+  "updated_at": "2025-11-14T23:31:23.002Z",
+  "version": 12
+}

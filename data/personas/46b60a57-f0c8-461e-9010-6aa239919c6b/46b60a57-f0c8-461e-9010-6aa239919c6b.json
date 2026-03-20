@@ -1,0 +1,138 @@
+{
+  "id": "46b60a57-f0c8-461e-9010-6aa239919c6b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alex Nguyen",
+    "metadata": {
+      "age": 38,
+      "accent": "General American",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Real Estate Broker",
+      "languages": "English",
+      "birth_date": "1986-07-22",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Real Estate",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Observant",
+        "Curious",
+        "Humble",
+        "Analytical",
+        "Thoughtful",
+        "Adaptable",
+        "Empathetic"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Portland",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "alex_nguyen",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Seattle suburbs",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced instability related to housing insecurity and cultural displacement during young adulthood.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Seeking change",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Community",
+        "Integrity",
+        "Growth",
+        "Justice",
+        "Equality"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Streaming services",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently partnered",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:44:03.654+00:00",
+  "updated_at": "2025-11-14T23:31:20.528Z",
+  "version": 14
+}

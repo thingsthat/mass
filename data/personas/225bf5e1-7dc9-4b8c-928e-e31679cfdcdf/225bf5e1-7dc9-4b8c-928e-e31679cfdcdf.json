@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Denise Palmer",
+    "metadata": {
+      "age": 63,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Black",
+      "accent": "British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Decisive",
+        "Curious",
+        "Observant",
+        "Detail-Oriented",
+        "Intuitive",
+        "Resilient"
+      ],
+      "job_title": "Clinical Research Coordinator",
+      "relationship_status": "single",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1961-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Bristol"
+    },
+    "username": "denisepalmer"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:29:28.085Z",
+  "updated_at": "2025-11-14T23:31:09.914Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "225bf5e1-7dc9-4b8c-928e-e31679cfdcdf"
+}

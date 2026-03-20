@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Linda Harrison",
+    "metadata": {
+      "age": 65,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Multiracial",
+      "accent": "Standard British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Passionate",
+        "Traditional",
+        "Empathetic",
+        "Resilient",
+        "Principled",
+        "Hopeful"
+      ],
+      "job_title": "Senior Healthcare Assistant",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1959-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "Bristol"
+    },
+    "username": "lindaharrison",
+    "connections": [
+      {
+        "persona_id": "bcb7a9a7-ac6c-4624-b1c3-60ec29145873",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Malcolm Harrison"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:33:15.930Z",
+  "updated_at": "2025-11-14T23:31:30.847Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "716d8bf4-74f0-4b66-a1ba-fd61461e8bb6"
+}

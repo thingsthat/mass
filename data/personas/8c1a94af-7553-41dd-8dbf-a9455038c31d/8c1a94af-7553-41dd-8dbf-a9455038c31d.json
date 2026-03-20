@@ -1,0 +1,136 @@
+{
+  "id": "8c1a94af-7553-41dd-8dbf-a9455038c31d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Andres Ramirez",
+    "metadata": {
+      "age": 38,
+      "accent": "Cuban American",
+      "gender": "genderfluid",
+      "location": "United States",
+      "pronouns": "she/they",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Hispanic",
+      "job_title": "Telecommunications Network Architect",
+      "languages": "English",
+      "birth_date": "1986-07-22",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Telecommunications",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Romantic",
+        "Philosophical",
+        "Thoughtful",
+        "Curious",
+        "Adaptable",
+        "Empathetic",
+        "Imaginative"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Miami",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "andresramirez",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Large",
+      "childhood_location": "Miami, Florida",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed significant community and family stress related to financial instability and language barriers during childhood, fueling an adult commitment to creating stability through accessible technology.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Compassion",
+        "Growth",
+        "Innovation",
+        "Community"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Music",
+        "Podcasts",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:41:12.517+00:00",
+  "updated_at": "2025-11-14T23:31:37.827Z",
+  "version": 14
+}

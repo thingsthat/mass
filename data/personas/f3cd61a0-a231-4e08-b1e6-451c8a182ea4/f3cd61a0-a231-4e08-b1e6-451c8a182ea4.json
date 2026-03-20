@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rachid Fodil",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Middle Eastern",
+      "accent": "Algerian French accent",
+      "location": "France",
+      "languages": "French",
+      "job_industry": "Transportation",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "optimistic",
+        "expressive",
+        "assertive",
+        "hands-on",
+        "detail-oriented",
+        "loyal",
+        "resourceful"
+      ],
+      "job_title": "Port Logistics Coordinator",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1969-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Marseille"
+    },
+    "username": "rfodil",
+    "connections": [
+      {
+        "persona_id": "aaac48db-df35-4837-9000-bea37ebc8eef",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Safiyya Fodil"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:57:33.228Z",
+  "updated_at": "2025-11-14T23:32:10.337Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "f3cd61a0-a231-4e08-b1e6-451c8a182ea4"
+}

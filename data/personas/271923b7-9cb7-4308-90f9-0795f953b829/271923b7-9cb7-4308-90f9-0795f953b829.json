@@ -1,0 +1,135 @@
+{
+  "id": "271923b7-9cb7-4308-90f9-0795f953b829",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alina Xochitl Lim",
+    "metadata": {
+      "age": 42,
+      "accent": "Australian",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "they/she",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Endurance Sports Coach",
+      "languages": "English",
+      "birth_date": "1982-10-05",
+      "zodiac_sign": "Libra",
+      "job_industry": "Sports & Recreation",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Disciplined",
+        "Principled",
+        "Analytical",
+        "Practical",
+        "Observant",
+        "Resilient"
+      ],
+      "relationship_status": "prefer not to say",
+      "religion": "Prefer not to say",
+      "height_centimeters": 170,
+      "city_town": "Sydney",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "alinaxochitllim",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Scars",
+        "Long hair",
+        "Dimples"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Career-ending physical injury required extensive, painful rehabilitation and forced a difficult professional identity change.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Achievement",
+        "Health",
+        "Excellence",
+        "Balance"
+      ],
+      "moral_framework": [
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart watch"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Audiobooks",
+        "Podcasts",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Few relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Chronic pain",
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Over-the-counter"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:00:56.357+00:00",
+  "updated_at": "2025-11-14T23:31:11.160Z",
+  "version": 12
+}

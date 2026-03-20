@@ -1,0 +1,136 @@
+{
+  "id": "3d961865-5b12-4e2c-a4fd-8ad34755bfac",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elara MacLeod",
+    "metadata": {
+      "age": 32,
+      "accent": "Scottish",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Documentary Photographer",
+      "languages": "English",
+      "birth_date": "1991-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Empathetic",
+        "Observant",
+        "Resilient",
+        "Creative",
+        "Philosophical",
+        "Authentic"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "elaramacleod",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Isle of Skye, Scotland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced early awareness of environmental devastation (oil spill during adolescence) and the challenges of self-discovery/identity formation in a traditional setting.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Field",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Seeking support",
+        "Productive",
+        "Withdrawn"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Emotion-based"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Justice",
+        "Authenticity",
+        "Growth",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Music",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:28:06.046+00:00",
+  "updated_at": "2025-11-14T23:31:17.172Z",
+  "version": 14
+}

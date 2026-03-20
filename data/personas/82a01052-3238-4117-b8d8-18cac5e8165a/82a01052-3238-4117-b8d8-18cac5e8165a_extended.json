@@ -1,0 +1,60 @@
+{
+  "id": "82a01052-3238-4117-b8d8-18cac5e8165a",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Gateshead, Tyne and Wear, UK (working-class neighborhood)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Loss of a close friend in early adulthood due to mental health struggles, which reinforced his commitment to unconventional living and authentic expression.",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Felipe Cardoso de Souza",
+    "metadata": {
+      "age": 28,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Hispanic",
+      "accent": "Brazilian Portuguese",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Human Resources",
+      "education": "Some college or university",
+      "personality_traits": [
+        "Relationship-focused",
+        "Empathetic",
+        "Passionate",
+        "Organized",
+        "Optimistic",
+        "Supportive"
+      ],
+      "job_title": "HR Coordinator",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1996-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Curitiba"
+    },
+    "username": "felipecardosodes",
+    "connections": [
+      {
+        "persona_id": "aeff86ec-ea2a-4926-b2f5-677e7b34c0b9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Inara Velasco"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:58:23.101Z",
+  "updated_at": "2025-11-14T23:32:09.063Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "f0fe1b79-580c-4966-9f12-2b8c1a598103"
+}

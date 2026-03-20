@@ -1,0 +1,61 @@
+{
+  "id": "038284d0-52a4-42a8-9330-d7a7083580a3",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "None"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "trauma_history": "Significant internal and societal challenges related to gender affirmation; experienced a traumatic physical attack during a protest that catalyzed her powers.",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Budget-conscious",
+      "attachment_style": "Secure",
+      "diet_preferences": "Vegetarian",
+      "family_structure": "Nuclear",
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INFP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "Glasgow, Scotland",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Moderate",
+      "therapy_experience": "Past",
+      "communication_style": "Empathetic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Piercings"
+      ],
+      "mental_health_status": "Fair",
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  }
+}

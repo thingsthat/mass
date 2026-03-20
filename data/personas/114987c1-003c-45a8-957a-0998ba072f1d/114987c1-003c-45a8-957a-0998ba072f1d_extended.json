@@ -1,0 +1,58 @@
+{
+  "id": "114987c1-003c-45a8-957a-0998ba072f1d",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Manchester, UK (Specifically, a multicultural neighborhood where family settled after leaving Syria)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced a significant personal and existential crisis in late adolescence related to conflicting cultural identities and societal expectations.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

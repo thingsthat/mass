@@ -1,0 +1,44 @@
+{
+  "id": "c8835297-fe93-4229-bf3b-944b7947247f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jamie Green",
+    "metadata": {
+      "age": 45,
+      "accent": "Yorkshire accent",
+      "gender": "agender",
+      "location": "United Kingdom",
+      "pronouns": "ze/zir",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "White",
+      "job_title": "Policy Advisor",
+      "languages": "English",
+      "birth_date": "1979-10-15",
+      "zodiac_sign": "Libra",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "resourceful",
+        "curious",
+        "analytical",
+        "principled",
+        "observant",
+        "thoughtful",
+        "diplomatic"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 173,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "queer"
+    },
+    "username": "jamiegreen"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:46:22.417+00:00",
+  "updated_at": "2025-11-14T23:31:58.087Z",
+  "version": 14
+}

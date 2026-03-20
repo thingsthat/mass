@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Richard Sterling",
+    "metadata": {
+      "age": 68,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Refined British English (Received Pronunciation)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Finance",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Analytical",
+        "Cautious",
+        "Solitary",
+        "Mellow",
+        "Quietly Rebellious",
+        "Detail-Oriented",
+        "Supportive (through validation)"
+      ],
+      "job_title": "Senior Quantitative Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1956-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Cambridge"
+    },
+    "username": "richard_sterling",
+    "connections": [
+      {
+        "persona_id": "f88bcce6-b1d0-42eb-86bb-a30b8bd28f04",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Eileen Thompson"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:05:57.165Z",
+  "updated_at": "2025-11-14T23:32:03.616Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "e036ca56-e624-4f42-946e-50733ab898d0"
+}

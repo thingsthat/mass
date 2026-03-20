@@ -1,0 +1,61 @@
+{
+  "id": "bcb7a9a7-ac6c-4624-b1c3-60ec29145873",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Bristol, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "No specific major trauma mentioned, but likely experienced racial prejudice or social adjustments given his multiracial heritage in 1960s Bristol.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Honesty",
+        "Independence",
+        "Responsibility",
+        "Tradition",
+        "Knowledge"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  }
+}

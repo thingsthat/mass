@@ -1,0 +1,98 @@
+{
+  "id": "3f665177-d6b8-4fa3-a58c-0db657731fd6",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Riaz Varma",
+    "metadata": {
+      "age": 42,
+      "accent": "Soft, rhythmic English with a slight South African cadence, blended with fluency in Portuguese.",
+      "gender": "man",
+      "location": "Brazil",
+      "pronouns": "he/they",
+      "education": "Secondary education",
+      "ethnicity": "South Asian",
+      "job_title": "Logistics Optimization Consultant",
+      "languages": "English",
+      "birth_date": "1982-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Business Services",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Philosophical",
+        "Open-Minded",
+        "Grounded",
+        "Observant",
+        "Resourceful",
+        "Laid-back"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Salvador",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "rvarma",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Durban, South Africa",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural and economic isolation during early years of travel and career establishment, leading to a profound focus on resilience and resourcefulness.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Gaming",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Rideshare"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:35:11.372+00:00",
+  "updated_at": "2025-11-14T23:31:17.793Z",
+  "version": 12
+}

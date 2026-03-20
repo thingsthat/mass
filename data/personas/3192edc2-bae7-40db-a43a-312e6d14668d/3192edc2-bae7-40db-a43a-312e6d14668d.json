@@ -1,0 +1,38 @@
+{
+  "id": "3192edc2-bae7-40db-a43a-312e6d14668d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ramius MacLeod",
+    "metadata": {
+      "age": 68,
+      "accent": "Refined London English with a subtle North African lilt",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "North African",
+      "job_title": "Senior Venture Partner",
+      "languages": "English",
+      "job_industry": "Technology",
+      "personality_traits": [
+        "thoughtful",
+        "independent",
+        "open-minded",
+        "analytical",
+        "principled",
+        "curious about others",
+        "always learning"
+      ],
+      "relationship_status": "separated",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "ramiusmacleod"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T00:04:29.863+00:00",
+  "updated_at": "2025-11-14T23:31:14.472Z",
+  "version": 8
+}

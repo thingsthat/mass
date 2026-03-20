@@ -1,0 +1,138 @@
+{
+  "id": "2bfa5c4c-68d2-4ff2-bafb-9d82c2160e9b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ezequiel \"Zeke\" Pe\u00f1a",
+    "metadata": {
+      "age": 39,
+      "accent": "Texas English with a subtle Spanish influence",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "they/she",
+      "education": "Associate degree",
+      "ethnicity": "Hispanic",
+      "job_title": "Visual Storyteller",
+      "languages": "English",
+      "birth_date": "1985-10-28",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Observant",
+        "Confident",
+        "Competitive",
+        "Creative",
+        "Resilient",
+        "Resourceful",
+        "Thoughtful"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "Austin",
+      "sexual_orientation": "queer"
+    },
+    "username": "epea",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Houston, Texas",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced periods of financial instability and systemic pressure growing up in a marginalized community.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Creativity",
+        "Community",
+        "Justice",
+        "Growth",
+        "Authenticity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Gaming",
+        "Books",
+        "Streaming services",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Rideshare",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:02:17.889+00:00",
+  "updated_at": "2025-11-14T23:31:12.417Z",
+  "version": 12
+}

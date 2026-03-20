@@ -1,0 +1,99 @@
+{
+  "id": "5d74a86b-94d6-4777-8fd5-f74fffbc567c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lira Hoshiko",
+    "metadata": {
+      "age": 22,
+      "accent": "Canadian with subtle international inflections",
+      "gender": "woman",
+      "location": "Canada",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Commercial Leasing Agent",
+      "languages": "English",
+      "birth_date": "2002-04-15",
+      "zodiac_sign": "Aries",
+      "job_industry": "Real Estate",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Brave",
+        "Adaptable",
+        "Empathetic",
+        "Witty",
+        "Grounded",
+        "Ethical",
+        "Resilient"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Vancouver",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "lhoshiko",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Multiple international cities: Cape Town, Tokyo, and finally Vancouver",
+      "family_structure": "Nuclear",
+      "trauma_history": "Frequent international relocations during childhood resulted in chronic rootlessness. Intensive therapy in her late teens successfully helped her process this nomadic history and transition from guarded self-reliance to a securely attached individual.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:41:53.444+00:00",
+  "updated_at": "2025-11-14T23:31:25.494Z",
+  "version": 12
+}

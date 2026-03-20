@@ -1,0 +1,150 @@
+{
+  "id": "12559dd2-e871-4d45-9ca1-cf3061059b6a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kenzo Nakamura",
+    "metadata": {
+      "age": 61,
+      "accent": "American English with a subtle Scottish lilt",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "East Asian",
+      "job_title": "Senior Military Strategist",
+      "languages": "English",
+      "birth_date": "1963-05-05",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Military",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "Mentally Tough",
+        "Charming",
+        "Analytical",
+        "Observant",
+        "Principled",
+        "Thoughtful"
+      ],
+      "relationship_status": "married",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "Seattle",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "kenzo_nakamura",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Osaka, Japan, and Southern California, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced secondary trauma and witnessed profound conflict consequences during numerous military deployments, which led to a disciplined approach to mental resilience.",
+      "income_range": "200k+",
+      "career_stage": "Senior",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Growth",
+        "Wisdom",
+        "Peace"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries",
+        "Podcasts",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    },
+    "connections": [
+      {
+        "persona_id": "be87ca5b-b000-4044-9e6e-540e965bf9d4",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Mei-Lin Nakamura"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:27:33.354+00:00",
+  "updated_at": "2025-11-14T23:31:06.374Z",
+  "version": 12
+}

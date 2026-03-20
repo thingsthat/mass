@@ -1,0 +1,139 @@
+{
+  "id": "73040154-e97e-41d5-b5e6-016d01cbb085",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Shaan Mehta",
+    "metadata": {
+      "age": 39,
+      "accent": "American English with a subtle South Asian lilt",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "she/they",
+      "education": "Associate degree",
+      "ethnicity": "South Asian",
+      "job_title": "Documentary Editor & Storyteller",
+      "languages": "English",
+      "birth_date": "1985-05-07",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Intuitive",
+        "Diplomatic",
+        "Emotionally Intelligent",
+        "Perfectionist",
+        "Passionate about Sustainability",
+        "Observant",
+        "Resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Austin",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "shaanmehta",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Houston, Texas",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant emotional pressure and alienation navigating nonbinary identity within a highly traditional, multi-generational household during adolescence, leading to deep work on self-acceptance and resilience.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Withdrawn",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Compassion",
+        "Growth",
+        "Integrity",
+        "Creativity",
+        "Justice"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Consequentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Desktop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Few relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:59:12.648+00:00",
+  "updated_at": "2025-11-14T23:31:31.456Z",
+  "version": 12
+}

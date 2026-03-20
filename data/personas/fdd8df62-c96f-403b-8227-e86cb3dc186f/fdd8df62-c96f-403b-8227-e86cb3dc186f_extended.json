@@ -1,0 +1,61 @@
+{
+  "id": "fdd8df62-c96f-403b-8227-e86cb3dc186f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Freckles",
+        "Contact lenses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Easton, Bristol",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced challenging circumstances as a young single mother at 19, requiring significant resilience and resourcefulness.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Independence",
+        "Community",
+        "Integrity",
+        "Growth",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "YouTube",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

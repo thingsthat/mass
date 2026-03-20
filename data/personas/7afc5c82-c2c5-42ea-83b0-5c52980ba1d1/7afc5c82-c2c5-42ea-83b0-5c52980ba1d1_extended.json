@@ -1,0 +1,61 @@
+{
+  "id": "7afc5c82-c2c5-42ea-83b0-5c52980ba1d1",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Large",
+      "childhood_location": "Salvador, Bahia, Brazil",
+      "family_structure": "Extended",
+      "trauma_history": "Navigating cultural identity complexities and challenges related to forging an educational path outside formal systems.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Community",
+        "Responsibility",
+        "Respect",
+        "Compassion",
+        "Knowledge"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

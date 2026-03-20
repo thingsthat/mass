@@ -1,0 +1,140 @@
+{
+  "id": "5f45b98e-2dcc-4444-b7a2-3c8d66591d51",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Leifur Solberg",
+    "metadata": {
+      "age": 59,
+      "accent": "Soft Norwegian Lilt",
+      "gender": "man",
+      "location": "Canada",
+      "pronouns": "he/him",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Long Haul Truck Driver Trainer",
+      "languages": "English",
+      "birth_date": "1965-01-25",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Transportation",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Observant",
+        "Ambitious",
+        "Easygoing",
+        "Emotionally Intelligent",
+        "Disciplined Adventurer",
+        "Grounded"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Agnostic",
+      "height_centimeters": 182,
+      "city_town": "Vancouver",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "leifursolberg",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Beard",
+        "Scars",
+        "Gray hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Former",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bergen, Norway",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced prolonged periods of isolation, burnout, and emotional fatigue during 25 years as an independent long-haul driver; this realization drives his current focus on driver wellness training.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Growth",
+        "Responsibility",
+        "Compassion",
+        "Integrity",
+        "Health"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Books",
+        "Documentaries",
+        "Music",
+        "Audiobooks"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Company car"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:42:43.139+00:00",
+  "updated_at": "2025-11-14T23:31:25.737Z",
+  "version": 12
+}

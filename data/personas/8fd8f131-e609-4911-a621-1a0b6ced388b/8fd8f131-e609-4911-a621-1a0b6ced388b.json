@@ -1,0 +1,131 @@
+{
+  "id": "8fd8f131-e609-4911-a621-1a0b6ced388b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Emrys Fenwick",
+    "metadata": {
+      "age": 23,
+      "accent": "Canadian English with a subtle London influence",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Apprentice Carpenter",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Construction",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Friendly",
+        "Loyal",
+        "Resilient",
+        "Disciplined",
+        "Curious",
+        "Ambitious",
+        "Principled"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "emrys_fenwick",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Toronto, Canada",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural dislocation and financial stress after moving to a new continent alone to start his trade apprenticeship, fostering strong resilience.",
+      "income_range": "20k-40k",
+      "career_stage": "Entry-level",
+      "work_environment": "Field",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Visual"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Creativity",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Music",
+        "Streaming services",
+        "Books"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Few relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:18:26.511+00:00",
+  "updated_at": "2025-11-14T23:31:39.592Z",
+  "version": 12
+}

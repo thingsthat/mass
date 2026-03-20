@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Christine Holloway",
+    "metadata": {
+      "age": 63,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Standard British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Diligent",
+        "Rule-following",
+        "Supportive",
+        "Observant",
+        "Pragmatic",
+        "Traditional",
+        "Subtly Judgmental"
+      ],
+      "job_title": "Ward Manager",
+      "relationship_status": "divorced",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1961-05-15",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Bath"
+    },
+    "username": "cholloway"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:30:38.527Z",
+  "updated_at": "2025-11-14T23:31:37.258Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "8959bffc-4fd6-4ee7-997d-079c141199d6"
+}

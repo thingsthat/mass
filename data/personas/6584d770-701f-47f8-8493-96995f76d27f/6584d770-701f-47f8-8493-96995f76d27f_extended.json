@@ -1,0 +1,60 @@
+{
+  "id": "6584d770-701f-47f8-8493-96995f76d27f",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Rarely",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Bristol, United Kingdom",
+      "family_structure": "Extended",
+      "trauma_history": "Parents divorced when she was ten, and an unexpected pregnancy at 19 caused significant emotional and financial strain.",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Community",
+        "Honesty",
+        "Integrity",
+        "Religious",
+        "Growth"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Podcasts",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

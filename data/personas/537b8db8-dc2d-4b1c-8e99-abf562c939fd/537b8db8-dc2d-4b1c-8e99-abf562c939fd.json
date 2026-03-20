@@ -1,0 +1,39 @@
+{
+  "creator_id": null,
+  "details": {
+    "name": "Amara Okafor",
+    "metadata": {
+      "age": 34,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Black",
+      "accent": "Birmingham (Brummie)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_title": "Senior Software Developer",
+      "job_industry": "Technology",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Analytical",
+        "Resilient",
+        "Caring",
+        "Adventurous",
+        "Practical"
+      ],
+      "relationship_status": "divorced",
+      "political_leaning": "Centrist",
+      "birth_date": "1990-05-12",
+      "zodiac_sign": "Taurus",
+      "religion": "Atheist",
+      "height_centimeters": 168,
+      "city_town": "Birmingham",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "amara_okafor"
+  },
+  "type": "persona",
+  "created_at": "2026-03-15T23:55:44.673Z",
+  "updated_at": "2026-03-15T23:55:44.673Z",
+  "version": 1,
+  "id": "537b8db8-dc2d-4b1c-8e99-abf562c939fd"
+}

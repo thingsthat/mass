@@ -1,0 +1,56 @@
+{
+  "id": "d5e237dc-9e7c-407a-994b-9a8d13e8ffee",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aisha Rahman",
+    "metadata": {
+      "age": 38,
+      "accent": "British (Manchester)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Sub-Saharan African",
+      "job_title": "HR Coordinator",
+      "languages": "English",
+      "birth_date": "1986-10-05",
+      "zodiac_sign": "Libra",
+      "job_industry": "Human Resources",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "easygoing",
+        "romantic",
+        "compassionate",
+        "resilient",
+        "diplomatic",
+        "loyal",
+        "empathetic"
+      ],
+      "relationship_status": "married",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aisharahman",
+    "connections": [
+      {
+        "persona_id": "5993c3ad-8c31-4c74-baef-7ddb7beda05e",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kofi Rahman"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:45:01.091+00:00",
+  "updated_at": "2025-11-14T23:32:01.620Z",
+  "version": 14
+}

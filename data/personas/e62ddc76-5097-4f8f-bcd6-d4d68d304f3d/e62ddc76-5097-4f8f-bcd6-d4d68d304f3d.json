@@ -1,0 +1,99 @@
+{
+  "id": "e62ddc76-5097-4f8f-bcd6-d4d68d304f3d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Arianwen Pendragon",
+    "metadata": {
+      "age": 28,
+      "accent": "Welsh (South Wales Valleys)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "White",
+      "job_title": "Trainee Solicitor",
+      "languages": "English",
+      "birth_date": "1995-10-23",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Legal",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Creative",
+        "Disciplined",
+        "Composed",
+        "Analytical",
+        "Resourceful",
+        "Thoughtful",
+        "Curious"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Cardiff",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "apendragon",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Piercings",
+        "Freckles",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "South Wales Valleys, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed the socio-economic impact of environmental neglect on her childhood community, solidifying her commitment to legal advocacy and justice.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:46:31.258+00:00",
+  "updated_at": "2025-11-14T23:32:04.570Z",
+  "version": 14
+}

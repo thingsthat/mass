@@ -1,0 +1,136 @@
+{
+  "id": "aa7f0267-4a45-4bc3-96e8-87617f34862f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anvi Kaur",
+    "metadata": {
+      "age": 29,
+      "accent": "British English with a subtle Punjabi lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Financial Analyst",
+      "languages": "English",
+      "birth_date": "1995-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Finance",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Always Learning",
+        "Determined",
+        "Loyal",
+        "Analytical",
+        "Creative",
+        "Insightful",
+        "Resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Sikh",
+      "height_centimeters": 162,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "anvikaur",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "West London, England",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed the financial strain and lack of opportunity experienced by working-class families in her community during her youth, which motivated her career path and ethical focus.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Family",
+        "Responsibility",
+        "Innovation"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Streaming services",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:22:00.622+00:00",
+  "updated_at": "2025-11-14T23:31:47.567Z",
+  "version": 14
+}

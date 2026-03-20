@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Malcolm Price",
+    "metadata": {
+      "age": 65,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "British English with a subtle South London lilt, refined by higher education",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Methodical",
+        "Curious",
+        "Intellectually Adventurous",
+        "Principled",
+        "Perceptive",
+        "Dry-witted",
+        "Independent Thinker"
+      ],
+      "job_title": "Principal AI Ethics Researcher",
+      "relationship_status": "married",
+      "political_leaning": "Populist",
+      "birth_date": "1959-12-15",
+      "zodiac_sign": "Sagittarius",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Croydon"
+    },
+    "username": "mprice",
+    "connections": [
+      {
+        "persona_id": "9976906e-f93e-4e16-95ed-a2ad048eab6d",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Morwenna Price"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:54:42.099Z",
+  "updated_at": "2025-11-14T23:32:14.940Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ff503f4b-31d0-4aac-9520-faf1f5059875"
+}

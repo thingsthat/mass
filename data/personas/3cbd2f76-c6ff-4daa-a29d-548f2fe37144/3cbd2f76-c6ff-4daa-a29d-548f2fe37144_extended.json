@@ -1,0 +1,59 @@
+{
+  "id": "3cbd2f76-c6ff-4daa-a29d-548f2fe37144",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Contact lenses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Small",
+      "childhood_location": "Paris, France (8th Arrondissement)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced severe emotional control and conditional affection during childhood, resulting in hyper-vigilance and high-functioning anxiety.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Pragmatic",
+        "Relativist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Never",
+      "housing_situation": "Live with family",
+      "transportation": [
+        "Car owner",
+        "Rideshare",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

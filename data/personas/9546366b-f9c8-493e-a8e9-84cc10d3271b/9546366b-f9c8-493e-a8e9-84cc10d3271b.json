@@ -1,0 +1,100 @@
+{
+  "id": "9546366b-f9c8-493e-a8e9-84cc10d3271b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Oisin Grey: The Alchemist of the Overlooked",
+    "metadata": {
+      "age": 61,
+      "accent": "A mellowed South London accent, with a slight lyrical quality from years spent in artistic circles and perhaps a very subtle, almost imperceptible hint of a distant Irish lilt from family stories.",
+      "gender": "prefer not to say",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "religion": "Spiritual",
+      "city_town": "Bristol",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Independent Artisan and Curator of Forgotten Objects",
+      "languages": "English",
+      "birth_date": "1963-03-15",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Green",
+      "height_centimeters": 172,
+      "personality_traits": [
+        "Observant",
+        "Loyal",
+        "Creative",
+        "Resilient",
+        "Idealistic",
+        "Introspective",
+        "Unconventional"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "queer"
+    },
+    "username": "ogrey",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "trauma_history": "Experienced societal rejection and financial instability due to embracing an unconventional, artistic, and non-conformist lifestyle from a young age, leading to periods of isolation and scarcity.",
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "parental_status": "Has children",
+      "spending_habits": "Frugal",
+      "attachment_style": "Secure",
+      "diet_preferences": "Vegetarian",
+      "family_structure": "Nuclear",
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "ENFP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "South London, UK",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Light",
+      "therapy_experience": "Past",
+      "communication_style": "Empathetic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Gray hair"
+      ],
+      "mental_health_status": "Good",
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Very open",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "environmental_consciousness": "High"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T21:53:35.379+00:00",
+  "updated_at": "2025-11-14T23:31:40.936Z",
+  "version": 8
+}

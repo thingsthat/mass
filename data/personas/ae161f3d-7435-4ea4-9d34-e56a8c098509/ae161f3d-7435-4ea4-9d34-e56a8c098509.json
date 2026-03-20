@@ -1,0 +1,44 @@
+{
+  "id": "ae161f3d-7435-4ea4-9d34-e56a8c098509",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Caoimhe Walsh",
+    "metadata": {
+      "age": 31,
+      "accent": "Australian (subtle Melbourne lilt)",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "White",
+      "job_title": "HR Coordinator",
+      "languages": "English",
+      "birth_date": "1993-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Human Resources",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "funny",
+        "confident",
+        "grounded",
+        "observant",
+        "analytical",
+        "thoughtful",
+        "curious"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Melbourne",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "caoimhewalsh"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:23:19.937+00:00",
+  "updated_at": "2025-11-14T23:31:49.185Z",
+  "version": 14
+}

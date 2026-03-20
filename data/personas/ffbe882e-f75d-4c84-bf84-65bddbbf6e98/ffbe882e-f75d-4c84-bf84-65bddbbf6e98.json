@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stephen Miller",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "British English (educated, clear)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Retired",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Principled",
+        "Theoretical",
+        "Traditional",
+        "Analytical",
+        "Reserved",
+        "Punctilious",
+        "Resilient"
+      ],
+      "job_title": "Former Senior Archivist",
+      "relationship_status": "separated",
+      "political_leaning": "Liberal",
+      "birth_date": "1968-04-15",
+      "zodiac_sign": "Aries",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Bristol"
+    },
+    "username": "stephenmiller"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:10:41.685Z",
+  "updated_at": "2025-11-14T23:32:15.395Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ffbe882e-f75d-4c84-bf84-65bddbbf6e98"
+}

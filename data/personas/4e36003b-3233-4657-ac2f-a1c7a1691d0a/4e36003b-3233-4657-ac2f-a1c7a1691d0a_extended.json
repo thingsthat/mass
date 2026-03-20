@@ -1,0 +1,59 @@
+{
+  "id": "4e36003b-3233-4657-ac2f-a1c7a1691d0a",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "Mumbai, India",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant market crash losses early in her career that required swift, high-pressure remediation, leading to a profound focus on robust risk management and due diligence.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Deontological",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Excellent",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c7b8aee7-befd-483f-b4ff-d5b10a481f49",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Emberlynn Croft",
+    "metadata": {
+      "age": 24,
+      "accent": "Subtle cultivated American with a hint of softened Northern English lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Investment Analyst",
+      "languages": "English",
+      "birth_date": "2000-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Finance",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "imaginative",
+        "analytical",
+        "creative",
+        "open-minded",
+        "kind",
+        "observant",
+        "thoughtful"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Seattle, Washington",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "emberlynncroft"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:26:47.663+00:00",
+  "updated_at": "2025-11-14T23:31:57.563Z",
+  "version": 12
+}

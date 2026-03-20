@@ -1,0 +1,134 @@
+{
+  "id": "fe17cea6-f541-45d0-8ea8-5746b5a4e1ab",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kai Reynolds",
+    "metadata": {
+      "age": 33,
+      "accent": "British English (London cadence)",
+      "gender": "transgender",
+      "location": "United Kingdom",
+      "pronouns": "they/he",
+      "education": "Vocational or technical training",
+      "ethnicity": "East Asian",
+      "job_title": "Paramedic",
+      "languages": "English",
+      "birth_date": "1991-10-30",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Healthcare",
+      "political_leaning": "Moderate-Conservative",
+      "personality_traits": [
+        "Resilient",
+        "Community-Oriented",
+        "Pragmatic",
+        "Reserved (initially)",
+        "Principled",
+        "Empathetic",
+        "Disciplined"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "London",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "kaireynolds",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_status": "Former",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Working-class neighborhood in East London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Experience with severe substance addiction in early adulthood; emotional toll and lasting memories from military service as a combat medic.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Field",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Independent"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Community",
+        "Security",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Deontological",
+        "Social contract"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Sports"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "sexual_orientation": "queer",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:47:09.221+00:00",
+  "updated_at": "2025-11-14T23:32:14.269Z",
+  "version": 12
+}

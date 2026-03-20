@@ -1,0 +1,44 @@
+{
+  "id": "6584d770-701f-47f8-8493-96995f76d27f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Malaika Sharif",
+    "metadata": {
+      "age": 22,
+      "accent": "Bristolian (subtle)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Muslim",
+      "city_town": "Bristol",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Multiracial",
+      "job_title": "Currently Seeking Employment (formerly full-time mother/carer)",
+      "languages": "English",
+      "birth_date": "2002-10-28",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Unemployed",
+      "political_leaning": "Liberal",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Resilient",
+        "Empathetic",
+        "Resourceful",
+        "Optimistic",
+        "Protective",
+        "Curious",
+        "Gentle"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "msharif"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:55:10.543+00:00",
+  "updated_at": "2025-11-14T23:31:27.708Z",
+  "version": 5
+}

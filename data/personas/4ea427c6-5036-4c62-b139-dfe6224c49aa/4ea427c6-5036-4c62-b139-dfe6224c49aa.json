@@ -1,0 +1,139 @@
+{
+  "id": "4ea427c6-5036-4c62-b139-dfe6224c49aa",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Bao Minh Luong",
+    "metadata": {
+      "age": 51,
+      "accent": "American (Pacific Northwest, with subtle Vietnamese linguistic influences)",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "they/them",
+      "education": "Secondary education",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Freelance Documentary Editor",
+      "languages": "English",
+      "birth_date": "1973-10-05",
+      "zodiac_sign": "Libra",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Diplomatic",
+        "Curious",
+        "Thoughtful",
+        "Independent",
+        "Observant",
+        "Easygoing"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 170,
+      "city_town": "Seattle",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "baominhluong",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Vietnam and Seattle, Washington, USA",
+      "family_structure": "Extended",
+      "trauma_history": "Generational trauma related to early childhood displacement following the Vietnam War; family adjusted well in a new culture.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Remote",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Compassion",
+        "Creativity",
+        "Growth",
+        "Authenticity",
+        "Balance"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Documentaries",
+        "Music",
+        "Art galleries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:16:59.04+00:00",
+  "updated_at": "2025-11-14T23:31:22.511Z",
+  "version": 12
+}

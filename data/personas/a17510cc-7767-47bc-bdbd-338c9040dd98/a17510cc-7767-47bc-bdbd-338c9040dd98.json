@@ -1,0 +1,136 @@
+{
+  "id": "a17510cc-7767-47bc-bdbd-338c9040dd98",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Javier \"Javi\" Reyes",
+    "metadata": {
+      "age": 35,
+      "accent": "Subtle Texas English",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Hispanic",
+      "job_title": "Logistics Specialist",
+      "languages": "English",
+      "birth_date": "1989-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Military",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Insightful",
+        "Affectionate",
+        "Disciplined",
+        "Loyal",
+        "Adaptable",
+        "Thoughtful",
+        "Resilient"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 175,
+      "city_town": "Austin",
+      "sexual_orientation": "queer"
+    },
+    "username": "jreyes",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Short hair",
+        "Beard"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Small town outside San Antonio, Texas",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant operational stress and observed traumatic events during deployment, resulting in minor but managed symptoms of hypervigilance.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Seeking change",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Loyalty",
+        "Integrity",
+        "Responsibility",
+        "Community",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Gaming console"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Music",
+        "Live events",
+        "Documentaries",
+        "YouTube"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "PTSD"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Multiple vehicles"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:42:02.436+00:00",
+  "updated_at": "2025-11-14T23:31:44.741Z",
+  "version": 14
+}

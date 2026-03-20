@@ -1,0 +1,44 @@
+{
+  "id": "d85792f0-58ab-49ac-b732-29f970333961",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eleanor Clarke",
+    "metadata": {
+      "age": 32,
+      "accent": "London (Estuary English)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Junior Producer",
+      "languages": "English",
+      "birth_date": "1992-06-05",
+      "zodiac_sign": "Gemini",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "adaptable",
+        "curious",
+        "creative",
+        "ambitious",
+        "witty",
+        "observant",
+        "empathetic"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "eclarke"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:18:29.389+00:00",
+  "updated_at": "2025-11-14T23:32:01.871Z",
+  "version": 14
+}

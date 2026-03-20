@@ -1,0 +1,141 @@
+{
+  "id": "ad3356a2-ccda-42f8-8a8c-d61fb6ae0225",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jocasta Blythe",
+    "metadata": {
+      "age": 52,
+      "accent": "British (Slightly educated, Northern undertones)",
+      "gender": "man",
+      "location": "Australia",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Network Strategy Consultant",
+      "languages": "English",
+      "birth_date": "1972-03-05",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Creative",
+        "Curious about others",
+        "Ambitious",
+        "Empathetic",
+        "Observant",
+        "Playful Dissent"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Melbourne",
+      "sexual_orientation": "queer"
+    },
+    "username": "jocastablythe",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Dyed hair",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Coastal town in County Durham, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant internal conflict and social friction during a prolonged mid-life identity transition and non-conforming self-definition.",
+      "income_range": "150k-200k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Calm",
+        "Anxious"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Visual",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Growth",
+        "Integrity",
+        "Innovation",
+        "Responsibility",
+        "Justice"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Consequentialist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Live events",
+        "Streaming services",
+        "Podcasts"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Few relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Anxiety"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:58:58.74+00:00",
+  "updated_at": "2025-11-14T23:31:49.056Z",
+  "version": 12
+}

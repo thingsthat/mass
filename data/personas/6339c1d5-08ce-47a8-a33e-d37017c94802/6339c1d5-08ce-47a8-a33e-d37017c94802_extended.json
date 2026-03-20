@@ -1,0 +1,62 @@
+{
+  "id": "6339c1d5-08ce-47a8-a33e-d37017c94802",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Calgary, Alberta",
+      "family_structure": "Nuclear",
+      "trauma_history": "Battles quiet insecurity and social anxiety, especially in new social settings, leading to avoidant tendencies in emotional conflict.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Responsibility",
+        "Growth",
+        "Independence"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart TV"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Books",
+        "Gaming",
+        "Streaming services"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

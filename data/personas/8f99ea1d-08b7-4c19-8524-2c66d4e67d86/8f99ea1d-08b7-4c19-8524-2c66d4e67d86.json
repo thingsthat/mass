@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sarah Solberg",
+    "metadata": {
+      "age": 55,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "White",
+      "accent": "Soft West Country British accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Detail-oriented",
+        "Analytical",
+        "Loyal",
+        "Practical",
+        "Patient",
+        "Empathetic"
+      ],
+      "job_title": "Skills Training Coordinator",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1969-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "sarah_solberg",
+    "connections": [
+      {
+        "persona_id": "2e7f68e0-4078-4b73-ab06-26a6019b9db0",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Dagfinn Solberg"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:43:46.489Z",
+  "updated_at": "2025-11-14T23:31:39.350Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "8f99ea1d-08b7-4c19-8524-2c66d4e67d86"
+}

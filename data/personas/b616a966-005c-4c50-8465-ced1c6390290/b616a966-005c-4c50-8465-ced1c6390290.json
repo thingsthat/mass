@@ -1,0 +1,43 @@
+{
+  "id": "b616a966-005c-4c50-8465-ced1c6390290",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eleanor Vance",
+    "metadata": {
+      "age": 34,
+      "accent": "Received Pronunciation",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Content Strategist",
+      "languages": "English",
+      "birth_date": "1990-10-05",
+      "zodiac_sign": "Libra",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "curious",
+        "analytical",
+        "creative",
+        "diplomatic",
+        "ambitious",
+        "thoughtful"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "eleanorvance"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:23:52.957+00:00",
+  "updated_at": "2025-11-14T23:31:51.232Z",
+  "version": 14
+}

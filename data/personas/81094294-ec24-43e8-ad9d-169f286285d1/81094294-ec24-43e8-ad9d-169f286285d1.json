@@ -1,0 +1,132 @@
+{
+  "id": "81094294-ec24-43e8-ad9d-169f286285d1",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Leila Tan",
+    "metadata": {
+      "age": 39,
+      "accent": "Australian, with a subtle inflection",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "she/her",
+      "education": "Associate degree",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Production Quality Analyst",
+      "languages": "English",
+      "birth_date": "1985-07-22",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Manufacturing",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Analytical",
+        "Curious",
+        "Creative",
+        "Resilient",
+        "Observant",
+        "Resourceful",
+        "Authentic"
+      ],
+      "relationship_status": "separated",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Perth",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "ltan",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Regional Western Australia, Australia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating the challenging emotional and logistical process of a recent long-term marital separation, focusing on rebuilding financial and emotional independence.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Factory",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Honesty",
+        "Independence",
+        "Growth",
+        "Integrity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:10:41.233+00:00",
+  "updated_at": "2025-11-14T23:31:35.187Z",
+  "version": 14
+}

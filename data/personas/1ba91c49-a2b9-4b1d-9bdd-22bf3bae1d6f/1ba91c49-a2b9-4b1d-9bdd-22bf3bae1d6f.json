@@ -1,0 +1,149 @@
+{
+  "id": "1ba91c49-a2b9-4b1d-9bdd-22bf3bae1d6f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kalyani Varma",
+    "metadata": {
+      "age": 39,
+      "accent": "Neutral American with a subtle, melodic South Asian lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Network Architect",
+      "languages": "English",
+      "birth_date": "1985-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Telecommunications",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Witty",
+        "Grounded",
+        "Perfectionist",
+        "Analytical",
+        "Empathetic",
+        "Resourceful"
+      ],
+      "relationship_status": "married",
+      "religion": "Prefer not to say",
+      "height_centimeters": 165,
+      "city_town": "Seattle",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "kalyani_varma",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Seattle, Washington, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant academic pressure and burnout during her PhD, leading to temporary severe anxiety and a period of self-isolation.",
+      "income_range": "150k-200k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Anxious",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Knowledge",
+        "Community",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Gaming",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Anxiety"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    },
+    "connections": [
+      {
+        "persona_id": "3e9f529f-896a-4ec8-98f6-2c6082c11984",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Arjun Varma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:53:23.358+00:00",
+  "updated_at": "2025-11-14T23:31:08.287Z",
+  "version": 12
+}

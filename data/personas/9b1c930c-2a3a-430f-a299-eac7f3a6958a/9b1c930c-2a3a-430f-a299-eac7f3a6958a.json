@@ -1,0 +1,150 @@
+{
+  "id": "9b1c930c-2a3a-430f-a299-eac7f3a6958a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ishita Rajguru",
+    "metadata": {
+      "age": 31,
+      "accent": "Soft Brazilian accent with a slight lilt from Portuguese cadence.",
+      "gender": "woman",
+      "location": "Brazil",
+      "pronouns": "he/they",
+      "education": "Secondary education",
+      "ethnicity": "South Asian",
+      "job_title": "Vocational Technical Trainer",
+      "languages": "English",
+      "birth_date": "1993-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Calm Under Pressure",
+        "Observant",
+        "Analytical",
+        "Humble",
+        "Resourceful",
+        "Principled"
+      ],
+      "relationship_status": "married",
+      "religion": "Hindu",
+      "height_centimeters": 165,
+      "city_town": "Salvador",
+      "sexual_orientation": "queer"
+    },
+    "username": "irajguru",
+    "metadata_extended": {
+      "body_type": "Muscular",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "S\u00e3o Paulo, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed severe resource deprivation during youth service work, influencing commitment to equitable sustainable development.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "School",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Community",
+        "Creativity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Currently partnered",
+        "Long-term relationships"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "queer",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Excellent",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    },
+    "connections": [
+      {
+        "persona_id": "5cde0a84-3ed5-4983-b25a-c362691fe0f9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kailash Rajguru"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:34:10.769+00:00",
+  "updated_at": "2025-11-14T23:31:42.677Z",
+  "version": 12
+}

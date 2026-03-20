@@ -1,0 +1,99 @@
+{
+  "id": "f2becf24-5f86-4715-afa6-0fdae7968679",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Idrissa Benoit",
+    "metadata": {
+      "age": 41,
+      "accent": "South African English, with a light French cadence",
+      "gender": "man",
+      "location": "France",
+      "pronouns": "they/she",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Black",
+      "job_title": "Retail Operations Manager",
+      "languages": "English",
+      "birth_date": "1983-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Retail",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Open-Minded",
+        "Mentally Tough",
+        "Charismatic",
+        "Always Learning",
+        "Empathetic",
+        "Expert at Obscure Trivia"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Agnostic",
+      "height_centimeters": 182,
+      "city_town": "Paris",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "idrissabenoit",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Tobacco"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "Durban, South Africa",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced cultural displacement and financial strain following emigration, which catalyzed his mental toughness and resilience.",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Gaming",
+        "Documentaries",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:38:31.058+00:00",
+  "updated_at": "2025-11-14T23:32:09.624Z",
+  "version": 12
+}

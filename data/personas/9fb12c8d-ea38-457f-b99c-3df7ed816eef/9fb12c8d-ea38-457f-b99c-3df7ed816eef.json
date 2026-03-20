@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lourdes Santos",
+    "metadata": {
+      "age": 65,
+      "gender": "woman",
+      "pronouns": "they/them",
+      "ethnicity": "Southeast Asian",
+      "accent": "Soft Filipino accent with a slight British lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Associate degree",
+      "personality_traits": [
+        "Meticulous",
+        "Compassionate",
+        "Pragmatic",
+        "Resilient",
+        "Reserved",
+        "Observant",
+        "Steadfast"
+      ],
+      "job_title": "Senior Staff Nurse (Community Care)",
+      "relationship_status": "widowed",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1959-11-12",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 158,
+      "city_town": "Bristol"
+    },
+    "username": "lourdessantos"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:30:10.905Z",
+  "updated_at": "2025-11-14T23:31:43.850Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "9fb12c8d-ea38-457f-b99c-3df7ed816eef"
+}

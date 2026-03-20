@@ -1,0 +1,59 @@
+{
+  "id": "e689c340-3b22-4e0e-a40e-23afe9721aa9",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Various cities internationally, due to parents' freelance work.",
+      "family_structure": "Single parent",
+      "trauma_history": "Experienced personal trials and significant life adjustments due to frequent childhood moves and becoming a young single mother.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Pragmatic",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Light",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Streaming services",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

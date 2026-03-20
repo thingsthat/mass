@@ -1,0 +1,141 @@
+{
+  "id": "7371cb96-0ff4-46da-9c76-f2e26d813f41",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lior Whitlock",
+    "metadata": {
+      "age": 21,
+      "accent": "Standard British English with a subtle South Asian lilt",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Secondary education",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Software Developer",
+      "languages": "English",
+      "birth_date": "2003-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Thoughtful",
+        "Diplomatic",
+        "Analytical",
+        "Resourceful",
+        "Curious",
+        "Observant"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 170,
+      "city_town": "Manchester",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "lwhitlock",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Dyed hair",
+        "Piercings",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Manchester, England",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced challenges reconciling dual cultural identity and navigating gender dysphoria/nonbinary identity during teenage years, leading to periods of social withdrawal.",
+      "income_range": "20k-40k",
+      "career_stage": "Entry-level",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTP",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Creativity",
+        "Growth",
+        "Justice",
+        "Authenticity",
+        "Community"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Podcasts",
+        "Gaming",
+        "Documentaries",
+        "YouTube",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:50:14.079+00:00",
+  "updated_at": "2025-11-14T23:31:31.586Z",
+  "version": 14
+}

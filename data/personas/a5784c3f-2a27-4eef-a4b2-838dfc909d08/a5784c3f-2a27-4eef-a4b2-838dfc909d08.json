@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marcus Adebayo",
+    "metadata": {
+      "age": 56,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Black",
+      "accent": "British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Engineering",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Analytical",
+        "Cautious",
+        "Reserved",
+        "Perfectionist",
+        "Skeptical",
+        "Loyal"
+      ],
+      "job_title": "Senior Structural Engineer",
+      "relationship_status": "widowed",
+      "political_leaning": "Centrist",
+      "birth_date": "1968-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Manchester"
+    },
+    "username": "marcus_adebayo"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:11:43.155Z",
+  "updated_at": "2025-11-14T23:31:46.496Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "a5784c3f-2a27-4eef-a4b2-838dfc909d08"
+}

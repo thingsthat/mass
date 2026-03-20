@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Romeo Bautista",
+    "metadata": {
+      "age": 41,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Southeast Asian",
+      "accent": "General American with subtle Filipino inflections",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Media & Entertainment",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Fiercely Independent",
+        "Hands-on",
+        "Detail-Oriented",
+        "Patient",
+        "Self-reliant",
+        "Principled",
+        "Thoughtful"
+      ],
+      "job_title": "Senior Video Editor",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1983-04-10",
+      "zodiac_sign": "Aries",
+      "religion": "Buddhist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 170,
+      "city_town": "San Francisco"
+    },
+    "username": "romeo_bautista",
+    "connections": [
+      {
+        "persona_id": "b6dddaca-0f03-48ad-9d7c-2183898fd7af",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Sophea Kael"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:58:54.318Z",
+  "updated_at": "2025-11-14T23:31:42.563Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "9af6372a-baa9-44c0-a18e-b819183744f2"
+}

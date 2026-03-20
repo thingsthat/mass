@@ -1,0 +1,60 @@
+{
+  "id": "cd93c3eb-99e0-4db9-b8fe-14263e24b1a8",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Expert",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "trauma_history": "Feeling perpetually misunderstood and pressured by their traditional, wealthy family to abandon experimental creative pursuits for a 'respectable' career, leading to long-term anxiety and feeling like an outsider.",
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Moderate",
+      "attachment_style": "Avoidant",
+      "diet_preferences": "Omnivore",
+      "family_structure": "Nuclear",
+      "news_consumption": "Moderate",
+      "travel_frequency": "Frequent",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INTP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "Paris, France",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Moderate",
+      "therapy_experience": "Past",
+      "communication_style": "Direct",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings"
+      ],
+      "mental_health_status": "Fair",
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Gaming",
+        "Podcasts"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kaiara Akiyama",
+    "metadata": {
+      "age": 58,
+      "gender": "genderfluid",
+      "pronouns": "they/them",
+      "ethnicity": "Mixed",
+      "accent": "Brazilian Portuguese",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Marketing & Advertising",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Methodical",
+        "Analytical",
+        "Observant",
+        "Discreet",
+        "Principled",
+        "Pensive",
+        "Empathetic"
+      ],
+      "job_title": "Director of Brand Strategy",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1966-10-28",
+      "zodiac_sign": "Scorpio",
+      "religion": "Spiritual",
+      "sexual_orientation": "pansexual",
+      "height_centimeters": 170,
+      "city_town": "Salvador"
+    },
+    "username": "kaiara_akiyama",
+    "connections": [
+      {
+        "persona_id": "e0d934cd-db63-463b-af22-e05f24b537a9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Riordan Akiyama"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:04:05.429Z",
+  "updated_at": "2025-11-14T23:31:52.605Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "b943af0c-bcef-4678-bd83-312e52e7ae36"
+}

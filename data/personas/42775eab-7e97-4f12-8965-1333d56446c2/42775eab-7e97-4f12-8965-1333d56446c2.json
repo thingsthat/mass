@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Karen Mitchell",
+    "metadata": {
+      "age": 52,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Standard British English with a subtle Northern English lilt (specifically Manchester)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Hospitality",
+      "education": "Associate degree",
+      "personality_traits": [
+        "Manipulative",
+        "Spontaneous",
+        "Insightful",
+        "Flexible",
+        "Resilient",
+        "Perceptive"
+      ],
+      "job_title": "Hotel Operations Manager",
+      "relationship_status": "separated",
+      "political_leaning": "Liberal",
+      "birth_date": "1972-06-15",
+      "zodiac_sign": "Gemini",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Manchester"
+    },
+    "username": "karen_mitchell"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:16:32.171Z",
+  "updated_at": "2025-11-14T23:31:19.455Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "42775eab-7e97-4f12-8965-1333d56446c2"
+}

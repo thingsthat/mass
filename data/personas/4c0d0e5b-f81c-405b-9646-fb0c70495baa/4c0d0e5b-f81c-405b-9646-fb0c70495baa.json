@@ -1,0 +1,136 @@
+{
+  "id": "4c0d0e5b-f81c-405b-9646-fb0c70495baa",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kwasi Aneurin Adjei",
+    "metadata": {
+      "age": 31,
+      "accent": "Canadian English (mild, smooth pace)",
+      "gender": "man",
+      "location": "Canada",
+      "pronouns": "he/they",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Black",
+      "job_title": "Quality Control Inspector",
+      "languages": "English",
+      "birth_date": "1993-05-10",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Manufacturing",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Adaptable",
+        "Imaginative",
+        "Collaborative",
+        "Funny",
+        "Open-Minded",
+        "Observant",
+        "Adventure Seeker"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "Vancouver",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "kwasianeurinadje",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Vancouver, Canada (with a three-year period in Cardiff, Wales)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced minor displacement and culture shock during a sudden move to Wales in adolescence, leading to temporary feelings of social isolation that heavily influenced his focus on adaptability.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Factory",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Visual"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Adventure",
+        "Balance"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Books",
+        "Music",
+        "Streaming services",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T14:42:28.344+00:00",
+  "updated_at": "2025-11-14T23:31:21.886Z",
+  "version": 12
+}

@@ -1,0 +1,43 @@
+{
+  "id": "94e879b8-4294-4287-a1d1-153fad409116",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kian Macaraig",
+    "metadata": {
+      "age": 41,
+      "accent": "New Zealander (Kiwi) with a slight Filipino inflection",
+      "gender": "man",
+      "location": "New Zealand",
+      "pronouns": "they/she",
+      "education": "Vocational or technical training",
+      "ethnicity": "Mixed",
+      "job_title": "Senior Logistics Technician, RNZAF",
+      "languages": "English",
+      "birth_date": "1983-09-08",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Military",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "humble",
+        "principled",
+        "mentally tough",
+        "analytical",
+        "observant",
+        "witty"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 173,
+      "city_town": "Wellington",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "kianmacaraig"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:29:28.755+00:00",
+  "updated_at": "2025-11-14T23:31:40.826Z",
+  "version": 12
+}

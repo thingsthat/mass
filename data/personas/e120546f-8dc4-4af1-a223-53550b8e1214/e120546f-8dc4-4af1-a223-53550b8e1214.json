@@ -1,0 +1,44 @@
+{
+  "id": "e120546f-8dc4-4af1-a223-53550b8e1214",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kamar El-Hassan",
+    "metadata": {
+      "age": 41,
+      "accent": "Australian Lilt with French Cadence",
+      "gender": "nonbinary",
+      "location": "France",
+      "pronouns": "ze/zir",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Experiential Event Designer",
+      "languages": "Arabic",
+      "birth_date": "1983-09-28",
+      "zodiac_sign": "Libra",
+      "job_industry": "Hospitality",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "romantic",
+        "funny",
+        "compassionate",
+        "charismatic",
+        "observant",
+        "easygoing",
+        "thoughtful"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Spiritual",
+      "height_centimeters": 172,
+      "city_town": "Paris",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "kamarelhassan"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:40:08.813+00:00",
+  "updated_at": "2025-11-14T23:32:04.133Z",
+  "version": 12
+}

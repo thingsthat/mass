@@ -1,0 +1,42 @@
+{
+  "id": "df986c04-9e75-4bdc-aedf-3e6febe5f1c9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Avery Johnson",
+    "metadata": {
+      "age": 34,
+      "accent": "None",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Teacher",
+      "languages": "English",
+      "birth_date": "1990-03-10",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "kind",
+        "empathetic",
+        "creative",
+        "thoughtful",
+        "intuitive"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "San Francisco",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "averyjohnson"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T18:33:54.728+00:00",
+  "updated_at": "2025-11-14T23:32:03.196Z",
+  "version": 14
+}

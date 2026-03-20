@@ -1,0 +1,44 @@
+{
+  "id": "84f97df8-1d43-4ba5-a8e2-ea46a56d6926",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Caspian R\u00edos",
+    "metadata": {
+      "age": 22,
+      "accent": "American (Pacific Northwest), with subtle inflections from his diverse background",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "Associate degree",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Policy Analyst",
+      "languages": "English",
+      "birth_date": "2002-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "determined",
+        "confident",
+        "diplomatic",
+        "analytical",
+        "observant",
+        "curious",
+        "authentic"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Portland",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "caspianros"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:27:06.412+00:00",
+  "updated_at": "2025-11-14T23:31:36.157Z",
+  "version": 14
+}

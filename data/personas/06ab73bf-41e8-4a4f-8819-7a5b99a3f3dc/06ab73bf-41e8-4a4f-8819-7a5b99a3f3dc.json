@@ -1,0 +1,136 @@
+{
+  "id": "06ab73bf-41e8-4a4f-8819-7a5b99a3f3dc",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elowen Rhys",
+    "metadata": {
+      "age": 41,
+      "accent": "Welsh (South Wales, subtle)",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Archivist and Data Curator",
+      "languages": "English",
+      "birth_date": "1982-06-15",
+      "zodiac_sign": "Gemini",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Analytical",
+        "Meticulous",
+        "Introspective",
+        "Resourceful",
+        "Unconventional",
+        "Patient"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Cardiff",
+      "sexual_orientation": "queer"
+    },
+    "username": "elowen_rhys",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Rural South Wales, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant identity questioning and social pressure in early adulthood, leading to a period of withdrawal, now managed through mindfulness and self-acceptance.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Promotion seeking",
+      "myers_briggs_type": "INTP",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Authenticity",
+        "Growth",
+        "Freedom"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Museums"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Few relationships",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:36:38.379+00:00",
+  "updated_at": "2025-11-14T23:31:02.425Z",
+  "version": 15
+}

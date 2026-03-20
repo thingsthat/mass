@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Devan Patel",
+    "metadata": {
+      "age": 53,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "South Asian",
+      "accent": "Standard British English with a subtle South Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Government",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Analytical",
+        "Open-minded",
+        "Detail-oriented",
+        "Pragmatic",
+        "Quietly Humorous",
+        "Takes Initiative"
+      ],
+      "job_title": "Senior Policy Advisor",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1971-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Hindu",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "dpatel",
+    "connections": [
+      {
+        "persona_id": "6b5f5d69-5461-4692-8a7f-48768a474203",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Nadia Patel"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:49:14.665Z",
+  "updated_at": "2025-11-14T23:31:15.183Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "34c80680-bf6c-431e-848b-4c129f703ada"
+}

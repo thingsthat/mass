@@ -1,0 +1,43 @@
+{
+  "id": "abc0c8ca-3911-4909-a6f0-88c6911018f0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Shaila Khanna",
+    "metadata": {
+      "age": 25,
+      "accent": "Educated British English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Prefer not to say",
+      "city_town": "London",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Digital Strategy Lead",
+      "languages": "English",
+      "birth_date": "1999-10-27",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Marketing & Advertising",
+      "political_leaning": "Apolitical",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Rebellious",
+        "Astute",
+        "Unflappable",
+        "Eccentric",
+        "Intensely Independent",
+        "Sincere"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "shailakhanna"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T22:02:24.503+00:00",
+  "updated_at": "2025-11-14T23:31:48.449Z",
+  "version": 8
+}

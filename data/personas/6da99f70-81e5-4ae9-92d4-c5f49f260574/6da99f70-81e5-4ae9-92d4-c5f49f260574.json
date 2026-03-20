@@ -1,0 +1,44 @@
+{
+  "id": "6da99f70-81e5-4ae9-92d4-c5f49f260574",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Imani Azibo",
+    "metadata": {
+      "age": 32,
+      "accent": "Soft, melodic New Zealand accent with a subtle South African lilt.",
+      "gender": "genderfluid",
+      "location": "New Zealand",
+      "pronouns": "they/them",
+      "religion": "Spiritual",
+      "city_town": "Auckland",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed",
+      "job_title": "Research Ethicist",
+      "languages": "English",
+      "birth_date": "1992-06-25",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "height_centimeters": 178,
+      "personality_traits": [
+        "Grounded",
+        "Mentally Tough",
+        "Thoughtful",
+        "Always Learning",
+        "Empathetic",
+        "Principled",
+        "Observant"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "imani_azibo"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T10:34:05.054+00:00",
+  "updated_at": "2025-11-14T23:31:29.727Z",
+  "version": 8
+}

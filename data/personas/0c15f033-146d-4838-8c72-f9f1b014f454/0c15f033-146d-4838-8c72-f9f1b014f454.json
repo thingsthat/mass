@@ -1,0 +1,133 @@
+{
+  "id": "0c15f033-146d-4838-8c72-f9f1b014f454",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Chloe Anderson",
+    "metadata": {
+      "age": 32,
+      "accent": "General American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Patient Care Coordinator",
+      "languages": "English",
+      "birth_date": "1992-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Healthcare",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Confident",
+        "Funny",
+        "Empathetic",
+        "Observant",
+        "Adaptable",
+        "Witty"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Denver",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "chloeanderson",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Chicago Suburbs, Illinois",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed prolonged serious illness in family, which influenced a career path in patient care and advocacy.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hospital",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Promotion seeking",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Collaborative"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Practical"
+      ],
+      "core_values": [
+        "Compassion",
+        "Integrity",
+        "Growth",
+        "Community",
+        "Balance"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Streaming services",
+        "Music",
+        "Books",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:30:47.653+00:00",
+  "updated_at": "2025-11-14T23:31:05.141Z",
+  "version": 14
+}

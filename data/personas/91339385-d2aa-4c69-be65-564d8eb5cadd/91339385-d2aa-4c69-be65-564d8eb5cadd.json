@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nadia Safar",
+    "metadata": {
+      "age": 47,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "North African",
+      "accent": "Standard British English with a subtle North African lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Government",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Adventurous",
+        "Expressive",
+        "Spontaneous",
+        "Strategic",
+        "Generous",
+        "Loyal"
+      ],
+      "job_title": "Senior Policy Advisor",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1977-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Muslim",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Manchester"
+    },
+    "username": "nadiasafar",
+    "connections": [
+      {
+        "persona_id": "d29d16c6-4d99-43f9-9fec-6429f31cd296",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Zarif Safar"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:01:36.462Z",
+  "updated_at": "2025-11-14T23:31:39.952Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "91339385-d2aa-4c69-be65-564d8eb5cadd"
+}

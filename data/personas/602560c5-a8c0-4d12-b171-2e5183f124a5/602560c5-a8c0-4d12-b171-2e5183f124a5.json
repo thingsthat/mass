@@ -1,0 +1,97 @@
+{
+  "id": "602560c5-a8c0-4d12-b171-2e5183f124a5",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Bronwyn Alun",
+    "metadata": {
+      "age": 26,
+      "accent": "South Walian (Cardiff)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Medical Laboratory Technician",
+      "languages": "English",
+      "birth_date": "1998-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Healthcare",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Disciplined",
+        "Brave",
+        "Sensitive",
+        "Perfectionism",
+        "Observant",
+        "Grounded",
+        "Morning Person"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Cardiff",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "balun",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Cardiff, Wales, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Significant childhood illness requiring extended hospitalization, which instilled both a deep fear of vulnerability and a profound dedication to healthcare precision.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Virtue ethics",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:57:33.084+00:00",
+  "updated_at": "2025-11-14T23:31:26.102Z",
+  "version": 14
+}

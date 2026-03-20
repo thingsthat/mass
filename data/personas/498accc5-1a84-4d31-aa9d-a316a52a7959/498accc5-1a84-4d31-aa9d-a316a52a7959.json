@@ -1,0 +1,149 @@
+{
+  "id": "498accc5-1a84-4d31-aa9d-a316a52a7959",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Maellys Adewale",
+    "metadata": {
+      "age": 71,
+      "accent": "South Wales Valley accent with a subtle melodic lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Vocational or technical training",
+      "ethnicity": "Black",
+      "job_title": "Program Coordinator, Community Sustainability",
+      "languages": "English",
+      "birth_date": "1952-07-10",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Mentally Tough",
+        "Romantic",
+        "Resourceful",
+        "Ambitious",
+        "Compassionate",
+        "Observant"
+      ],
+      "relationship_status": "married",
+      "religion": "Prefer not to say",
+      "height_centimeters": 160,
+      "city_town": "Cardiff",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "maellys_adewale",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Observational",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Large",
+      "childhood_location": "Cardiff, Wales, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced generational and localized racial prejudice growing up in the UK; dealt with funding crises and burnout during decades of nonprofit community work.",
+      "income_range": "40k-60k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Community",
+        "Growth",
+        "Compassion",
+        "Integrity",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart TV"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Movies",
+        "Documentaries",
+        "Live events",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Arthritis",
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    },
+    "connections": [
+      {
+        "persona_id": "ff203ba3-bf6f-469c-8a92-a7e57ed0abc9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Trevor Adewale"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:25:03.327+00:00",
+  "updated_at": "2025-11-14T23:31:21.001Z",
+  "version": 12
+}

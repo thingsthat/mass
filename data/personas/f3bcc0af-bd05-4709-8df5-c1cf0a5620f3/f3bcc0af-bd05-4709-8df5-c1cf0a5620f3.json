@@ -1,0 +1,55 @@
+{
+  "id": "f3bcc0af-bd05-4709-8df5-c1cf0a5620f3",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sita Ang",
+    "metadata": {
+      "age": 33,
+      "accent": "Soft, educated British English with subtle Southeast Asian inflections",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "name only",
+      "education": "Currently enrolled",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Community Organiser",
+      "languages": "English",
+      "birth_date": "1991-03-25",
+      "zodiac_sign": "Aries",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Confident",
+        "Confrontational",
+        "Easily Distracted",
+        "Idealistic",
+        "Empathetic",
+        "Resilient"
+      ],
+      "relationship_status": "married",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Manchester",
+      "sexual_orientation": "queer"
+    },
+    "username": "sitaang",
+    "connections": [
+      {
+        "persona_id": "375148c2-625a-4fde-a8f4-a326afe3f8b3",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to L\u00e2m Ang"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:43:42.83+00:00",
+  "updated_at": "2025-11-14T23:32:10.047Z",
+  "version": 12
+}

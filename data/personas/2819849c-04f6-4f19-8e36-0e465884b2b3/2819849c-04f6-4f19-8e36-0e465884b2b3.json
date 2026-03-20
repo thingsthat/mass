@@ -1,0 +1,50 @@
+{
+  "id": "2819849c-04f6-4f19-8e36-0e465884b2b3",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aeliana Caldwell",
+    "metadata": {
+      "age": 39,
+      "accent": "Refined British",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "White",
+      "job_title": "Head of Strategic Innovations",
+      "languages": "English",
+      "job_industry": "Energy & Utilities",
+      "personality_traits": [
+        "philosophical",
+        "spontaneous",
+        "affectionate",
+        "analytical",
+        "resilient",
+        "observant",
+        "curious"
+      ],
+      "relationship_status": "married",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "acaldwell",
+    "connections": [
+      {
+        "persona_id": "cdff8f41-5ccf-4e4b-b5e0-58bbc1485ef3",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Jonathan Croft"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T09:44:06.602+00:00",
+  "updated_at": "2025-11-14T23:31:11.397Z",
+  "version": 8
+}

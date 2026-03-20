@@ -1,0 +1,138 @@
+{
+  "id": "07f1491a-534a-4c91-93b9-43ef69266fb1",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Emilio Calder\u00f3n",
+    "metadata": {
+      "age": 26,
+      "accent": "Subtle Castilian Spanish influence when speaking English",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "they/he",
+      "education": "No formal education",
+      "ethnicity": "Hispanic",
+      "job_title": "Mixologist",
+      "languages": "English",
+      "birth_date": "1998-04-15",
+      "zodiac_sign": "Aries",
+      "job_industry": "Hospitality",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "Creative",
+        "Imaginative",
+        "Analytical",
+        "Observant",
+        "Resourceful",
+        "Witty",
+        "Expert at Obscure Trivia"
+      ],
+      "relationship_status": "single",
+      "religion": "Prefer not to say",
+      "height_centimeters": 178,
+      "city_town": "Santa Fe",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "ecaldern",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Santa Fe, New Mexico, United States",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant pressure and conflict due to choosing an artistic, non-traditional career path over academic expectations, leading to early financial independence and temporary isolation from certain family members who desired a conventional life for him.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Restaurant",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTP",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Withdrawn"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Excellence",
+        "Independence",
+        "Growth",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Music",
+        "Documentaries",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:55:56.754+00:00",
+  "updated_at": "2025-11-14T23:31:02.667Z",
+  "version": 14
+}

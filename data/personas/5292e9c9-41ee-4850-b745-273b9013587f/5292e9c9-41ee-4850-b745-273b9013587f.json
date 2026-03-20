@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Cora Ainsworth",
+    "metadata": {
+      "age": 27,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "A gentle, clear British English accent, softened by the diverse influences of her adoptive Cambridge upbringing, occasionally revealing a subtle lilt that is hard to pinpoint but adds to her unique charm. Her enunciation is precise, a testament to her extensive homeschooling which emphasized rhetoric and elocution.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Education",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Friendly",
+        "Cautious",
+        "Competitive",
+        "Optimistic",
+        "Problem-Solver",
+        "Curious",
+        "Independent"
+      ],
+      "job_title": "Primary School Educator (Key Stage 2 Specialist) Trainee",
+      "relationship_status": "single",
+      "political_leaning": "Independent",
+      "birth_date": "1997-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Jewish",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Cambridge"
+    },
+    "username": "cora_ainsworth"
+  },
+  "type": "persona",
+  "created_at": "2025-11-05T16:20:10.657Z",
+  "updated_at": "2025-11-14T23:31:22.883Z",
+  "acl": {
+    "public": true
+  },
+  "version": 4,
+  "id": "5292e9c9-41ee-4850-b745-273b9013587f"
+}

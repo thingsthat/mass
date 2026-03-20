@@ -1,0 +1,44 @@
+{
+  "id": "625ed9ac-73e8-437a-8c57-54b98f264662",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Julian Almeida",
+    "metadata": {
+      "age": 23,
+      "accent": "Bristolian",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "religion": "Christian",
+      "city_town": "Bristol",
+      "education": "Some college or university",
+      "ethnicity": "Multiracial",
+      "job_title": "Healthcare Assistant",
+      "languages": "English",
+      "birth_date": "2000-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Healthcare",
+      "political_leaning": "Liberal",
+      "height_centimeters": 175,
+      "personality_traits": [
+        "Empathetic",
+        "Resilient",
+        "Resourceful",
+        "Diligent",
+        "Optimistic",
+        "Wise",
+        "Insightful"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "jalmeida"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T12:10:48.476+00:00",
+  "updated_at": "2025-11-14T23:31:26.827Z",
+  "version": 5
+}

@@ -1,0 +1,139 @@
+{
+  "id": "7cc89dc4-afae-44c0-9414-c6bf782fa7b0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Corvin Alaric",
+    "metadata": {
+      "age": 39,
+      "accent": "Standard British (RP)",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Junior Investment Analyst",
+      "languages": "English",
+      "birth_date": "1985-10-27",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Finance",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Analytical",
+        "Disciplined",
+        "Observant",
+        "Open-minded",
+        "Creative",
+        "Competitive",
+        "Resourceful"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Boston",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "corvin_alaric",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "A bustling market town in the South of England, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating identity challenges and sustained stress from a prolonged, unresolved long-distance relationship.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Office",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Rational",
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Wisdom",
+        "Health"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart watch"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Music",
+        "Museums",
+        "Streaming services"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered",
+        "It's complicated"
+      ],
+      "parental_status": "Childfree by choice",
+      "sexual_orientation": "queer",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:28:49.224+00:00",
+  "updated_at": "2025-11-14T23:31:34.370Z",
+  "version": 12
+}

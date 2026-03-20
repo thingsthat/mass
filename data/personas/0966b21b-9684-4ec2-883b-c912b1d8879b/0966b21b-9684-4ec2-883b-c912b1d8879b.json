@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Simon Beckett",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Yorkshire English (Received Pronunciation influenced)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Manufacturing",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Resourceful",
+        "Analytical",
+        "Pragmatic",
+        "Patient",
+        "Compassionate",
+        "Detail-oriented"
+      ],
+      "job_title": "Operations Director",
+      "relationship_status": "divorced",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1970-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Sheffield"
+    },
+    "username": "sbeckett"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:10:22.999Z",
+  "updated_at": "2025-11-14T23:31:03.139Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "0966b21b-9684-4ec2-883b-c912b1d8879b"
+}

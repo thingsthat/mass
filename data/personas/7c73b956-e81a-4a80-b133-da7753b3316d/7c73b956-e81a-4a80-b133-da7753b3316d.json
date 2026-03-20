@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Ravi Sharma",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "South Asian",
+      "accent": "Midlands English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Manufacturing",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Grounded",
+        "Perfectionist",
+        "Nonconformist",
+        "Detail-Oriented",
+        "Forthcoming",
+        "Stoic",
+        "Family-Oriented"
+      ],
+      "job_title": "Production Supervisor",
+      "relationship_status": "married",
+      "political_leaning": "Conservative",
+      "birth_date": "1970-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Birmingham"
+    },
+    "username": "rsharma",
+    "connections": [
+      {
+        "persona_id": "95d16c53-cc7e-4406-bbff-736c4cf6981c",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Sunita Sharma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:52:49.040Z",
+  "updated_at": "2025-11-14T23:31:34.133Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "7c73b956-e81a-4a80-b133-da7753b3316d"
+}

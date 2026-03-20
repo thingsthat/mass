@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Adeolu \"Deolu\" Li",
+    "metadata": {
+      "age": 32,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Mixed",
+      "accent": "Bristolian (mild, articulate)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Student",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Diligent",
+        "Empathetic",
+        "Skilled",
+        "People-Pleasing",
+        "Reflective",
+        "Detail-Oriented",
+        "Adaptable"
+      ],
+      "job_title": "Postgraduate Research Student",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1991-04-10",
+      "zodiac_sign": "Aries",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Bristol"
+    },
+    "username": "ali",
+    "connections": [
+      {
+        "persona_id": "e0baebbd-a98b-4c2f-bcca-2df986d980a0",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to R\u00f3is\u00edn Li"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:03:42.390Z",
+  "updated_at": "2025-11-14T23:31:33.979Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "7be11489-35bc-4d93-a02a-8e0f830d5028"
+}

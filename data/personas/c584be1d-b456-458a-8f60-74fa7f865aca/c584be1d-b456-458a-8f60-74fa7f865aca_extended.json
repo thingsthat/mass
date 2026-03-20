@@ -1,0 +1,62 @@
+{
+  "id": "c584be1d-b456-458a-8f60-74fa7f865aca",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "suburb of Minneapolis, Minnesota",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced subtle, unspoken pressure from childhood to excel, leading to an internal drive to overprove himself. Also witnessed a pivotal instance of workplace injustice early in his career.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Compassion",
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Security"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Gaming",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

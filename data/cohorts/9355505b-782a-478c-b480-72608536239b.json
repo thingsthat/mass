@@ -1,0 +1,33 @@
+{
+  "name": "Tech Enthusiasts in the United Kingdom",
+  "description": "Early adopters of new technology, gadget enthusiasts, and innovators who love trying out the latest apps and devices.",
+  "data": {
+    "persona_ids": [
+      "28ff0d93-e6e5-435f-b930-77c2c5031c07",
+      "374cf56d-7ab8-4bbf-90ba-7305e48709cb",
+      "4d8c9e6e-8849-469e-bfd2-09231a33d989",
+      "59b5e528-9641-4f3d-89d5-39e61bd6390c",
+      "5c964d79-f45f-4636-9221-d53f7269371c",
+      "6211a7e7-1c04-47f2-a539-f740596b2872",
+      "6c2d990e-93e0-436b-a19c-6336d2afd729",
+      "6ebf074f-0ae9-45d8-acb6-97b9b49f5f59",
+      "7371cb96-0ff4-46da-9c76-f2e26d813f41",
+      "7ab87933-eb83-481b-8e37-2e0a82b94f27",
+      "965c032c-1887-485a-a85f-9ee43ed56ed9",
+      "a8bf68bc-e7ca-4251-8fb0-3d52cc75d82a",
+      "a9f56a51-dc2e-4f0a-b0d6-3a11379969d8",
+      "ae39d923-5a1f-4eaa-81bf-90e7ba74b9a8",
+      "b02e6b32-48b9-492f-9331-ec2a01bc7222",
+      "b65cc945-e28f-442c-a4e9-9ea6b6d55233",
+      "bdc9f4cb-adb4-4e77-b23c-063ff700e5ff",
+      "be27bbe5-4547-49b7-910f-9627ca9daba0",
+      "ed3fdca1-191b-47be-8695-112f3c27e89c",
+      "ed471059-c49f-4004-91cd-f3400abc1c95"
+    ],
+    "metadata": {
+      "locations": [
+        "United Kingdom"
+      ]
+    }
+  }
+}

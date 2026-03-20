@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Patricia Miller",
+    "metadata": {
+      "age": 69,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Passionate",
+        "Practical",
+        "Intentional",
+        "Empathetic",
+        "Optimistic",
+        "Resilient"
+      ],
+      "job_title": "Retired Public Health Nurse",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1955-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "patriciamiller",
+    "connections": [
+      {
+        "persona_id": "0e567aaa-7d4e-44c4-8cad-a36fee5b9bf9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Arthur Pendelton"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:35:26.727Z",
+  "updated_at": "2025-11-14T23:31:07.933Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "194b7513-32ac-4324-9474-e1f2228ed09d"
+}

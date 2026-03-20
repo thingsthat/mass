@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Janet Wright",
+    "metadata": {
+      "age": 64,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Standard Southern British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Persistent",
+        "Oversharing",
+        "Big-Picture Thinker",
+        "Dutiful",
+        "Pragmatic",
+        "Resilient",
+        "Sincere"
+      ],
+      "job_title": "Senior Healthcare Assistant",
+      "relationship_status": "widowed",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1959-07-10",
+      "zodiac_sign": "Cancer",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "Bristol"
+    },
+    "username": "jwright"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T18:31:45.138Z",
+  "updated_at": "2025-11-14T23:31:34.833Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "7fa7f557-5dcb-4482-b501-94c729a9715b"
+}

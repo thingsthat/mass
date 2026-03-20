@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Samar Zeidan",
+    "metadata": {
+      "age": 51,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "Middle Eastern",
+      "accent": "Brazilian Portuguese with subtle Middle Eastern inflections",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Marketing & Advertising",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Ambitious",
+        "Pragmatic",
+        "Curious",
+        "Adventurous",
+        "Insightful",
+        "Resilient",
+        "Community-Oriented"
+      ],
+      "job_title": "Director of Digital Marketing",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1973-05-05",
+      "zodiac_sign": "Taurus",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "S\u00e3o Paulo"
+    },
+    "username": "szeidan",
+    "connections": [
+      {
+        "persona_id": "1395e552-30be-47cb-9b82-67b484891612",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Idris Zeidan"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:38:16.269Z",
+  "updated_at": "2025-11-14T23:31:20.178Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "4419da6b-eb2a-430e-b155-bb42433d9b5d"
+}

@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Misc
+.DS_Store
+

@@ -1,0 +1,59 @@
+{
+  "id": "9a171778-e069-45f7-919c-18e36298d746",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Medium",
+      "childhood_location": "Calgary, Alberta, Canada",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural and social adjustment challenges moving from Canada to the UK at age 10, leading to a period of initial isolation and fostering intense independence.",
+      "myers_briggs_type": "ISTP",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Pragmatic",
+        "Social contract"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Gaming"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

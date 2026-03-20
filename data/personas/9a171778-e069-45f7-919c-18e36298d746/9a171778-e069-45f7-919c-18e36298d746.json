@@ -1,0 +1,138 @@
+{
+  "id": "9a171778-e069-45f7-919c-18e36298d746",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Callum Fenwick",
+    "metadata": {
+      "age": 22,
+      "accent": "South West English (Bristol) with a subtle Canadian lilt",
+      "gender": "genderfluid",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Junior Mechanical Engineer",
+      "languages": "English",
+      "job_industry": "Manufacturing",
+      "personality_traits": [
+        "Insightful",
+        "Calm Under Pressure",
+        "Grounded",
+        "Spontaneous",
+        "Friendly",
+        "Resourceful",
+        "Independent"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "pansexual",
+      "political_leaning": "Conservative",
+      "birth_date": "2001-05-15",
+      "zodiac_sign": "Taurus",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "Bristol"
+    },
+    "username": "cfenwick",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Independence",
+        "Growth",
+        "Responsibility",
+        "Achievement"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Entry-level",
+      "drugs_status": "Occasional",
+      "income_range": "20k-40k",
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "trauma_history": "Experienced significant cultural and social adjustment challenges moving from Canada to the UK at age 10, leading to a period of initial isolation and fostering intense independence.",
+      "moral_framework": [
+        "Pragmatic",
+        "Social contract"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Budget-conscious",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Confrontational"
+      ],
+      "attachment_style": "Secure",
+      "career_ambitions": "Entrepreneurial",
+      "diet_preferences": "Omnivore",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Satisfied",
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Allergy medication"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Factory",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "ISTP",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Gaming console"
+      ],
+      "childhood_location": "Calgary, Alberta, Canada",
+      "chronic_conditions": [
+        "Allergies"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Light",
+      "therapy_experience": "Never",
+      "communication_style": "Assertive",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Tattoos",
+        "Short hair",
+        "Piercings"
+      ],
+      "mental_health_status": "Good",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Independent",
+        "Data-driven"
+      ],
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Gaming",
+        "Live events",
+        "YouTube"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T00:44:22.118+00:00",
+  "updated_at": "2025-11-14T23:31:41.995Z",
+  "version": 8
+}

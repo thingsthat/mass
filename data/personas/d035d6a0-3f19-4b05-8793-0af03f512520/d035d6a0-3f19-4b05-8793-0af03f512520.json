@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sanjay Sharma",
+    "metadata": {
+      "age": 53,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "South Asian",
+      "accent": "British English (Received Pronunciation)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Theoretical",
+        "Reliable",
+        "Introverted",
+        "Analytical",
+        "Meticulous",
+        "Reserved",
+        "Ethical"
+      ],
+      "job_title": "Senior AI Research Scientist",
+      "relationship_status": "it's complicated",
+      "political_leaning": "Progressive",
+      "birth_date": "1971-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Atheist",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Cambridge"
+    },
+    "username": "ssharma"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:12:09.022Z",
+  "updated_at": "2025-11-14T23:31:59.593Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "d035d6a0-3f19-4b05-8793-0af03f512520"
+}

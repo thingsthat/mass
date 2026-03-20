@@ -1,0 +1,140 @@
+{
+  "id": "5c8e1431-12fd-4d15-aaf5-cb902d2b44fc",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kai Alani",
+    "metadata": {
+      "age": 28,
+      "accent": "General American",
+      "gender": "agender",
+      "location": "United States",
+      "pronouns": "they/them",
+      "education": "Associate degree",
+      "ethnicity": "Pacific Islander",
+      "job_title": "University Student",
+      "languages": "English",
+      "birth_date": "1996-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Insightful",
+        "Open-minded",
+        "Analytical",
+        "Curious",
+        "Empathetic",
+        "Adaptable"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Portland",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "kai_alani",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Piercings",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Seattle metropolitan area, Washington",
+      "family_structure": "Extended",
+      "trauma_history": "Early financial instability required significant resourcefulness and delayed educational path.",
+      "income_range": "20k-40k",
+      "career_stage": "Student",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential",
+        "Visual"
+      ],
+      "core_values": [
+        "Community",
+        "Growth",
+        "Compassion",
+        "Innovation",
+        "Authenticity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Social contract",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Gaming",
+        "Documentaries",
+        "Live events",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:23:41.582+00:00",
+  "updated_at": "2025-11-14T23:31:25.119Z",
+  "version": 14
+}

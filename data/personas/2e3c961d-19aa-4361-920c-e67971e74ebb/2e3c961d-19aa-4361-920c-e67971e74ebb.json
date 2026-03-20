@@ -1,0 +1,96 @@
+{
+  "id": "2e3c961d-19aa-4361-920c-e67971e74ebb",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "R\u0101t\u0101 Kahuki",
+    "metadata": {
+      "age": 31,
+      "accent": "New Zealand English",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Mixed",
+      "job_title": "Environmental Policy Analyst",
+      "languages": "English",
+      "birth_date": "1992-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Brave",
+        "Charismatic",
+        "Curious about Others",
+        "Diplomatic",
+        "Philosophical",
+        "Passionate about Sustainability"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Portland",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "rkahuki",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Wellington, New Zealand",
+      "family_structure": "Nuclear",
+      "trauma_history": "While personally having a supportive upbringing, she actively advocates for the historical and ecological trauma experienced by her ancestral M\u0101ori community, internalizing the weight of injustice.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:52:17.603+00:00",
+  "updated_at": "2025-11-14T23:31:13.017Z",
+  "version": 12
+}

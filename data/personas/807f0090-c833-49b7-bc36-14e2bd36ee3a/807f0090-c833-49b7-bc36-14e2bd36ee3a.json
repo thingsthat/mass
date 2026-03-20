@@ -1,0 +1,136 @@
+{
+  "id": "807f0090-c833-49b7-bc36-14e2bd36ee3a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Einar Solveig",
+    "metadata": {
+      "age": 49,
+      "accent": "Distinctly Scottish (Edinburgh), with a slight, almost imperceptible lilt from their Nordic family background.",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Cultural Heritage Preservation Scientist",
+      "languages": "English",
+      "birth_date": "1975-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Science & Research",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Thoughtful",
+        "Brave",
+        "Confident",
+        "Imaginative",
+        "Analytical",
+        "Resilient",
+        "Always Learning"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "queer"
+    },
+    "username": "einar_solveig",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Coastal town in Fife, Scotland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant emotional challenges related to parents' divorce in early adulthood and a personal divorce later in life, requiring deep introspection and resilience.",
+      "income_range": "60k-80k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Wisdom",
+        "Achievement",
+        "Independence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:19:51.894+00:00",
+  "updated_at": "2025-11-14T23:31:35.064Z",
+  "version": 14
+}

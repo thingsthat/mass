@@ -1,0 +1,61 @@
+{
+  "id": "1885b5bf-98c4-4efc-a2b9-4d10291ae44d",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Birmingham, United Kingdom",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced amicable divorce and demanding career; navigated cultural integration as a child of immigrants.",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Community",
+        "Responsibility",
+        "Service",
+        "Spirituality"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Basic",
+      "preferred_devices": [
+        "Smartphone",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Empty nester",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

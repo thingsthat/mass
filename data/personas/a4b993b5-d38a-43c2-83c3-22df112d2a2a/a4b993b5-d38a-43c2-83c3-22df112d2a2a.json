@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Minato Suzuki",
+    "metadata": {
+      "age": 27,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "East Asian",
+      "accent": "British English with a subtle East Asian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Curious",
+        "Empathetic",
+        "Inventive",
+        "Unconventional",
+        "Loyal",
+        "Playful"
+      ],
+      "job_title": "Medical Laboratory Assistant",
+      "relationship_status": "married",
+      "political_leaning": "Socialist",
+      "birth_date": "1997-03-05",
+      "zodiac_sign": "Pisces",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Manchester"
+    },
+    "username": "msuzuki",
+    "connections": [
+      {
+        "persona_id": "3df878c7-8221-4706-9bed-82cd84d274fa",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kaito Tanaka"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:44:57.263Z",
+  "updated_at": "2025-11-14T23:31:46.266Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "a4b993b5-d38a-43c2-83c3-22df112d2a2a"
+}

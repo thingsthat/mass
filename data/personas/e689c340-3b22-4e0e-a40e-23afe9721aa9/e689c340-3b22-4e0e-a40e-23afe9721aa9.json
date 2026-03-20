@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lyra Nightingale",
+    "metadata": {
+      "age": 26,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English with a faint, unplaceable lilt that hints at her varied upbringing, rather than a specific regional accent. It's clear and articulate, with good pacing.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Hospitality",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Driven",
+        "Adaptable",
+        "Resourceful",
+        "Observant",
+        "Pragmatic",
+        "Compassionate",
+        "Resilient"
+      ],
+      "job_title": "Restaurant Manager",
+      "relationship_status": "single",
+      "political_leaning": "Apolitical",
+      "birth_date": "1998-05-12",
+      "zodiac_sign": "Taurus",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Cambridge"
+    },
+    "username": "lyra_nightingale"
+  },
+  "type": "persona",
+  "created_at": "2025-11-05T16:25:58.512Z",
+  "updated_at": "2025-11-14T23:32:04.856Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "e689c340-3b22-4e0e-a40e-23afe9721aa9"
+}

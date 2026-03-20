@@ -1,0 +1,43 @@
+{
+  "id": "ee36b961-9f31-4d1a-ac25-1da8866d5a50",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jiawen Abbott",
+    "metadata": {
+      "age": 38,
+      "accent": "Standard British English with a subtle Northern influence",
+      "gender": "prefer not to say",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "religion": "Agnostic",
+      "city_town": "Bristol",
+      "education": "Some college or university",
+      "ethnicity": "East Asian",
+      "job_title": "Found Object Sculptor",
+      "languages": "English",
+      "birth_date": "1986-09-15",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Independent",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Creative",
+        "Independent",
+        "Observant",
+        "Resilient",
+        "Empathetic",
+        "Quirky"
+      ],
+      "relationship_status": "open relationship",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "jiawen_abbott"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T21:54:25.679+00:00",
+  "updated_at": "2025-11-14T23:32:08.613Z",
+  "version": 8
+}

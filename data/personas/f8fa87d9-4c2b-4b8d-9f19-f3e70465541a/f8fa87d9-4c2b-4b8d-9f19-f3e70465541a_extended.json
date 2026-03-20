@@ -1,0 +1,64 @@
+{
+  "id": "f8fa87d9-4c2b-4b8d-9f19-f3e70465541a",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Birmingham, United Kingdom",
+      "family_structure": "Blended",
+      "trauma_history": "Experienced burnout and unfulfillment in a previous corporate finance career, leading to a significant life pivot.",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Family",
+        "Integrity",
+        "Community",
+        "Responsibility",
+        "Authenticity",
+        "Tradition",
+        "Growth"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Sports",
+        "Books",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Stepparent",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Multiple vehicles"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

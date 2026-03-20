@@ -1,0 +1,63 @@
+{
+  "id": "9db45b41-1622-4a22-a428-1326c33a6399",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Scars"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "working-class neighborhood in Manchester",
+      "family_structure": "Nuclear",
+      "trauma_history": "The divorce was a significant period of introspection and challenge for Alfie, forcing them to re-evaluate priorities and strengthen their internal resilience.",
+      "myers_briggs_type": "ISTP",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Independence",
+        "Community",
+        "Growth",
+        "Honesty",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Gaming",
+        "Music",
+        "Movies"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

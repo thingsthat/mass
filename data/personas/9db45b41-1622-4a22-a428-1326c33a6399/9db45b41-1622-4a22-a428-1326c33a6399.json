@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alfie Wallace",
+    "metadata": {
+      "age": 47,
+      "gender": "man",
+      "pronouns": "they/them",
+      "ethnicity": "White",
+      "accent": "Mancunian (Manchester, UK)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Retail",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Mentally Tough",
+        "Empathetic",
+        "Observant",
+        "Pragmatic",
+        "Easily Distracted",
+        "Rule-bending"
+      ],
+      "job_title": "Store Manager",
+      "relationship_status": "divorced",
+      "political_leaning": "Centrist",
+      "birth_date": "1976-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "awallace"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:18:20.462Z",
+  "updated_at": "2025-11-14T23:31:43.478Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "9db45b41-1622-4a22-a428-1326c33a6399"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "42775eab-7e97-4f12-8965-1333d56446c2",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Salford, just outside Manchester city centre, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced a difficult marital separation and navigated a demanding career path with limited initial resources.",
+      "myers_briggs_type": "INTP",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Independence",
+        "Growth",
+        "Pragmatic",
+        "Authenticity",
+        "Excellence"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Movies",
+        "Books"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

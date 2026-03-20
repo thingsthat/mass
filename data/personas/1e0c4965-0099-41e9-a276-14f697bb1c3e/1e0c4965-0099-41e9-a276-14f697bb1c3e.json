@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Gary Mitchell",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Northern English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Engineering",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Persistent",
+        "Passionate",
+        "Principled",
+        "Pragmatic",
+        "Reserved",
+        "Loyal"
+      ],
+      "job_title": "Senior Manufacturing Engineer",
+      "relationship_status": "in a relationship",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1969-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "garymitchell"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:53:53.347Z",
+  "updated_at": "2025-11-14T23:31:08.956Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "1e0c4965-0099-41e9-a276-14f697bb1c3e"
+}

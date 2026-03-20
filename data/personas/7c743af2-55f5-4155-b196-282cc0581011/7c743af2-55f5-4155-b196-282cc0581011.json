@@ -1,0 +1,43 @@
+{
+  "id": "7c743af2-55f5-4155-b196-282cc0581011",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anusha Akhtar",
+    "metadata": {
+      "age": 55,
+      "accent": "British Asian",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Prefer not to say",
+      "city_town": "Birmingham",
+      "education": "Prefer not to say",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Systems Engineer",
+      "languages": "Arabic",
+      "birth_date": "1969-08-25",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Engineering",
+      "political_leaning": "Progressive",
+      "height_centimeters": 160,
+      "personality_traits": [
+        "Empathetic",
+        "Cautious",
+        "Resourceful",
+        "Principled",
+        "Introverted",
+        "Detail-Oriented"
+      ],
+      "relationship_status": "engaged",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "anushaakhtar"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-19T15:09:06.312+00:00",
+  "updated_at": "2025-11-14T23:31:34.251Z",
+  "version": 5
+}

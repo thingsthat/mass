@@ -1,0 +1,137 @@
+{
+  "id": "95a91b37-1085-41fc-850f-a6a70552e564",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Javed Sterling",
+    "metadata": {
+      "age": 27,
+      "accent": "Northern English (Yorkshire)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "name only",
+      "education": "Vocational or technical training",
+      "ethnicity": "Mixed",
+      "job_title": "IT Support Technician",
+      "languages": "English",
+      "birth_date": "1997-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Education",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Humble",
+        "Sensitive",
+        "Insightful",
+        "Resourceful",
+        "Observant",
+        "Thoughtful"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Leeds",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "javedsterling",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Observational",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Leeds, West Yorkshire, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced subtle but persistent microaggressions related to his mixed identity while growing up, leading to early issues with self-acceptance and belonging.",
+      "income_range": "20k-40k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Anxious",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Analytical"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Growth",
+        "Integrity",
+        "Community",
+        "Responsibility"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Gaming console"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Podcasts",
+        "Gaming",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:57:14.445+00:00",
+  "updated_at": "2025-11-14T23:31:41.052Z",
+  "version": 14
+}

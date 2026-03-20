@@ -1,0 +1,132 @@
+{
+  "id": "be0e22fa-1a3b-40b1-9e02-ca566f74b3c4",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Isolde Mariposa Svensson",
+    "metadata": {
+      "age": 31,
+      "accent": "Clear, measured New Zealand accent, often with a slight, structured cadence due to German fluency.",
+      "gender": "woman",
+      "location": "New Zealand",
+      "pronouns": "ze/zir",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Mixed",
+      "job_title": "Maritime Regulations Attorney",
+      "languages": "English",
+      "birth_date": "1993-05-05",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Legal",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Mentally Tough",
+        "Curious",
+        "Driven",
+        "Analytical",
+        "Principled",
+        "Independent",
+        "Introspective"
+      ],
+      "relationship_status": "separated",
+      "religion": "Agnostic",
+      "height_centimeters": 172,
+      "city_town": "Auckland",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "isolde_mariposa_",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "None notable"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Hamburg, Germany",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating a painful separation from a long-term partner and redefining personal identity and autonomy post-commitment.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Success",
+        "Achievement",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Deontological",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Museums",
+        "Art galleries"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:28:54.967+00:00",
+  "updated_at": "2025-11-14T23:31:53.761Z",
+  "version": 12
+}

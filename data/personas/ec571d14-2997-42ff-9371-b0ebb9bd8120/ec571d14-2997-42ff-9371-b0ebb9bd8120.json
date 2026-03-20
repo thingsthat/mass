@@ -1,0 +1,44 @@
+{
+  "id": "ec571d14-2997-42ff-9371-b0ebb9bd8120",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Marnie Kalia",
+    "metadata": {
+      "age": 38,
+      "accent": "British English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Logistics Coordinator",
+      "languages": "English",
+      "birth_date": "1986-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Transportation",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "analytical",
+        "creative",
+        "curious",
+        "observant",
+        "thoughtful",
+        "affectionate",
+        "resilient"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 161,
+      "city_town": "Bristol",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "marniekalia"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:19:08.088+00:00",
+  "updated_at": "2025-11-14T23:32:07.284Z",
+  "version": 14
+}

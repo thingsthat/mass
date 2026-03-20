@@ -1,0 +1,664 @@
+{
+  "edges": [
+    {
+      "persona_a": "00de52af-5f8e-4fbf-ae75-865f096e3753",
+      "persona_b": "8f73b95c-6fe9-499b-96ac-d0fb265d4815",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Oliver Davies"
+      }
+    },
+    {
+      "persona_a": "0117231b-e8fb-45e9-a6cd-0f92e592b5e4",
+      "persona_b": "096f67ef-4e19-467b-88a3-ba917b442265",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Kwame Osei"
+      }
+    },
+    {
+      "persona_a": "0394faad-08c6-4451-b157-811803debd3d",
+      "persona_b": "8b048b16-7795-46a2-8e2d-9441e3daa6b3",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Shirin Al-Mansouri"
+      }
+    },
+    {
+      "persona_a": "055d8a45-3cce-413e-a4f4-502d151999b3",
+      "persona_b": "5ff7aefe-d994-4139-be20-e095f5b7f5c7",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Elena Vargas"
+      }
+    },
+    {
+      "persona_a": "0bae2570-d016-49ea-bf50-ec78538c6e51",
+      "persona_b": "171f1da2-62d1-4184-be66-268c2925d0e1",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Daniel Oluwasegun"
+      }
+    },
+    {
+      "persona_a": "0bb570ad-8a19-4631-a7aa-66d9c944501c",
+      "persona_b": "1f215a53-6b70-4b3e-8e12-b28075ae05a9",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Fiona Wallace"
+      }
+    },
+    {
+      "persona_a": "0e567aaa-7d4e-44c4-8cad-a36fee5b9bf9",
+      "persona_b": "194b7513-32ac-4324-9474-e1f2228ed09d",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Patricia Miller"
+      }
+    },
+    {
+      "persona_a": "12559dd2-e871-4d45-9ca1-cf3061059b6a",
+      "persona_b": "be87ca5b-b000-4044-9e6e-540e965bf9d4",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Mei-Lin Nakamura"
+      }
+    },
+    {
+      "persona_a": "1395e552-30be-47cb-9b82-67b484891612",
+      "persona_b": "4419da6b-eb2a-430e-b155-bb42433d9b5d",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Samar Zeidan"
+      }
+    },
+    {
+      "persona_a": "188ce053-86d0-42ba-8521-a37fe1deec47",
+      "persona_b": "bfd9f7bd-e20d-4de9-9246-6a93e70cdb16",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Stephen Smith"
+      }
+    },
+    {
+      "persona_a": "19dd4f1f-f5a1-48f5-b9eb-8734426e765b",
+      "persona_b": "5e35362d-2df3-4deb-8542-c262527130a5",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Fumiko Bellamy"
+      }
+    },
+    {
+      "persona_a": "1ba91c49-a2b9-4b1d-9bdd-22bf3bae1d6f",
+      "persona_b": "3e9f529f-896a-4ec8-98f6-2c6082c11984",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Arjun Varma"
+      }
+    },
+    {
+      "persona_a": "1cab4911-f45c-4c2d-909e-fe8b56091d11",
+      "persona_b": "8495408f-b238-4101-91e6-04151a2fad12",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Mateus Ribeiro"
+      }
+    },
+    {
+      "persona_a": "1fa85e7d-f357-4831-927c-9119109e35e3",
+      "persona_b": "660a8eb4-575a-4649-be49-798a73969781",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Jamal Haddad"
+      }
+    },
+    {
+      "persona_a": "2178d94c-9289-4efd-9a5e-77ddc208122e",
+      "persona_b": "c61f2991-8f74-4226-8487-851f1df96203",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Takeshi Thorsen"
+      }
+    },
+    {
+      "persona_a": "22874275-6c05-4e6b-8efe-a909d0788cb4",
+      "persona_b": "ceb16131-7f7c-47c5-95db-306a71617154",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Patrick Sullivan"
+      }
+    },
+    {
+      "persona_a": "2819849c-04f6-4f19-8e36-0e465884b2b3",
+      "persona_b": "cdff8f41-5ccf-4e4b-b5e0-58bbc1485ef3",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Jonathan Croft"
+      }
+    },
+    {
+      "persona_a": "29532e36-767e-40ea-bcd4-b86431ab9c90",
+      "persona_b": "39650882-4367-4cc0-835b-e1d0842c4c1f",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Stephen Davies"
+      }
+    },
+    {
+      "persona_a": "2cf288cd-d5dc-446a-827a-3b659a4d9899",
+      "persona_b": "aa011d8e-ef3f-47c5-8589-9fa362b73ccc",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Sunil Sharma"
+      }
+    },
+    {
+      "persona_a": "2e7f68e0-4078-4b73-ab06-26a6019b9db0",
+      "persona_b": "8f99ea1d-08b7-4c19-8524-2c66d4e67d86",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Sarah Solberg"
+      }
+    },
+    {
+      "persona_a": "2f5b7531-8f6f-48d5-a2e1-40f1de1554e4",
+      "persona_b": "bb5d646d-22c9-4f3a-8c55-91b29649e9c1",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Kavish Reddy"
+      }
+    },
+    {
+      "persona_a": "31572c85-eb59-4044-8354-fb8a427df849",
+      "persona_b": "6339c1d5-08ce-47a8-a33e-d37017c94802",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Graham Solheim"
+      }
+    },
+    {
+      "persona_a": "34c80680-bf6c-431e-848b-4c129f703ada",
+      "persona_b": "6b5f5d69-5461-4692-8a7f-48768a474203",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Nadia Patel"
+      }
+    },
+    {
+      "persona_a": "375148c2-625a-4fde-a8f4-a326afe3f8b3",
+      "persona_b": "f3bcc0af-bd05-4709-8df5-c1cf0a5620f3",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Sita Ang"
+      }
+    },
+    {
+      "persona_a": "397e46fc-e67f-43c4-ada5-1bafbbc4005e",
+      "persona_b": "3fa540a4-5881-4ac0-a66f-1ae4c21cf8c8",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Indira Maeve Beaumont"
+      }
+    },
+    {
+      "persona_a": "3df878c7-8221-4706-9bed-82cd84d274fa",
+      "persona_b": "a4b993b5-d38a-43c2-83c3-22df112d2a2a",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Minato Suzuki"
+      }
+    },
+    {
+      "persona_a": "498accc5-1a84-4d31-aa9d-a316a52a7959",
+      "persona_b": "ff203ba3-bf6f-469c-8a92-a7e57ed0abc9",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Trevor Adewale"
+      }
+    },
+    {
+      "persona_a": "4e36003b-3233-4657-ac2f-a1c7a1691d0a",
+      "persona_b": "573ea8cf-3fda-4706-81d7-8b0e08f2b81f",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Arjun Vashistha"
+      }
+    },
+    {
+      "persona_a": "548f5bb8-e581-44c0-801a-a151b3dce7d8",
+      "persona_b": "edadd718-d6c3-479a-8511-fe20058243ec",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Kwame Ndlovu"
+      }
+    },
+    {
+      "persona_a": "56dc3c74-63dc-42b0-ab13-2116bf853cfd",
+      "persona_b": "5ae5ab78-c3ae-4626-a5c6-284f83f02c9a",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Marcus Grant"
+      }
+    },
+    {
+      "persona_a": "56de0184-a244-40a7-805c-863e1f740dde",
+      "persona_b": "60444ee8-63a3-4d01-97bf-6433abf210f0",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Vivek Sharma"
+      }
+    },
+    {
+      "persona_a": "585dc790-78b9-4216-8144-d8cc1eb7f072",
+      "persona_b": "a19381fa-ecc5-4958-996c-8befec8ed37f",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Ramiro Aldana"
+      }
+    },
+    {
+      "persona_a": "5993c3ad-8c31-4c74-baef-7ddb7beda05e",
+      "persona_b": "d5e237dc-9e7c-407a-994b-9a8d13e8ffee",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Aisha Rahman"
+      }
+    },
+    {
+      "persona_a": "5a2dc32c-9d58-484a-9ca5-4d012e4c8f16",
+      "persona_b": "eb685788-afac-448e-8baf-bd751b4fa12f",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Latoya Abasi"
+      }
+    },
+    {
+      "persona_a": "5cde0a84-3ed5-4983-b25a-c362691fe0f9",
+      "persona_b": "9b1c930c-2a3a-430f-a299-eac7f3a6958a",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Ishita Rajguru"
+      }
+    },
+    {
+      "persona_a": "62e33158-14f2-4579-a796-c5359495547d",
+      "persona_b": "a2c6f4d3-e790-4c5a-ac70-692d08438b6a",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Rami Al-Khoury"
+      }
+    },
+    {
+      "persona_a": "6a9523c8-fd77-4c6b-a9fa-93518b726639",
+      "persona_b": "c13fde6d-59f7-4178-a573-acd26d4dc455",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Ailsa MacIntyre"
+      }
+    },
+    {
+      "persona_a": "6fc28db0-cafa-4ad0-81b5-1cb96e8dce16",
+      "persona_b": "7ee15a6b-a4b9-4eb9-af43-450d27ed5c58",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Minh Santos-Nguyễn"
+      }
+    },
+    {
+      "persona_a": "706a7e2b-5e56-43e7-b52c-1a41cd90f6e9",
+      "persona_b": "d4fc8665-0019-40c8-a056-86652d8f126e",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Helen Griffiths"
+      }
+    },
+    {
+      "persona_a": "716d8bf4-74f0-4b66-a1ba-fd61461e8bb6",
+      "persona_b": "bcb7a9a7-ac6c-4624-b1c3-60ec29145873",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Malcolm Harrison"
+      }
+    },
+    {
+      "persona_a": "77b07e63-0594-465d-9d0f-f4de68637a9f",
+      "persona_b": "fbb2fa38-f12f-4ba9-a0dd-4c7189c5950c",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Christine Rhys"
+      }
+    },
+    {
+      "persona_a": "7afc5c82-c2c5-42ea-83b0-5c52980ba1d1",
+      "persona_b": "9f796f7b-0939-48ba-848e-b76653b41902",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Zaynab Farouk"
+      }
+    },
+    {
+      "persona_a": "7be11489-35bc-4d93-a02a-8e0f830d5028",
+      "persona_b": "e0baebbd-a98b-4c2f-bcca-2df986d980a0",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Róisín Li"
+      }
+    },
+    {
+      "persona_a": "7c73b956-e81a-4a80-b133-da7753b3316d",
+      "persona_b": "95d16c53-cc7e-4406-bbff-736c4cf6981c",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Sunita Sharma"
+      }
+    },
+    {
+      "persona_a": "8583c47b-51e8-43f6-af30-38dc02cc296a",
+      "persona_b": "c912f6cb-ba04-43ee-a864-ff6550684a7f",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Kai Chen"
+      }
+    },
+    {
+      "persona_a": "85d6b770-2694-4dc4-8264-d0a0c2b73734",
+      "persona_b": "b91037a3-7f62-414a-bf71-9dc53e832640",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Charlie Turner"
+      }
+    },
+    {
+      "persona_a": "8778641f-9344-4fa4-bd74-1f3844fe36ad",
+      "persona_b": "a2731615-dcc0-4da8-a04d-d47a8f27f8c5",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Mateo Rylann"
+      }
+    },
+    {
+      "persona_a": "8d34678b-19ca-4135-a2a5-9d84be89ca92",
+      "persona_b": "e739fc6c-8bad-4f27-9fb7-ec232ce43979",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Jaya Croft"
+      }
+    },
+    {
+      "persona_a": "91339385-d2aa-4c69-be65-564d8eb5cadd",
+      "persona_b": "d29d16c6-4d99-43f9-9fec-6429f31cd296",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Zarif Safar"
+      }
+    },
+    {
+      "persona_a": "9976906e-f93e-4e16-95ed-a2ad048eab6d",
+      "persona_b": "ff503f4b-31d0-4aac-9520-faf1f5059875",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Malcolm Price"
+      }
+    },
+    {
+      "persona_a": "9af6372a-baa9-44c0-a18e-b819183744f2",
+      "persona_b": "b6dddaca-0f03-48ad-9d7c-2183898fd7af",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Sophea Kael"
+      }
+    },
+    {
+      "persona_a": "9bd391d0-d89f-4019-bba0-f2c84867f5e1",
+      "persona_b": "d42f21c6-cf67-4a40-898b-adcfe59f347b",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Prakash Bala"
+      }
+    },
+    {
+      "persona_a": "aaac48db-df35-4837-9000-bea37ebc8eef",
+      "persona_b": "f3cd61a0-a231-4e08-b1e6-451c8a182ea4",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Rachid Fodil"
+      }
+    },
+    {
+      "persona_a": "acce72f0-0e4c-47e9-a8aa-8dda1692ce4a",
+      "persona_b": "ec648b6b-d626-4a20-8b52-f2c654c4104c",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Anya Reid"
+      }
+    },
+    {
+      "persona_a": "aeff86ec-ea2a-4926-b2f5-677e7b34c0b9",
+      "persona_b": "f0fe1b79-580c-4966-9f12-2b8c1a598103",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Felipe Cardoso de Souza"
+      }
+    },
+    {
+      "persona_a": "b943af0c-bcef-4678-bd83-312e52e7ae36",
+      "persona_b": "e0d934cd-db63-463b-af22-e05f24b537a9",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Riordan Akiyama"
+      }
+    },
+    {
+      "persona_a": "bae509c2-7534-43c0-b0c9-6d9e0d0bcfb0",
+      "persona_b": "c63d77e3-4744-49e9-b73d-681b1d365cb9",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Rhiannon Tanaka Silva"
+      }
+    },
+    {
+      "persona_a": "c584be1d-b456-458a-8f60-74fa7f865aca",
+      "persona_b": "e7a58a44-5258-40dd-9020-1a723abd14b9",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Eilis Ó Cuinn"
+      }
+    },
+    {
+      "persona_a": "d18284b5-3d3e-4274-beea-f293609d7daf",
+      "persona_b": "d96521d1-9469-4b9b-a39a-5ef499573191",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Ellis Carling"
+      }
+    },
+    {
+      "persona_a": "e036ca56-e624-4f42-946e-50733ab898d0",
+      "persona_b": "f88bcce6-b1d0-42eb-86bb-a30b8bd28f04",
+      "type": "relationship",
+      "metadata": {
+        "strength": "close",
+        "context": "married partner",
+        "status": "active",
+        "notes": "Married to Eileen Thompson"
+      }
+    }
+  ]
+}

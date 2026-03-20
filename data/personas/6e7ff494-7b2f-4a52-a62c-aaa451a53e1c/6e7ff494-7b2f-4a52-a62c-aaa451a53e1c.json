@@ -1,0 +1,137 @@
+{
+  "id": "6e7ff494-7b2f-4a52-a62c-aaa451a53e1c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Caleb Sinclair",
+    "metadata": {
+      "age": 30,
+      "accent": "Lancashire accent, softened.",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "HR Coordinator",
+      "languages": "English",
+      "birth_date": "1994-07-10",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Human Resources",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Passionate",
+        "Gregarious",
+        "Overcommitted",
+        "Principled",
+        "Empathetic",
+        "Analytical"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "calebsinclair",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Large",
+      "childhood_location": "Manchester, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed significant economic hardship and systemic injustice in his local community during the UK austerity period, fueling his deep-seated political activism.",
+      "income_range": "20k-40k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Dissatisfied",
+      "career_ambitions": "Seeking change",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Anxious",
+        "Seeking support",
+        "Productive"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Collaborative"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Justice",
+        "Compassion",
+        "Community",
+        "Integrity",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Social contract"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Live events",
+        "Music"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Anxiety"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:12:08.13+00:00",
+  "updated_at": "2025-11-14T23:31:29.957Z",
+  "version": 12
+}

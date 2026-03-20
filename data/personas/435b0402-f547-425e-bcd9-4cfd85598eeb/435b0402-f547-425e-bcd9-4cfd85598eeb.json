@@ -1,0 +1,141 @@
+{
+  "id": "435b0402-f547-425e-bcd9-4cfd85598eeb",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Keshav Puri",
+    "metadata": {
+      "age": 61,
+      "accent": "British English with a subtle South Asian lilt",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Southeast Asian",
+      "job_title": "Lead Software Architect",
+      "languages": "English",
+      "birth_date": "1963-07-10",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Calm Under Pressure",
+        "Always Learning",
+        "Curious About Others",
+        "Analytical",
+        "Diplomatic",
+        "Resourceful",
+        "Thoughtful"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Spiritual",
+      "height_centimeters": 175,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "keshav_puri",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Gray hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Mumbai, India",
+      "family_structure": "Blended",
+      "trauma_history": "Experienced significant cultural displacement and identity struggles upon moving continents as a child. Navigated the emotional challenge of divorce after 25 years of marriage in later life.",
+      "income_range": "150k-200k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Theoretical",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Compassion",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic",
+        "Consequentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Music",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:22:41.274+00:00",
+  "updated_at": "2025-11-14T23:31:19.946Z",
+  "version": 12
+}

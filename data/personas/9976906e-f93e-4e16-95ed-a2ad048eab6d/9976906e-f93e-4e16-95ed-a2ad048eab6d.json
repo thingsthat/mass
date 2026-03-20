@@ -1,0 +1,149 @@
+{
+  "id": "9976906e-f93e-4e16-95ed-a2ad048eab6d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Morwenna Price",
+    "metadata": {
+      "age": 68,
+      "accent": "A gentle West Country (Bristol) accent, occasionally softened by subtle Australian inflections from her early childhood.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed",
+      "job_title": "Retired University Lecturer",
+      "languages": "English",
+      "job_industry": "Education",
+      "personality_traits": [
+        "Witty",
+        "Compassionate",
+        "Imaginative",
+        "Adaptable",
+        "Observant",
+        "Analytical",
+        "Grounded"
+      ],
+      "relationship_status": "married",
+      "sexual_orientation": "heterosexual",
+      "political_leaning": "Populist",
+      "birth_date": "1956-04-10",
+      "zodiac_sign": "Aries",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "morwenna_price",
+    "metadata_extended": {
+      "body_type": "Average",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Integrity",
+        "Knowledge",
+        "Responsibility",
+        "Tradition",
+        "Growth"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Retired",
+      "drugs_status": "Never",
+      "income_range": "100k-150k",
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "sleep_schedule": "Early bird",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "trauma_history": "Adjusting to a sudden, mid-childhood migration from Australia to the UK, leading to long-term feelings of dual cultural displacement and struggles with belonging.",
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "parental_status": "Childfree by choice",
+      "spending_habits": "Budget-conscious",
+      "stress_response": [
+        "Rational",
+        "Productive",
+        "Calm"
+      ],
+      "attachment_style": "Secure",
+      "career_ambitions": "Work-life balance focused",
+      "diet_preferences": "Omnivore",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Very satisfied",
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Home",
+      "housing_situation": "Own",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "Sydney, Australia and Bristol, UK",
+      "chronic_conditions": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Light",
+      "therapy_experience": "Never",
+      "communication_style": "Analytical",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair",
+        "None notable"
+      ],
+      "mental_health_status": "Good",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious",
+        "Data-driven"
+      ],
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music",
+        "Museums",
+        "Art galleries"
+      ],
+      "environmental_consciousness": "Moderate"
+    },
+    "connections": [
+      {
+        "persona_id": "ff503f4b-31d0-4aac-9520-faf1f5059875",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Malcolm Price"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T00:45:03.466+00:00",
+  "updated_at": "2025-11-14T23:31:41.755Z",
+  "version": 8
+}

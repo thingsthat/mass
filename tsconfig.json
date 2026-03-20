@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "backend/*": [
+        "./backend/*"
+      ],
+      "frontend/*": [
+        "./frontend/*"
+      ],
+      "core/*": [
+        "./core/*"
+      ],
+      "cli/*": [
+        "./cli/*"
+      ],
+      "tests/*": [
+        "./tests/*"
+      ],
+      "~/*": [
+        "./*"
+      ],
+      "~~/*": [
+        "./*"
+      ],
+      "@@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "backend/**/*.ts",
+    "core/**/*.ts",
+    "tests/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "data"
+  ]
+}

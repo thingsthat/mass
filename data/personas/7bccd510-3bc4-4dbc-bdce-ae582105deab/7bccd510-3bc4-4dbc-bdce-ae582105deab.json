@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alasdair Finch",
+    "metadata": {
+      "age": 38,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "White",
+      "accent": "Standard Southern British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Inquisitive",
+        "Pessimistic",
+        "Loyal",
+        "Reserved",
+        "Methodical",
+        "Cautious"
+      ],
+      "job_title": "Senior Data Analyst",
+      "relationship_status": "single",
+      "political_leaning": "Apolitical",
+      "birth_date": "1986-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "afinch"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T11:17:08.980Z",
+  "updated_at": "2025-11-14T23:31:33.736Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "7bccd510-3bc4-4dbc-bdce-ae582105deab"
+}

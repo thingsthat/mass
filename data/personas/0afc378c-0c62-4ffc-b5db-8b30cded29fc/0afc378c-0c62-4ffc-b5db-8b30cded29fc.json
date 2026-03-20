@@ -1,0 +1,97 @@
+{
+  "id": "0afc378c-0c62-4ffc-b5db-8b30cded29fc",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Bjornulf S\u00f8rensen",
+    "metadata": {
+      "age": 31,
+      "accent": "Norwegian",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Senior Fabrication Technician",
+      "languages": "English",
+      "birth_date": "1993-04-25",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Manufacturing",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Gentle",
+        "Loyal",
+        "Grounded",
+        "Practical Idealist",
+        "Observant",
+        "Morning Person",
+        "Emotionally Intelligent"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 180,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "bjornulf_srensen",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Beard",
+        "Scars"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Small",
+      "childhood_location": "Coastal town in Norway",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant emotional challenges related to the dissolution of a long-term relationship (divorce), which prompted a period of intense self-reflection and subsequent relocation.",
+      "myers_briggs_type": "ISTP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Virtue ethics",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T16:21:42.918+00:00",
+  "updated_at": "2025-11-14T23:31:04.303Z",
+  "version": 12
+}

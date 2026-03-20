@@ -1,0 +1,134 @@
+{
+  "id": "8c961520-d2ef-4eb9-80f6-43cc758b48fd",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Indigo Solstice",
+    "metadata": {
+      "age": 22,
+      "accent": "London Estuary English",
+      "gender": "agender",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Currently enrolled",
+      "ethnicity": "Mixed",
+      "job_title": "Community Outreach Intern",
+      "languages": "English",
+      "birth_date": "2002-10-28",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Conservative",
+      "personality_traits": [
+        "Idealistic",
+        "Logical",
+        "Expressive",
+        "Observant",
+        "Sensitive",
+        "Stubborn"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 175,
+      "city_town": "Bristol",
+      "sexual_orientation": "queer"
+    },
+    "username": "indigosolstice",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "South London, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced a period of intense existential isolation during a post-secondary gap year, leading to deep questioning and a philosophical pivot towards ecological stewardship and traditional community values.",
+      "income_range": "Under 20k",
+      "career_stage": "Student",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Rational",
+        "Withdrawn"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Community",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Live events"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Few relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:22:37.748+00:00",
+  "updated_at": "2025-11-14T23:31:37.956Z",
+  "version": 12
+}

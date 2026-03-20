@@ -1,0 +1,98 @@
+{
+  "id": "fae67e21-8817-4bfc-a5c5-d9aa511e69f8",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lucian Alister Blackwood",
+    "metadata": {
+      "age": 23,
+      "accent": "Distinct British (A refined, non-regional British accent, occasionally influenced by the precise articulation and measured cadences of professional French speakers)",
+      "gender": "man",
+      "location": "France",
+      "pronouns": "he/they",
+      "education": "No formal education",
+      "ethnicity": "White",
+      "job_title": "Product Design Consultant",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Technology",
+      "political_leaning": "Libertarian",
+      "personality_traits": [
+        "Resourceful",
+        "Charismatic",
+        "Competitive",
+        "Insightful",
+        "Independent",
+        "Grounded"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 182,
+      "city_town": "Lyon",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "lucianalisterbla",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol",
+        "None"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Assertive",
+      "social_circle_size": "Small",
+      "childhood_location": "Birmingham, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "High-pressure, low-safety-net upbringing followed by an early, brief, and intense divorce that necessitated rapid professional and emotional self-restructuring.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Never",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:37:37.921+00:00",
+  "updated_at": "2025-11-14T23:32:12.977Z",
+  "version": 12
+}

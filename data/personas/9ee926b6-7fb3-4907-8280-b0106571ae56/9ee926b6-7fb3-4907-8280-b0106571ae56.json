@@ -1,0 +1,44 @@
+{
+  "id": "9ee926b6-7fb3-4907-8280-b0106571ae56",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sione Valu",
+    "metadata": {
+      "age": 26,
+      "accent": "Australian English with a subtle Tongan lilt.",
+      "gender": "man",
+      "location": "Australia",
+      "pronouns": "he/him",
+      "education": "Currently enrolled",
+      "ethnicity": "Pacific Islander",
+      "job_title": "Research Assistant & Community Engagement Coordinator",
+      "languages": "English",
+      "birth_date": "1998-03-10",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Nonprofit",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "driven",
+        "always learning",
+        "charming",
+        "curious",
+        "resourceful",
+        "thoughtful",
+        "ambitious"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Christian",
+      "height_centimeters": 188,
+      "city_town": "Brisbane",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "sionevalu"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:55:00.66+00:00",
+  "updated_at": "2025-11-14T23:31:43.598Z",
+  "version": 14
+}

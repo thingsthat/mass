@@ -1,0 +1,134 @@
+{
+  "id": "3d583e34-66c4-4424-926d-4d8ab2c5fea0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alistair Caique",
+    "metadata": {
+      "age": 31,
+      "accent": "Brazilian Portuguese accent (subtle, especially when speaking English)",
+      "gender": "man",
+      "location": "Other",
+      "pronouns": "she/her",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Black",
+      "job_title": "Financial Data Systems Specialist",
+      "languages": "English",
+      "birth_date": "1993-05-07",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Analytical",
+        "Resourceful",
+        "Competitive",
+        "Grounded",
+        "Authentic",
+        "Introverted"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "S\u00e3o Paulo",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "alistaircaique",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Rio de Janeiro, Brazil",
+      "family_structure": "Single parent",
+      "trauma_history": "Significant economic instability during childhood leading to early entry into workforce and intense pressure.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Calm",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Achievement",
+        "Growth",
+        "Stability"
+      ],
+      "moral_framework": [
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Few relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:31:52.922+00:00",
+  "updated_at": "2025-11-14T23:31:17.053Z",
+  "version": 12
+}

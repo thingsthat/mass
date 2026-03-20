@@ -1,0 +1,139 @@
+{
+  "id": "3e181395-8a5e-4bf2-8e50-c03f34d05e74",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alden Vance",
+    "metadata": {
+      "age": 31,
+      "accent": "British English (Received Pronunciation)",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "name only",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "White",
+      "job_title": "Real Estate Legal Counsel",
+      "languages": "English",
+      "birth_date": "1993-08-05",
+      "zodiac_sign": "Leo",
+      "job_industry": "Real Estate",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Analytical",
+        "Creative",
+        "Imaginative",
+        "Thoughtful",
+        "Open-minded",
+        "Curious",
+        "Night Owl"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 180,
+      "city_town": "Seattle",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "alden_vance",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Oxfordshire, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "Adjusting to the high-stakes US legal practice environment after immigrating, coupled with intense periods of professional isolation required for legal research.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Withdrawn",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Growth",
+        "Creativity",
+        "Integrity",
+        "Justice",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:19:56.171+00:00",
+  "updated_at": "2025-11-14T23:31:17.441Z",
+  "version": 12
+}

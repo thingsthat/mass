@@ -1,0 +1,152 @@
+{
+  "id": "4e36003b-3233-4657-ac2f-a1c7a1691d0a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Leena Vashistha",
+    "metadata": {
+      "age": 68,
+      "accent": "Refined British English with subtle, cultured inflections that hint at her South Asian heritage.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Partner, Venture Capital",
+      "languages": "English",
+      "job_industry": "Finance",
+      "personality_traits": [
+        "Analytical",
+        "Thoughtful",
+        "Calm Under Pressure",
+        "Driven",
+        "Observant",
+        "Resourceful",
+        "Principled"
+      ],
+      "relationship_status": "married",
+      "sexual_orientation": "heterosexual",
+      "political_leaning": "Centrist",
+      "birth_date": "1956-07-22",
+      "zodiac_sign": "Cancer",
+      "religion": "Hindu",
+      "height_centimeters": 162,
+      "city_town": "London"
+    },
+    "username": "leena_vashistha",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Integrity",
+        "Wisdom",
+        "Growth",
+        "Success",
+        "Responsibility"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Senior",
+      "drugs_status": "Occasional",
+      "income_range": "200k+",
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential",
+        "Theoretical"
+      ],
+      "sleep_schedule": "Early bird",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Car owner",
+        "Rideshare",
+        "Bike"
+      ],
+      "trauma_history": "Experienced significant market crash losses early in her career that required swift, high-pressure remediation, leading to a profound focus on robust risk management and due diligence.",
+      "moral_framework": [
+        "Deontological",
+        "Pragmatic"
+      ],
+      "parental_status": "Empty nester",
+      "spending_habits": "Value-seeking",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "attachment_style": "Secure",
+      "career_ambitions": "Passion pursuing",
+      "diet_preferences": "Mediterranean",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Very satisfied",
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "news_consumption": "Heavy",
+      "travel_frequency": "Frequent",
+      "work_environment": "Hybrid",
+      "housing_situation": "Own",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Tablet"
+      ],
+      "childhood_location": "Mumbai, India",
+      "chronic_conditions": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Light",
+      "therapy_experience": "Never",
+      "communication_style": "Assertive",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair",
+        "Straight hair"
+      ],
+      "mental_health_status": "Excellent",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Books",
+        "Music",
+        "Documentaries",
+        "Live events",
+        "Museums"
+      ],
+      "environmental_consciousness": "High"
+    },
+    "connections": [
+      {
+        "persona_id": "573ea8cf-3fda-4706-81d7-8b0e08f2b81f",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Arjun Vashistha"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T00:05:56.435+00:00",
+  "updated_at": "2025-11-14T23:31:22.380Z",
+  "version": 8
+}

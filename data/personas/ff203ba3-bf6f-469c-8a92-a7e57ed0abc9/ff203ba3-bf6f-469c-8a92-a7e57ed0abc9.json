@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Trevor Adewale",
+    "metadata": {
+      "age": 69,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Black",
+      "accent": "Mancunian (British)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Stoic",
+        "Pragmatic",
+        "Reliable",
+        "Observant",
+        "Quietly Confident",
+        "Loyal",
+        "Self-Sufficient"
+      ],
+      "job_title": "Senior Medical Equipment Technician",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1955-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Manchester"
+    },
+    "username": "tadewale",
+    "connections": [
+      {
+        "persona_id": "498accc5-1a84-4d31-aa9d-a316a52a7959",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Maellys Adewale"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:46:15.586Z",
+  "updated_at": "2025-11-14T23:32:14.671Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ff203ba3-bf6f-469c-8a92-a7e57ed0abc9"
+}

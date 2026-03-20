@@ -1,0 +1,44 @@
+{
+  "id": "a5df76ea-9d73-4e63-b8ce-ded2bcb7f6d4",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Joris Alston",
+    "metadata": {
+      "age": 22,
+      "accent": "South London",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "Black",
+      "job_title": "Logistics Coordinator (Part-time)",
+      "languages": "English",
+      "birth_date": "2002-02-10",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Transportation",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "witty",
+        "curious about others",
+        "imaginative",
+        "principled",
+        "adaptable",
+        "thoughtful",
+        "ambitious"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Christian",
+      "height_centimeters": 182,
+      "city_town": "Peckham, London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "joris_alston"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:25:15.243+00:00",
+  "updated_at": "2025-11-14T23:31:46.614Z",
+  "version": 14
+}

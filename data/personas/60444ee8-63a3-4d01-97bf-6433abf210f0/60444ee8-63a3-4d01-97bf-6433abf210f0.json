@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Vivek Sharma",
+    "metadata": {
+      "age": 45,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "South Asian",
+      "accent": "British English (with a slight South Asian lilt)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Sports & Recreation",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Adaptable",
+        "Stoic",
+        "Enthusiastic",
+        "Pragmatic",
+        "Loyal",
+        "Dryly Humorous"
+      ],
+      "job_title": "Head Coach, Youth Football Academy",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1979-05-15",
+      "zodiac_sign": "Taurus",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Leicester"
+    },
+    "username": "viveksharma",
+    "connections": [
+      {
+        "persona_id": "56de0184-a244-40a7-805c-863e1f740dde",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Anwen Devi"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:47:25.479Z",
+  "updated_at": "2025-11-14T23:31:26.217Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "60444ee8-63a3-4d01-97bf-6433abf210f0"
+}

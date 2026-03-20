@@ -1,0 +1,44 @@
+{
+  "id": "fc384905-3c3b-4168-a26f-a8d76ff2f68b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zuri Alistair",
+    "metadata": {
+      "age": 23,
+      "accent": "London English (Multicultural)",
+      "gender": "genderfluid",
+      "location": "United Kingdom",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Paralegal",
+      "languages": "English",
+      "birth_date": "2001-12-05",
+      "zodiac_sign": "Sagittarius",
+      "job_industry": "Legal",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Idealistic",
+        "Inquisitive",
+        "Driven",
+        "Eclectic",
+        "Sensitive",
+        "Unconventional",
+        "Resourceful"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 172,
+      "city_town": "Chorlton-cum-Hardy",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "zuri_alistair"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:14:11.996+00:00",
+  "updated_at": "2025-11-14T23:32:13.558Z",
+  "version": 12
+}

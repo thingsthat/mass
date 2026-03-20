@@ -1,0 +1,140 @@
+{
+  "id": "1af41a02-74f0-4b88-b733-2ce21bc0db1e",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Osvaldo Quintana",
+    "metadata": {
+      "age": 39,
+      "accent": "Mexican American, slight L.A. influence",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Hispanic",
+      "job_title": "Medical Ethicist",
+      "languages": "English",
+      "birth_date": "1985-10-28",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Healthcare",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Outgoing",
+        "Easygoing",
+        "Open-minded",
+        "Independent",
+        "Analytical",
+        "Curious",
+        "Empathetic"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Prefer not to say",
+      "height_centimeters": 175,
+      "city_town": "Los Angeles",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "osvaldoquintana",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Dimples",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East Los Angeles, California",
+      "family_structure": "Extended",
+      "trauma_history": "Witnessed profound structural inequalities and ethical failings in healthcare systems serving underserved communities during his early career, solidifying his dedication to justice but leading to moral fatigue.",
+      "income_range": "150k-200k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Justice",
+        "Growth",
+        "Integrity",
+        "Compassion",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Books",
+        "Music",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered",
+        "It's complicated"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Rideshare",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:21:24.112+00:00",
+  "updated_at": "2025-11-14T23:31:08.174Z",
+  "version": 12
+}

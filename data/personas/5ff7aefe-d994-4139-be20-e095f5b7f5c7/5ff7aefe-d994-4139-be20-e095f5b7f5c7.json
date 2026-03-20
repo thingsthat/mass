@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elena Vargas",
+    "metadata": {
+      "age": 30,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Hispanic",
+      "accent": "Neutral English with a subtle French lilt",
+      "location": "France",
+      "languages": "English",
+      "job_industry": "Finance",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Analytical",
+        "Composed",
+        "Pragmatic",
+        "Detail-Oriented",
+        "Compassionate",
+        "Reserved"
+      ],
+      "job_title": "Senior Financial Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1994-08-15",
+      "zodiac_sign": "Leo",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Lyon"
+    },
+    "username": "elenavargas",
+    "connections": [
+      {
+        "persona_id": "055d8a45-3cce-413e-a4f4-502d151999b3",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Fidelio Montiel"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:34:27.125Z",
+  "updated_at": "2025-11-14T23:31:25.983Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "5ff7aefe-d994-4139-be20-e095f5b7f5c7"
+}

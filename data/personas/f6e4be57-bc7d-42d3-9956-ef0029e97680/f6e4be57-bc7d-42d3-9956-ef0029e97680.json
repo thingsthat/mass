@@ -1,0 +1,137 @@
+{
+  "id": "f6e4be57-bc7d-42d3-9956-ef0029e97680",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mateo Valdes",
+    "metadata": {
+      "age": 51,
+      "accent": "Subtle New Zealand accent with a slight Spanish lilt",
+      "gender": "man",
+      "location": "New Zealand",
+      "pronouns": "he/him",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Hispanic",
+      "job_title": "Retail Operations Manager",
+      "languages": "English",
+      "birth_date": "1973-04-18",
+      "zodiac_sign": "Aries",
+      "job_industry": "Retail",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Creative",
+        "Insightful",
+        "Authentic",
+        "Thoughtful",
+        "Resourceful",
+        "Diplomatic"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Wellington",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "mvaldes",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Florence, Italy",
+      "family_structure": "Extended",
+      "trauma_history": "Painful, though ultimately clarifying, divorce five years ago which initiated a significant personal re-evaluation and lifestyle pivot.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Creativity",
+        "Growth",
+        "Compassion",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships"
+      ],
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:09:49.396+00:00",
+  "updated_at": "2025-11-14T23:32:11.163Z",
+  "version": 14
+}

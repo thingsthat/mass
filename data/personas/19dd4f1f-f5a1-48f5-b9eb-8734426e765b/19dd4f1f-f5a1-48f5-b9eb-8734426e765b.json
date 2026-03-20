@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rhys Bellamy",
+    "metadata": {
+      "age": 40,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English with a faint Welsh lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Government",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Analytical",
+        "Principled",
+        "Protective",
+        "Introspective",
+        "Relationship-Focused",
+        "Debatant"
+      ],
+      "job_title": "Senior Policy Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1983-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Bristol"
+    },
+    "username": "rbellamy",
+    "connections": [
+      {
+        "persona_id": "5e35362d-2df3-4deb-8542-c262527130a5",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Fumiko Bellamy"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:48:44.409Z",
+  "updated_at": "2025-11-14T23:31:08.045Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "19dd4f1f-f5a1-48f5-b9eb-8734426e765b"
+}

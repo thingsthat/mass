@@ -1,0 +1,96 @@
+{
+  "id": "0bb3795b-096a-4651-bbf6-c6409ad9ff55",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Callista \"Callie\" Thorne",
+    "metadata": {
+      "age": 33,
+      "accent": "London English (Estuary)",
+      "gender": "prefer not to say",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Policy Analyst",
+      "languages": "English",
+      "birth_date": "1991-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Extroverted",
+        "Meticulous",
+        "Workaholic",
+        "Principled",
+        "Challenging",
+        "Reflective"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "callistacallieth",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Assertive",
+      "social_circle_size": "Large",
+      "childhood_location": "Various cities across the UK and continental Europe (transient childhood)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Frequent relocation during childhood led to chronic difficulty forming deep, long-term attachments.",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Documentaries",
+        "Social media"
+      ],
+      "attachment_style": "Anxious",
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:41:40.307+00:00",
+  "updated_at": "2025-11-14T23:31:04.897Z",
+  "version": 12
+}

@@ -1,0 +1,97 @@
+{
+  "id": "72cbdf3d-0b90-4e22-ae33-807ace832521",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aisha Ndlovu",
+    "metadata": {
+      "age": 45,
+      "accent": "South African",
+      "gender": "woman",
+      "location": "Other",
+      "pronouns": "she/her",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Black",
+      "job_title": "Field and Laboratory Support Technician",
+      "languages": "English",
+      "birth_date": "1979-07-23",
+      "zodiac_sign": "Leo",
+      "job_industry": "Science & Research",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Kind",
+        "Easygoing",
+        "Adaptable",
+        "Thoughtful",
+        "Curiosity",
+        "Observant",
+        "Resilient"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Johannesburg",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aisha_ndlovu",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Johannesburg Township, South Africa",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant economic hardship and resource scarcity during childhood and early adulthood, shaping a strong resilience.",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Virtue ethics",
+        "Religious"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:33:38.779+00:00",
+  "updated_at": "2025-11-14T23:31:31.333Z",
+  "version": 14
+}

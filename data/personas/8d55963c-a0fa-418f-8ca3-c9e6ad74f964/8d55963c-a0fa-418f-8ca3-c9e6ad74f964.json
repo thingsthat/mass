@@ -1,0 +1,134 @@
+{
+  "id": "8d55963c-a0fa-418f-8ca3-c9e6ad74f964",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aoife Brennan",
+    "metadata": {
+      "age": 21,
+      "accent": "A warm, distinctive Cork Irish accent, which, while still strong, has acquired subtle Belfast inflections over her five years living in the city, making her speech uniquely Northern Irish with a Southern lilt.",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Apprentice Chef",
+      "languages": "English",
+      "birth_date": "2003-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Hospitality",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Imaginative",
+        "Disciplined",
+        "Curious",
+        "Outgoing",
+        "Resourceful",
+        "Witty",
+        "Morning Person"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Christian",
+      "height_centimeters": 165,
+      "city_town": "Belfast",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aoifebrennan",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Freckles"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Cork, Ireland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced cultural adjustment and minor social isolation after moving from Cork to Belfast in her mid-teens.",
+      "income_range": "20k-40k",
+      "career_stage": "Entry-level",
+      "work_environment": "Restaurant",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Excellence",
+        "Growth",
+        "Community",
+        "Honesty"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Music",
+        "Documentaries",
+        "Streaming services",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Short-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:45:27.1+00:00",
+  "updated_at": "2025-11-14T23:31:38.483Z",
+  "version": 14
+}

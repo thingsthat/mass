@@ -1,0 +1,137 @@
+{
+  "id": "802c5d95-b6df-4dad-9fcd-d749d2790247",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nandi Okoro",
+    "metadata": {
+      "age": 27,
+      "accent": "London (Estuary English)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "prefer not to say",
+      "education": "Some college or university",
+      "ethnicity": "Black",
+      "job_title": "Vintage Clothing Store Manager",
+      "languages": "English",
+      "birth_date": "1997-01-25",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Retail",
+      "political_leaning": "Socialist",
+      "personality_traits": [
+        "Eccentric",
+        "Principled",
+        "Passionate",
+        "Analytical",
+        "Empathetic",
+        "Introspective"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Brixton",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "nandiokoro",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Dyed hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Brixton, South London, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed significant social and economic inequality growing up in South London, fueling intense political anxiety and commitment to systemic justice and radical change.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Retail",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Confrontational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Justice",
+        "Authenticity",
+        "Freedom",
+        "Integrity",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Existentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Books",
+        "Documentaries",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Allergies"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:12:47.885+00:00",
+  "updated_at": "2025-11-14T23:31:34.946Z",
+  "version": 12
+}

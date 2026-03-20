@@ -1,0 +1,44 @@
+{
+  "id": "ed3fdca1-191b-47be-8695-112f3c27e89c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alex Casey",
+    "metadata": {
+      "age": 35,
+      "accent": "Standard British",
+      "gender": "genderfluid",
+      "location": "United Kingdom",
+      "pronouns": "they/he",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Junior Software Developer",
+      "languages": "English",
+      "birth_date": "1989-01-27",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "analytical",
+        "driven",
+        "generous",
+        "curious",
+        "adaptable",
+        "thoughtful",
+        "resourceful"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 172,
+      "city_town": "Leeds",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "acasey"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:42:15.565+00:00",
+  "updated_at": "2025-11-14T23:32:07.804Z",
+  "version": 14
+}

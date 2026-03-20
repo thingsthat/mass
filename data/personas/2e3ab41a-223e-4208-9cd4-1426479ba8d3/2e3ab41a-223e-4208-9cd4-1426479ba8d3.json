@@ -1,0 +1,43 @@
+{
+  "id": "2e3ab41a-223e-4208-9cd4-1426479ba8d3",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Callisto \"Callie\" Vance",
+    "metadata": {
+      "age": 23,
+      "accent": "Bristolean with a subtle, melodic lilt from their Caribbean heritage",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "religion": "Prefer not to say",
+      "city_town": "Bristol",
+      "education": "Vocational or technical training",
+      "ethnicity": "Mixed",
+      "job_title": "CNC Machine Operator",
+      "languages": "English",
+      "birth_date": "2000-05-10",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Manufacturing",
+      "political_leaning": "Progressive",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Assertive",
+        "Resourceful",
+        "Guarded",
+        "Pragmatic",
+        "Observant",
+        "Sarcastic"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "queer"
+    },
+    "username": "callistocallieva"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T12:15:02.437+00:00",
+  "updated_at": "2025-11-14T23:31:12.903Z",
+  "version": 5
+}

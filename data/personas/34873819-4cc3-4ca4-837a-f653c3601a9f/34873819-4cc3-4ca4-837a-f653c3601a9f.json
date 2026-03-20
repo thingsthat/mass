@@ -1,0 +1,136 @@
+{
+  "id": "34873819-4cc3-4ca4-837a-f653c3601a9f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Anjali Raychaudhuri",
+    "metadata": {
+      "age": 50,
+      "accent": "Subtle Indian English Lilt",
+      "gender": "woman",
+      "location": "France",
+      "pronouns": "she/they",
+      "education": "Some college or university",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Technical Writer",
+      "languages": "English",
+      "birth_date": "1974-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Principled",
+        "Emotionally Intelligent",
+        "Resourceful",
+        "Idealistic",
+        "Adventure Seeker",
+        "Thoughtful"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Paris",
+      "sexual_orientation": "queer"
+    },
+    "username": "anjaliraychaudhu",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Kolkata, India",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed and documented significant human suffering during disaster relief efforts in Nepal, leading to a strong commitment to ethical work and social justice.",
+      "income_range": "100k-150k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Adventure",
+        "Justice",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Gaming",
+        "Museums",
+        "Concerts"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Car owner"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:38:12.833+00:00",
+  "updated_at": "2025-11-14T23:31:14.922Z",
+  "version": 12
+}

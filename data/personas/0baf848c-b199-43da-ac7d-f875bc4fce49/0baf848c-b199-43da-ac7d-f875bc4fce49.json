@@ -1,0 +1,43 @@
+{
+  "id": "0baf848c-b199-43da-ac7d-f875bc4fce49",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Seren Adeola",
+    "metadata": {
+      "age": 24,
+      "accent": "Bristolian with a slight Welsh lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Spiritual",
+      "city_town": "Bristol",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Unemployed, actively seeking Administrative Assistant or HR Support roles",
+      "languages": "English",
+      "birth_date": "2000-09-08",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Unemployed",
+      "political_leaning": "Liberal",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Resilient",
+        "Perfectionist",
+        "Open-minded",
+        "Emotional",
+        "Determined",
+        "Protective"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "serenadeola"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:57:32.717+00:00",
+  "updated_at": "2025-11-14T23:31:04.728Z",
+  "version": 5
+}

@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Patrick Sullivan",
+    "metadata": {
+      "age": 48,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Standard American English",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Real Estate",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Entrepreneurial",
+        "Independent",
+        "Big-picture thinker",
+        "Pragmatic",
+        "Optimistic",
+        "Witty",
+        "Adaptable"
+      ],
+      "job_title": "Senior Real Estate Developer",
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1976-03-25",
+      "zodiac_sign": "Aries",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Austin"
+    },
+    "username": "psullivan",
+    "connections": [
+      {
+        "persona_id": "22874275-6c05-4e6b-8efe-a909d0788cb4",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Calliope Farnsworth"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:42:22.785Z",
+  "updated_at": "2025-11-14T23:31:59.318Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "ceb16131-7f7c-47c5-95db-306a71617154"
+}

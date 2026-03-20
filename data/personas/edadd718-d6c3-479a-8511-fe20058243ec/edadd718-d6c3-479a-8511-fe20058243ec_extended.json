@@ -1,0 +1,60 @@
+{
+  "id": "edadd718-d6c3-479a-8511-fe20058243ec",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "No specific diet",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Passive-aggressive",
+      "social_circle_size": "Small",
+      "childhood_location": "London, UK",
+      "family_structure": "Extended",
+      "trauma_history": "None explicitly detailed, though his reserved and pessimistic nature might suggest past challenges.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "core_values": [
+        "Justice",
+        "Integrity",
+        "Loyalty",
+        "Knowledge",
+        "Respect"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Streaming services",
+        "Movies",
+        "Theater"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

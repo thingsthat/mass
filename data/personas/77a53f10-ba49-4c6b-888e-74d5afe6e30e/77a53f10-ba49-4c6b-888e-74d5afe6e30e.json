@@ -1,0 +1,43 @@
+{
+  "id": "77a53f10-ba49-4c6b-888e-74d5afe6e30e",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Clementine Fiore",
+    "metadata": {
+      "age": 23,
+      "accent": "Bristolian English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Agnostic",
+      "city_town": "Bristol",
+      "education": "Associate degree",
+      "ethnicity": "Multiracial",
+      "job_title": "Assistant Store Manager",
+      "languages": "English",
+      "birth_date": "2001-08-10",
+      "zodiac_sign": "Leo",
+      "job_industry": "Retail",
+      "political_leaning": "Libertarian",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Principled",
+        "Resilient",
+        "Resourceful",
+        "Pragmatic",
+        "Guarded",
+        "Observant"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "cfiore"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T12:12:25.258+00:00",
+  "updated_at": "2025-11-14T23:31:32.539Z",
+  "version": 5
+}

@@ -1,0 +1,148 @@
+{
+  "id": "aeff86ec-ea2a-4926-b2f5-677e7b34c0b9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Inara Velasco",
+    "metadata": {
+      "age": 31,
+      "accent": "Brazilian Portuguese (clear, rhythmic cadence when speaking English)",
+      "gender": "woman",
+      "location": "Brazil",
+      "pronouns": "she/her",
+      "education": "Some college or university",
+      "ethnicity": "Hispanic",
+      "job_title": "Operations Lead, Process Optimization",
+      "languages": "English",
+      "birth_date": "1993-05-08",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Business Services",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Insightful",
+        "Open-Minded",
+        "Intuitive",
+        "Collaborative",
+        "Grounded",
+        "Disciplined",
+        "Resourceful"
+      ],
+      "relationship_status": "married",
+      "religion": "Christian",
+      "height_centimeters": 165,
+      "city_town": "Belo Horizonte",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "ivelasco",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Contact lenses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Never",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Divin\u00f3polis, Minas Gerais, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced financial instability in early adulthood which required pausing educational plans and entering the workforce early.",
+      "income_range": "40k-60k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Practical"
+      ],
+      "core_values": [
+        "Family",
+        "Success",
+        "Growth",
+        "Integrity",
+        "Stability"
+      ],
+      "moral_framework": [
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Gaming console"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Gaming",
+        "Documentaries",
+        "Podcasts"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    },
+    "connections": [
+      {
+        "persona_id": "f0fe1b79-580c-4966-9f12-2b8c1a598103",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Felipe Cardoso de Souza"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:33:24.06+00:00",
+  "updated_at": "2025-11-14T23:31:49.544Z",
+  "version": 12
+}

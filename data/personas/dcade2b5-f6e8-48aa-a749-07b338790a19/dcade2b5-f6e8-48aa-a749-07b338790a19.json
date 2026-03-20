@@ -1,0 +1,43 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jatin Sharma",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Mixed",
+      "accent": "Standard British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Other",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Analytical",
+        "Meticulous",
+        "Empathetic",
+        "Pragmatic",
+        "Reflective",
+        "Cautiously Optimistic"
+      ],
+      "job_title": "Master Craftsman (Bespoke Joinery)",
+      "relationship_status": "in a relationship",
+      "political_leaning": "Liberal",
+      "birth_date": "1970-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Brighton"
+    },
+    "username": "jsharma"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T00:12:40.888Z",
+  "updated_at": "2025-11-14T23:32:02.674Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "dcade2b5-f6e8-48aa-a749-07b338790a19"
+}

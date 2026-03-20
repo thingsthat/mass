@@ -1,0 +1,44 @@
+{
+  "id": "a4560679-d899-48ba-868e-75378a2b3e92",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Omari Prasad",
+    "metadata": {
+      "age": 22,
+      "accent": "Subtle British-Indian accent",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "prefer not to say",
+      "education": "Vocational or technical training",
+      "ethnicity": "Mixed",
+      "job_title": "Assistant Store Manager",
+      "languages": "Spanish",
+      "birth_date": "2002-04-10",
+      "zodiac_sign": "Aries",
+      "job_industry": "Retail",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "curious",
+        "independent",
+        "authentic",
+        "empathetic",
+        "observant",
+        "adaptable",
+        "witty"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 174,
+      "city_town": "Seattle",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "omariprasad"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:28:55.182+00:00",
+  "updated_at": "2025-11-14T23:31:46.153Z",
+  "version": 12
+}

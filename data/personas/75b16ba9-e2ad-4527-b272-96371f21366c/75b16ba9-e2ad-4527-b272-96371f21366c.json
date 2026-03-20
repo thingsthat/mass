@@ -1,0 +1,43 @@
+{
+  "id": "75b16ba9-e2ad-4527-b272-96371f21366c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kareem Al-Attar",
+    "metadata": {
+      "age": 36,
+      "accent": "Soft Northern English with a subtle hint of Moroccan English pronunciation on some words, particularly 'th' sounds (often pronounced as 'd' or 't').",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "religion": "Other",
+      "city_town": "Manchester",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed or Multiracial",
+      "job_title": "Consultant Physiotherapist",
+      "languages": "English",
+      "birth_date": "1988-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Healthcare",
+      "political_leaning": "Liberal",
+      "height_centimeters": 182,
+      "personality_traits": [
+        "Empathetic",
+        "Energetic",
+        "Detail-Oriented",
+        "Anxious",
+        "Affectionate",
+        "Curious"
+      ],
+      "relationship_status": "in a relationship",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "kareem_alattar"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-19T15:12:58.564+00:00",
+  "updated_at": "2025-11-14T23:31:31.939Z",
+  "version": 5
+}

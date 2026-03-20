@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Latoya Abasi",
+    "metadata": {
+      "age": 42,
+      "gender": "bigender",
+      "pronouns": "she/her",
+      "ethnicity": "Black",
+      "accent": "General American, with a distinct warmth and occasional cadence influenced by growing up in the urban South.",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "No formal education",
+      "personality_traits": [
+        "Collaborative",
+        "Competitive",
+        "Intense",
+        "Resilient",
+        "Witty",
+        "Perceptive",
+        "Pragmatic"
+      ],
+      "job_title": "IT Operations Manager",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1982-10-30",
+      "zodiac_sign": "Scorpio",
+      "religion": "Spiritual",
+      "sexual_orientation": "bisexual",
+      "height_centimeters": 168,
+      "city_town": "Atlanta"
+    },
+    "username": "latoya_abasi",
+    "connections": [
+      {
+        "persona_id": "5a2dc32c-9d58-484a-9ca5-4d012e4c8f16",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kito Abasi"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:48:03.575Z",
+  "updated_at": "2025-11-14T23:32:07.021Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "eb685788-afac-448e-8baf-bd751b4fa12f"
+}

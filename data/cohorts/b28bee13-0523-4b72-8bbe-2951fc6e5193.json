@@ -1,0 +1,53 @@
+{
+  "name": "Health Conscious in the United Kingdom",
+  "description": "Fitness buffs, wellness seekers, nutrition-conscious people following healthy diets, gym goers, and mindfulness practitioners.",
+  "data": {
+    "persona_ids": [
+      "15b068b9-9dea-47a6-a12b-16206a1f5650",
+      "217d4e7a-7809-4715-9864-cda835878684",
+      "2270daf2-7d62-4d23-8231-ac61b524625c",
+      "271d0e3a-345b-4786-814a-5ecb67921745",
+      "3b59cc5b-d061-4ce2-87fd-f20619c20a5f",
+      "3d961865-5b12-4e2c-a4fd-8ad34755bfac",
+      "3fe7496c-8bbb-421d-98f0-c581ca3c91b4",
+      "42d8b1f9-d88c-4e8a-a1d2-8b3a085e6ef3",
+      "4329ea1e-369d-477f-9ac8-d0701b01cfa8",
+      "465a83c4-4329-4a54-9bd4-2d1813ac1988",
+      "4822c229-7c22-4fc4-bdf4-599259fb771b",
+      "5c964d79-f45f-4636-9221-d53f7269371c",
+      "602560c5-a8c0-4d12-b171-2e5183f124a5",
+      "674a0308-9da2-475a-8695-368377cf00be",
+      "676f59f5-519f-43ac-9bec-0d88d1741b56",
+      "6bab6894-62a2-4ca9-92f3-f13861a1ced0",
+      "77b07e63-0594-465d-9d0f-f4de68637a9f",
+      "79288dcd-a046-466f-b145-975d6f57a979",
+      "7ab87933-eb83-481b-8e37-2e0a82b94f27",
+      "7f97ae64-7230-4a67-96dd-86c32e705fe6",
+      "807f0090-c833-49b7-bc36-14e2bd36ee3a",
+      "82c0db11-f492-4a4d-8abd-df9d359e4c69",
+      "a0856203-dd10-4a1a-8846-4d5f04694a70",
+      "a2d37b9f-68a1-45a5-99b5-1a4c2596af37",
+      "a51c4184-e6fa-4bfe-8414-88b78253200e",
+      "a7502312-f147-45d4-9804-fdf8b7582b91",
+      "b20aa8d2-921f-4cc0-9867-b6ed98dfeaf0",
+      "b63fea95-c00f-4f4b-a04e-2a60d54aaa59",
+      "be7fe6c4-0ec0-4c9f-9869-cd71bae11c46",
+      "bf42164a-bba0-4d80-bd12-be372fa38d07",
+      "c52bb85c-ea7b-4ad1-baf6-f6d4ff0a9218",
+      "ca3967ca-6522-45fe-818a-c91bfb5d3d83",
+      "d1c279cb-37b2-4d28-a59c-adcfd7a6e1b0",
+      "d2ae29a7-baf7-4559-96aa-f21712030ae4",
+      "d58dbbec-b2e4-4320-bf90-948bb20e0a37",
+      "d5e237dc-9e7c-407a-994b-9a8d13e8ffee",
+      "d85792f0-58ab-49ac-b732-29f970333961",
+      "e62ddc76-5097-4f8f-bcd6-d4d68d304f3d",
+      "fa222722-6b6b-4b0a-8d81-4cec2a5c2987",
+      "fa231c0e-2aae-4765-b0a5-f7a2cf7177fd"
+    ],
+    "metadata": {
+      "locations": [
+        "United Kingdom"
+      ]
+    }
+  }
+}

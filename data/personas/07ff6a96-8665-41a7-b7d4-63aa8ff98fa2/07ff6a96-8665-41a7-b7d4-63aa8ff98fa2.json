@@ -1,0 +1,135 @@
+{
+  "id": "07ff6a96-8665-41a7-b7d4-63aa8ff98fa2",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lysander Finch",
+    "metadata": {
+      "age": 42,
+      "accent": "Australian",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "they/them",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "White",
+      "job_title": "Research Scientist",
+      "languages": "English",
+      "birth_date": "1982-03-15",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Science & Research",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Analytical",
+        "Observant",
+        "Thoughtful",
+        "Curious",
+        "Resilient",
+        "Introspective"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "lysander_finch",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Perth, Western Australia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced a prolonged period of professional burnout and isolation following a major grant rejection in their late 30s, leading to deep questioning of career trajectory.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTP",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Growth",
+        "Knowledge",
+        "Freedom",
+        "Integrity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts",
+        "Other prescription"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Frequent",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:35:08.503+00:00",
+  "updated_at": "2025-11-14T23:31:02.788Z",
+  "version": 15
+}

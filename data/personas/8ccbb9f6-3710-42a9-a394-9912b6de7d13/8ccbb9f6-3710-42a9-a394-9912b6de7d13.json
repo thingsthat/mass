@@ -1,0 +1,136 @@
+{
+  "id": "8ccbb9f6-3710-42a9-a394-9912b6de7d13",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nyoka Mfundo",
+    "metadata": {
+      "age": 25,
+      "accent": "Standard American English with a subtle melodic lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "religion": "Atheist",
+      "city_town": "Atlanta",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Telecommunications Network Engineer",
+      "languages": "English",
+      "birth_date": "1999-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Telecommunications",
+      "political_leaning": "Centrist",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Unconventional",
+        "Analytical",
+        "Driven",
+        "Empathetic",
+        "Resourceful",
+        "Blunt",
+        "Intellectually Curious"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "nyokamfundo",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "core_values": [
+        "Knowledge",
+        "Independence",
+        "Integrity",
+        "Creativity"
+      ],
+      "humor_style": "Dry",
+      "career_stage": "Mid-career",
+      "drugs_status": "Occasional",
+      "income_range": "80k-100k",
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "sleep_schedule": "Night owl",
+      "tech_savviness": "Expert",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "trauma_history": "Experienced social isolation and disconnect during schooling due to unconventional interests and blunt communication style, leading to a strong focus on self-reliance and intellectual pursuits.",
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "parental_status": "Childfree by choice",
+      "spending_habits": "Value-seeking",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Withdrawn"
+      ],
+      "attachment_style": "Avoidant",
+      "career_ambitions": "Entrepreneurial",
+      "diet_preferences": "Intermittent fasting",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Satisfied",
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Hybrid",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INTJ",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Smart home devices"
+      ],
+      "childhood_location": "Atlanta, Georgia, USA",
+      "chronic_conditions": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Light",
+      "therapy_experience": "Open to it",
+      "communication_style": "Direct",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "mental_health_status": "Good",
+      "relationship_history": [
+        "Currently single",
+        "Few relationships",
+        "Long-term relationships"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Independent"
+      ],
+      "emotional_intelligence": "Average",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music",
+        "YouTube",
+        "Live events"
+      ],
+      "environmental_consciousness": "High"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-10T22:05:26.567+00:00",
+  "updated_at": "2025-11-14T23:31:38.092Z",
+  "version": 8
+}

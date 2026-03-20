@@ -1,0 +1,139 @@
+{
+  "id": "23fa4cfd-802e-4718-9db4-443d13501eeb",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "T\u00e0illear MacRae",
+    "metadata": {
+      "age": 39,
+      "accent": "A gentle, rhythmic blend of Scottish and New Zealand English.",
+      "gender": "nonbinary",
+      "location": "New Zealand",
+      "pronouns": "they/them",
+      "education": "Secondary education",
+      "ethnicity": "White",
+      "job_title": "Compliance Analyst",
+      "languages": "English",
+      "birth_date": "1985-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Government",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Analytical",
+        "Resourceful",
+        "Brave",
+        "Mentally Tough",
+        "Insightful",
+        "Independent",
+        "Night Owl"
+      ],
+      "relationship_status": "separated",
+      "religion": "Agnostic",
+      "height_centimeters": 172,
+      "city_town": "Wellington",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "tillearmacrae",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Short hair",
+        "Glasses"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Dunedin, New Zealand",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating a complex mid-life separation and identity shift; past experience of feeling like an outsider due to heritage and non-traditional education path.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Promotion seeking",
+      "myers_briggs_type": "ISTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Experiential",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Independence",
+        "Responsibility",
+        "Adventure",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Deontological",
+        "Pragmatic",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Podcasts",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Childfree by choice",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:29:48.304+00:00",
+  "updated_at": "2025-11-14T23:31:10.331Z",
+  "version": 12
+}

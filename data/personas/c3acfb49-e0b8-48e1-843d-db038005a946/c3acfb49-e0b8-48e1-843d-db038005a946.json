@@ -1,0 +1,44 @@
+{
+  "id": "c3acfb49-e0b8-48e1-843d-db038005a946",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Maeve Buchanan",
+    "metadata": {
+      "age": 58,
+      "accent": "Scottish (soft Highlands accent)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Clinical Operations Manager",
+      "languages": "English",
+      "birth_date": "1966-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Healthcare",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "open-minded",
+        "empathetic",
+        "insightful",
+        "thoughtful",
+        "resilient",
+        "curious about others",
+        "lives with intention"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Spiritual",
+      "height_centimeters": 164,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "maevebuchanan"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:07:22.624+00:00",
+  "updated_at": "2025-11-14T23:31:56.122Z",
+  "version": 14
+}

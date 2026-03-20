@@ -1,0 +1,98 @@
+{
+  "id": "3cbd2f76-c6ff-4daa-a29d-548f2fe37144",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Cl\u00e9mence Zahid",
+    "metadata": {
+      "age": 23,
+      "accent": "French (Parisian lilt)",
+      "gender": "woman",
+      "location": "France",
+      "pronouns": "she/her",
+      "education": "Secondary education",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Junior Project Coordinator",
+      "languages": "English",
+      "birth_date": "2001-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Construction",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Duty-Bound",
+        "Insightful",
+        "Cynical",
+        "Aesthetic/Detail-Oriented",
+        "Reserved",
+        "Loyal"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "Paris",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "clmencezahid",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Contact lenses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "None"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Small",
+      "childhood_location": "Paris, France (8th Arrondissement)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced severe emotional control and conditional affection during childhood, resulting in hyper-vigilance and high-functioning anxiety.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Pragmatic",
+        "Relativist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Never",
+      "housing_situation": "Live with family",
+      "transportation": [
+        "Car owner",
+        "Rideshare",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-29T15:21:50.447+00:00",
+  "updated_at": "2025-11-14T23:31:16.785Z",
+  "version": 12
+}

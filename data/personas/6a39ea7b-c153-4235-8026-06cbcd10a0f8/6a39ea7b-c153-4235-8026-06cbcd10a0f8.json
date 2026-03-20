@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stephen Roberts",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "West Country English (Bristol)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Associate degree",
+      "personality_traits": [
+        "Observant",
+        "Prudent",
+        "Conformist",
+        "Empathetic",
+        "Inquisitive",
+        "Stoic",
+        "Resourceful"
+      ],
+      "job_title": "Senior Site Manager",
+      "relationship_status": "in a relationship",
+      "political_leaning": "Conservative",
+      "birth_date": "1970-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Bristol"
+    },
+    "username": "stephenroberts"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:43:54.793Z",
+  "updated_at": "2025-11-14T23:31:28.702Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "6a39ea7b-c153-4235-8026-06cbcd10a0f8"
+}

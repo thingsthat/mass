@@ -1,0 +1,40 @@
+{
+  "creator_id": null,
+  "details": {
+    "name": "Sienna-Rose Gallagher",
+    "metadata": {
+      "age": 34,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Mixed",
+      "accent": "Soft West Country (Bristol) with a modern, professional Estuary influence",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_title": "Senior UX Designer",
+      "job_industry": "Technology",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "fiercely independent",
+        "calm under pressure",
+        "intuitive-leaper",
+        "self-righteous",
+        "passive-aggressive",
+        "meticulous"
+      ],
+      "relationship_status": "married",
+      "political_leaning": "Centrist",
+      "birth_date": "1989-11-12",
+      "zodiac_sign": "Scorpio",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Bristol",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "sgallagher"
+  },
+  "type": "persona",
+  "created_at": "2026-03-15T23:55:23.506Z",
+  "updated_at": "2026-03-15T23:55:23.506Z",
+  "version": 1,
+  "id": "db58df4c-3479-4374-9920-c742f1e900da"
+}

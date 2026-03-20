@@ -1,0 +1,134 @@
+{
+  "id": "0dfc76ba-0ad1-484a-a77b-2a83f64cfc74",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sarah Chen",
+    "metadata": {
+      "age": 35,
+      "accent": "None",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Prefer not to say",
+      "job_title": "Teacher",
+      "languages": "English",
+      "birth_date": "1989-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Education",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Kind",
+        "Empathetic",
+        "Creative",
+        "Thoughtful",
+        "Intuitive",
+        "Adaptable",
+        "Curious about Others"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Austin",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "schen",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Suburban Texas, near Dallas",
+      "family_structure": "Nuclear",
+      "trauma_history": "Observed significant emotional strain and isolation in a close family member during adolescence, which influenced her deep empathy and desire to foster connection for others.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "School",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Compassion",
+        "Creativity",
+        "Justice",
+        "Growth",
+        "Integrity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Streaming services",
+        "Podcasts",
+        "Theater"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "Wants children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:02:06.414+00:00",
+  "updated_at": "2025-11-14T23:31:05.628Z",
+  "version": 14
+}

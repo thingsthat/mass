@@ -1,0 +1,136 @@
+{
+  "id": "724e03db-5fbe-4337-a652-6f89f23bd36e",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kira Solstice",
+    "metadata": {
+      "age": 29,
+      "accent": "Australian",
+      "gender": "woman",
+      "location": "Australia",
+      "pronouns": "she/her",
+      "education": "High school diploma or equivalent",
+      "ethnicity": "Prefer not to say",
+      "job_title": "Visual Merchandiser",
+      "languages": "English",
+      "birth_date": "1995-07-22",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Retail",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Empathetic",
+        "Sensitive",
+        "Gentle",
+        "Creative",
+        "Observant",
+        "Resourceful",
+        "Authentic"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Melbourne",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "ksolstice",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Long hair",
+        "Glasses"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Observational",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Regional Victorian Coastal Town, Australia",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant emotional exhaustion and isolation after an extended solo travel period in her mid-twenties, leading to a period of severe anxiety she had to actively manage.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "Retail",
+      "job_satisfaction": "Neutral",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFP",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Anxious",
+        "Withdrawn",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Intuitive",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Creativity",
+        "Authenticity",
+        "Compassion",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Documentaries",
+        "Music",
+        "Books"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:11:52.241+00:00",
+  "updated_at": "2025-11-14T23:31:31.101Z",
+  "version": 13
+}

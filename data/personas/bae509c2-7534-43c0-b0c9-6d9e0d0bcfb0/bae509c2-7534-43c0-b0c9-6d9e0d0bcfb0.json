@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Lucas Costa Silva",
+    "metadata": {
+      "age": 43,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Mixed",
+      "accent": "Brazilian Portuguese, articulate and warm",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Real Estate",
+      "education": "Professional degree (e.g., JD, MD)",
+      "personality_traits": [
+        "Tactful",
+        "Cynical",
+        "Socially Confident",
+        "Analytical",
+        "Pragmatic",
+        "Loyal"
+      ],
+      "job_title": "Senior Real Estate Attorney",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1981-05-10",
+      "zodiac_sign": "Taurus",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "S\u00e3o Paulo"
+    },
+    "username": "lucascostasilva",
+    "connections": [
+      {
+        "persona_id": "c63d77e3-4744-49e9-b73d-681b1d365cb9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Rhiannon Tanaka Silva"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:00:41.751Z",
+  "updated_at": "2025-11-14T23:31:52.723Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "bae509c2-7534-43c0-b0c9-6d9e0d0bcfb0"
+}

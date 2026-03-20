@@ -1,0 +1,44 @@
+{
+  "id": "6e23e4f6-33cd-4b3b-a911-09a45411cdb0",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eleri Idris",
+    "metadata": {
+      "age": 22,
+      "accent": "Northern Welsh (subtle, clear English pronunciation)",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "religion": "Agnostic",
+      "city_town": "Conwy",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Psychiatric Nurse",
+      "languages": "English",
+      "birth_date": "2002-03-20",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Empathetic",
+        "Analytical",
+        "Spontaneous",
+        "Confident",
+        "Resourceful",
+        "Imaginative",
+        "Generous"
+      ],
+      "relationship_status": "in a relationship",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "eleri_idris"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T10:22:49.149+00:00",
+  "updated_at": "2025-11-14T23:31:29.840Z",
+  "version": 8
+}

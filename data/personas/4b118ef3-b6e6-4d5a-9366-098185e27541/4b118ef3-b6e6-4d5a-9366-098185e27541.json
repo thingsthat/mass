@@ -1,0 +1,139 @@
+{
+  "id": "4b118ef3-b6e6-4d5a-9366-098185e27541",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nayantara Devi: The Visionary Storyteller",
+    "metadata": {
+      "age": 29,
+      "accent": "Mild Indian-American",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "ze/zir",
+      "education": "Vocational or technical training",
+      "ethnicity": "South Asian",
+      "job_title": "Full-time Student",
+      "languages": "English",
+      "birth_date": "1995-10-15",
+      "zodiac_sign": "Libra",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Thoughtful",
+        "Humble",
+        "Insightful",
+        "Mentally Tough",
+        "Ambitious",
+        "Adventure Seeker",
+        "Creative",
+        "Adaptable"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Chicago",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "nayantara_devi",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Chicago, Illinois",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the unexpected loss of a mentor/close family member in early adulthood, leading to a period of intense grief and self-discovery.",
+      "income_range": "20k-40k",
+      "career_stage": "Student",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Kinesthetic"
+      ],
+      "core_values": [
+        "Creativity",
+        "Growth",
+        "Wisdom",
+        "Authenticity",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart TV"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Live events",
+        "Museums"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:55:23.641+00:00",
+  "updated_at": "2025-11-14T23:31:21.612Z",
+  "version": 12
+}

@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kailash Rajguru",
+    "metadata": {
+      "age": 31,
+      "gender": "demigender",
+      "pronouns": "they/them",
+      "ethnicity": "South Asian",
+      "accent": "Subtle Indian English undertones, fluent Brazilian Portuguese accent",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Finance",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Analytical",
+        "Self-critical",
+        "Cynical",
+        "Introverted",
+        "Ethical",
+        "Observant"
+      ],
+      "job_title": "Investment Analyst",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1993-09-10",
+      "zodiac_sign": "Virgo",
+      "religion": "Hindu",
+      "sexual_orientation": "pansexual",
+      "height_centimeters": 168,
+      "city_town": "S\u00e3o Paulo"
+    },
+    "username": "krajguru",
+    "connections": [
+      {
+        "persona_id": "9b1c930c-2a3a-430f-a299-eac7f3a6958a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Ishita Rajguru"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:55:28.630Z",
+  "updated_at": "2025-11-14T23:31:25.368Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "5cde0a84-3ed5-4983-b25a-c362691fe0f9"
+}

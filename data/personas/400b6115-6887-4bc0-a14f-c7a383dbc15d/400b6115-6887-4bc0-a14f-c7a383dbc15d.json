@@ -1,0 +1,44 @@
+{
+  "id": "400b6115-6887-4bc0-a14f-c7a383dbc15d",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rayan Kohli",
+    "metadata": {
+      "age": 54,
+      "accent": "London English, articulate and clear with a subtle, polished quality.",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "religion": "Agnostic",
+      "city_town": "London",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Energy Analyst",
+      "languages": "English",
+      "birth_date": "1970-10-15",
+      "zodiac_sign": "Libra",
+      "job_industry": "Energy & Utilities",
+      "political_leaning": "Centrist",
+      "height_centimeters": 178,
+      "personality_traits": [
+        "Perfectionist",
+        "Calm Under Pressure",
+        "Intuitive",
+        "Charismatic",
+        "Analytical",
+        "Thoughtful",
+        "Resilient"
+      ],
+      "relationship_status": "separated",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "rayan_kohli"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-19T15:10:14.484+00:00",
+  "updated_at": "2025-11-14T23:31:18.319Z",
+  "version": 5
+}

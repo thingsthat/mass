@@ -1,0 +1,64 @@
+{
+  "id": "ee03d2b5-0c5e-4fdf-a1c4-43e91a45a0a7",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Direct",
+      "social_circle_size": "Small",
+      "childhood_location": "Easton, Bristol, UK",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant stress and challenges as a young, single mother, including navigating an unplanned pregnancy at 20, family disappointment, and a recent painful separation from her son's father.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Authenticity",
+        "Growth",
+        "Justice",
+        "Responsibility"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Music",
+        "Podcasts",
+        "Books",
+        "Documentaries",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Struggling",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}

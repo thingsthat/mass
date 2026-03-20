@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Naima Yara Khan",
+    "metadata": {
+      "age": 32,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "Middle Eastern",
+      "accent": "Clear, educated London accent, with a slight, subtle lilt when speaking Arabic words or discussing cultural topics.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Nonprofit",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Empathetic",
+        "Creative Problem-Solver",
+        "Sincere",
+        "Adaptable",
+        "Detail-Oriented & Concrete Thinker",
+        "Cautiously Optimistic",
+        "Community-Focused"
+      ],
+      "job_title": "Community Outreach Coordinator",
+      "relationship_status": "married",
+      "political_leaning": "Independent",
+      "birth_date": "1992-08-10",
+      "zodiac_sign": "Leo",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Bristol"
+    },
+    "username": "nkhan",
+    "connections": [
+      {
+        "persona_id": "a2c6f4d3-e790-4c5a-ac70-692d08438b6a",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Rami Al-Khoury"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:56:50.225Z",
+  "updated_at": "2025-11-14T23:31:26.962Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "62e33158-14f2-4579-a796-c5359495547d"
+}

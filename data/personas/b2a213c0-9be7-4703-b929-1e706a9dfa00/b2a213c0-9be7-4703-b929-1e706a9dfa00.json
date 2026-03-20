@@ -1,0 +1,136 @@
+{
+  "id": "b2a213c0-9be7-4703-b929-1e706a9dfa00",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jabulani Nkosi",
+    "metadata": {
+      "age": 22,
+      "accent": "Distinct South African accent with a slight Australian inflection.",
+      "gender": "man",
+      "location": "Australia",
+      "pronouns": "prefer not to say",
+      "education": "Vocational or technical training",
+      "ethnicity": "Black",
+      "job_title": "Logistics Support Specialist",
+      "languages": "English",
+      "birth_date": "2002-08-10",
+      "zodiac_sign": "Leo",
+      "job_industry": "Transportation",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "Spontaneous",
+        "Generous",
+        "Funny",
+        "Curious",
+        "Competitive",
+        "Resourceful",
+        "Analytical"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Sydney",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "jabulani_nkosi",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Beard",
+        "Short hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Durban, South Africa",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant cultural and educational shock/disruption following immigration from South Africa to Australia at age 15, leading to early departure from formal schooling and reliance on vocational training.",
+      "income_range": "60k-80k",
+      "career_stage": "Entry-level",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Confrontational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Loyalty",
+        "Success",
+        "Responsibility",
+        "Growth",
+        "Authenticity"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Gaming",
+        "Podcasts",
+        "Live events",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Never",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:00:19.657+00:00",
+  "updated_at": "2025-11-14T23:31:50.617Z",
+  "version": 12
+}

@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Nathaniel Hayes",
+    "metadata": {
+      "age": 35,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Mixed",
+      "accent": "Multicultural British English (Bristol inflection)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Unemployed",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Introspective",
+        "Resilient",
+        "Idealistic",
+        "Sardonic",
+        "Compassionate",
+        "Perfectionistic (Internalised)",
+        "Thoughtfully Engaging"
+      ],
+      "job_title": "Former Head Chef",
+      "relationship_status": "it's complicated",
+      "political_leaning": "Green",
+      "birth_date": "1989-08-10",
+      "zodiac_sign": "Leo",
+      "religion": "Spiritual",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 178,
+      "city_town": "Bristol"
+    },
+    "username": "nathanielhayes"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:18:17.108Z",
+  "updated_at": "2025-11-14T23:32:10.468Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "f418ffeb-ade4-49e7-8ba3-e754750a5242"
+}

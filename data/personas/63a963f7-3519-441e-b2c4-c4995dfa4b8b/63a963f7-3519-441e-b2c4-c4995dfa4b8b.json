@@ -1,0 +1,136 @@
+{
+  "id": "63a963f7-3519-441e-b2c4-c4995dfa4b8b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Fatima Khan",
+    "metadata": {
+      "age": 35,
+      "accent": "Subtle South Asian",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/they",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "High School English Teacher",
+      "languages": "English",
+      "birth_date": "1989-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Education",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Kind",
+        "Loyal",
+        "Charming",
+        "Thoughtful",
+        "Resilient",
+        "Empathetic",
+        "Always learning"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Muslim",
+      "height_centimeters": 165,
+      "city_town": "Chicago",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "fkhan",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Chicago, United States",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced challenges navigating dual cultural identities during adolescence, which led to a brief period of high anxiety and low self-esteem.",
+      "income_range": "60k-80k",
+      "career_stage": "Mid-career",
+      "work_environment": "School",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Skill building",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Consensus-seeking"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Compassion",
+        "Growth",
+        "Integrity",
+        "Community",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Movies",
+        "Live events",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:41:24.267+00:00",
+  "updated_at": "2025-11-14T23:31:27.351Z",
+  "version": 14
+}

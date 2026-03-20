@@ -1,0 +1,55 @@
+{
+  "id": "85d6b770-2694-4dc4-8264-d0a0c2b73734",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alex Turner",
+    "metadata": {
+      "age": 38,
+      "accent": "London (Cockney)",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "he/they",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Senior Robotics Engineer",
+      "languages": "English",
+      "birth_date": "1986-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Engineering",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "always learning",
+        "determined",
+        "grounded",
+        "analytical",
+        "resourceful",
+        "observant"
+      ],
+      "relationship_status": "married",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "Manchester",
+      "sexual_orientation": "queer"
+    },
+    "username": "aturner",
+    "connections": [
+      {
+        "persona_id": "b91037a3-7f62-414a-bf71-9dc53e832640",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Charlie Turner"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:47:29.783+00:00",
+  "updated_at": "2025-11-14T23:31:36.633Z",
+  "version": 14
+}

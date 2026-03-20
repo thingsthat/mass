@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Carys Evans",
+    "metadata": {
+      "age": 32,
+      "gender": "woman",
+      "pronouns": "they/them",
+      "ethnicity": "Multiracial",
+      "accent": "General British, slight Bristolian lilt",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Marketing & Advertising",
+      "education": "Some college or university",
+      "personality_traits": [
+        "Principled",
+        "Blunt",
+        "Analytical",
+        "Independent",
+        "Observant",
+        "Sarcastic",
+        "Empathetic"
+      ],
+      "job_title": "Digital Marketing Specialist",
+      "relationship_status": "single",
+      "political_leaning": "Centrist",
+      "birth_date": "1992-09-05",
+      "zodiac_sign": "Virgo",
+      "religion": "Atheist",
+      "sexual_orientation": "homosexual",
+      "height_centimeters": 168,
+      "city_town": "Bristol"
+    },
+    "username": "cevans"
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T01:19:37.188Z",
+  "updated_at": "2025-11-14T23:32:00.306Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "d2744954-4c1d-4a06-80d6-bf3e4db49770"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "b65cc945-e28f-442c-a4e9-9ea6b6d55233",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stian Knudsen",
+    "metadata": {
+      "age": 23,
+      "accent": "Edinburgh (Scottish)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "UX Designer",
+      "languages": "English",
+      "birth_date": "2001-01-28",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "grounded",
+        "creative",
+        "curious",
+        "analytical",
+        "observant",
+        "thoughtful",
+        "resilient"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 184,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "stian_knudsen"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:24:18.097+00:00",
+  "updated_at": "2025-11-14T23:31:51.477Z",
+  "version": 14
+}

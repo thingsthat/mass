@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Arjun Varma",
+    "metadata": {
+      "age": 39,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "South Asian",
+      "accent": "Standard American with a subtle, articulate South Asian lilt, noticeable especially when discussing cultural topics or complex ideas.",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Technology",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Analytical",
+        "Diplomatic",
+        "Resilient",
+        "Insightful",
+        "Collaborative",
+        "Conscientious",
+        "Curious"
+      ],
+      "job_title": "Lead Data Scientist",
+      "relationship_status": "married",
+      "political_leaning": "Liberal",
+      "birth_date": "1985-06-15",
+      "zodiac_sign": "Gemini",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Seattle"
+    },
+    "username": "avarma",
+    "connections": [
+      {
+        "persona_id": "1ba91c49-a2b9-4b1d-9bdd-22bf3bae1d6f",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Kalyani Varma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:38:54.194Z",
+  "updated_at": "2025-11-14T23:31:17.566Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "3e9f529f-896a-4ec8-98f6-2c6082c11984"
+}

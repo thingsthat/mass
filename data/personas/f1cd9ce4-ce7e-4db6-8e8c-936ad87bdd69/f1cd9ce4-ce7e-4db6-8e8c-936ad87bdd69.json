@@ -1,0 +1,133 @@
+{
+  "id": "f1cd9ce4-ce7e-4db6-8e8c-936ad87bdd69",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zuriwe Tembo",
+    "metadata": {
+      "age": 31,
+      "accent": "Standard British English with subtle West African inflections",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "they/she",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Policy Analyst",
+      "languages": "English",
+      "birth_date": "1993-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Analytical",
+        "Principled",
+        "Self-effacing",
+        "Resilient",
+        "Strategic",
+        "Unpredictable"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Muslim",
+      "height_centimeters": 168,
+      "city_town": "London",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "zuriwe_tembo",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Long hair"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "East London, United Kingdom",
+      "family_structure": "Adoptive",
+      "trauma_history": "Experienced secondary trauma exposure and high-stress situations during military service overseas.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven",
+        "Independent"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Justice",
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Excellence"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Deontological"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Live events"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:11:25.178+00:00",
+  "updated_at": "2025-11-14T23:32:09.349Z",
+  "version": 12
+}

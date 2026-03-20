@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rajesh Sharma",
+    "metadata": {
+      "age": 55,
+      "gender": "man",
+      "pronouns": "they/them",
+      "ethnicity": "South Asian",
+      "accent": "British English (subtly influenced by South Asian background)",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Vocational or technical training",
+      "personality_traits": [
+        "Pragmatic",
+        "Diligent",
+        "Traditionalist",
+        "Affectionate",
+        "Relationship-focused",
+        "Dryly Witty",
+        "Community-Minded"
+      ],
+      "job_title": "Senior Site Manager",
+      "relationship_status": "engaged",
+      "political_leaning": "Conservative",
+      "birth_date": "1968-10-30",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 175,
+      "city_town": "Bristol"
+    },
+    "username": "rajeshsharma"
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:44:31.306Z",
+  "updated_at": "2025-11-14T23:32:12.138Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "f8fa87d9-4c2b-4b8d-9f19-f3e70465541a"
+}

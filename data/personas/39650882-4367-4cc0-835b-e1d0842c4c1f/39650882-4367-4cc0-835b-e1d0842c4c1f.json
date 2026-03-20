@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Stephen Davies",
+    "metadata": {
+      "age": 54,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Southern English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Blunt",
+        "Analytical",
+        "Pragmatic",
+        "Loyal",
+        "Resilient",
+        "Introspective",
+        "Methodical"
+      ],
+      "job_title": "Senior Project Manager",
+      "relationship_status": "married",
+      "political_leaning": "Conservative",
+      "birth_date": "1970-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 182,
+      "city_town": "Bristol"
+    },
+    "username": "sdavies",
+    "connections": [
+      {
+        "persona_id": "29532e36-767e-40ea-bcd4-b86431ab9c90",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Penelope Davies"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-08T17:53:21.963Z",
+  "updated_at": "2025-11-14T23:31:16.295Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "39650882-4367-4cc0-835b-e1d0842c4c1f"
+}

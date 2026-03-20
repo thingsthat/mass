@@ -1,0 +1,135 @@
+{
+  "id": "671cf03e-0a67-474d-b435-984b28328c12",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Omar Al-Farsi",
+    "metadata": {
+      "age": 29,
+      "accent": "American",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "prefer not to say",
+      "education": "Currently enrolled",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Graduate Research Assistant",
+      "languages": "English",
+      "birth_date": "1995-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Education",
+      "political_leaning": "Independent",
+      "personality_traits": [
+        "Humble",
+        "Authentic",
+        "Curious",
+        "Insightful",
+        "Disciplined",
+        "Observant",
+        "Resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Prefer not to say",
+      "height_centimeters": 178,
+      "city_town": "Austin",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "oalfarsi",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Houston, Texas",
+      "family_structure": "Nuclear",
+      "trauma_history": "Indirect impact of political conflict and instability in ancestral homeland (Lebanon), resulting in a strong drive for preservation and generational understanding.",
+      "income_range": "20k-40k",
+      "career_stage": "Student",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Growth",
+        "Compassion",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Secular humanist"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Podcasts",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Currently single",
+        "Few relationships"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Prescription glasses/contacts",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:17:29.422+00:00",
+  "updated_at": "2025-11-14T23:31:28.066Z",
+  "version": 12
+}

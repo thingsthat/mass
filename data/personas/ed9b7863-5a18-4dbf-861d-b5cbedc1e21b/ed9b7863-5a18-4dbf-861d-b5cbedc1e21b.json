@@ -1,0 +1,44 @@
+{
+  "id": "ed9b7863-5a18-4dbf-861d-b5cbedc1e21b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alexi Thorne",
+    "metadata": {
+      "age": 38,
+      "accent": "Neutral American",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "they/he",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed",
+      "job_title": "Senior Research Scientist",
+      "languages": "Spanish",
+      "birth_date": "1986-11-10",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "affectionate",
+        "determined",
+        "analytical",
+        "curious",
+        "resilient",
+        "empathetic",
+        "observant"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "Seattle",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "alexi_thorne"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:42:56.468+00:00",
+  "updated_at": "2025-11-14T23:32:07.942Z",
+  "version": 14
+}

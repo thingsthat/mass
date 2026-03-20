@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Shirin Al-Mansouri",
+    "metadata": {
+      "age": 29,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "Middle Eastern",
+      "accent": "Subtle Levantine English accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Currently enrolled",
+      "personality_traits": [
+        "Cautious",
+        "Team-Oriented",
+        "Ambitious",
+        "Principled",
+        "Observant",
+        "Reserved"
+      ],
+      "job_title": "Assistant Project Manager",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1995-10-28",
+      "zodiac_sign": "Scorpio",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "London"
+    },
+    "username": "shirin_almansour",
+    "connections": [
+      {
+        "persona_id": "0394faad-08c6-4451-b157-811803debd3d",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Zahir Rahman"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:34:05.038Z",
+  "updated_at": "2025-11-14T23:31:37.589Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "8b048b16-7795-46a2-8e2d-9441e3daa6b3"
+}

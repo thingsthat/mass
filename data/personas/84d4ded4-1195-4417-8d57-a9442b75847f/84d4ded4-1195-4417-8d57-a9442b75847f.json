@@ -1,0 +1,138 @@
+{
+  "id": "84d4ded4-1195-4417-8d57-a9442b75847f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Morgan Hayes",
+    "metadata": {
+      "age": 34,
+      "accent": "General American",
+      "gender": "genderfluid",
+      "location": "United States",
+      "pronouns": "they/she",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Content Strategist",
+      "languages": "English",
+      "birth_date": "1990-07-20",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Marketing & Advertising",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Sensitive",
+        "Driven",
+        "Principled",
+        "Creative",
+        "Observant",
+        "Resourceful",
+        "Empathetic"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Portland",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "morganhayes",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "Dyed hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Pescatarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Cannabis",
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Southern California, USA",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant internalized stress related to navigating gender identity and cultural expectations within a traditional family structure during adolescence.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Anxious",
+        "Withdrawn",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Creativity",
+        "Integrity",
+        "Growth",
+        "Community",
+        "Freedom"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Podcasts",
+        "Live events"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Anxiety"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Current",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:34:38.694+00:00",
+  "updated_at": "2025-11-14T23:31:36.036Z",
+  "version": 14
+}

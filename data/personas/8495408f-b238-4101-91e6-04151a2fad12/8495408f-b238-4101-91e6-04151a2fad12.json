@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mateus Ribeiro",
+    "metadata": {
+      "age": 38,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "Hispanic",
+      "accent": "Brazilian Portuguese",
+      "location": "Brazil",
+      "languages": "English",
+      "job_industry": "Engineering",
+      "education": "Doctorate (PhD or equivalent)",
+      "personality_traits": [
+        "Mentally Tough",
+        "Intense",
+        "Intentional",
+        "Composed",
+        "Altruistic",
+        "Analytical",
+        "Sarcastic"
+      ],
+      "job_title": "Senior Process Engineer",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Liberal",
+      "birth_date": "1986-09-15",
+      "zodiac_sign": "Virgo",
+      "religion": "Agnostic",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Belo Horizonte"
+    },
+    "username": "mateusribeiro",
+    "connections": [
+      {
+        "persona_id": "1cab4911-f45c-4c2d-909e-fe8b56091d11",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Rhona Alvarenga"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:39:39.758Z",
+  "updated_at": "2025-11-14T23:31:35.915Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "8495408f-b238-4101-91e6-04151a2fad12"
+}

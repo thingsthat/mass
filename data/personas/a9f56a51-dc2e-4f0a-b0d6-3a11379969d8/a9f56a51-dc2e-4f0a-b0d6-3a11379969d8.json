@@ -1,0 +1,44 @@
+{
+  "id": "a9f56a51-dc2e-4f0a-b0d6-3a11379969d8",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aarav Sharma",
+    "metadata": {
+      "age": 32,
+      "accent": "Standard British English with a subtle South Asian lilt",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Software Engineer",
+      "languages": "English",
+      "birth_date": "1992-09-10",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Technology",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "curious",
+        "analytical",
+        "observant",
+        "disciplined",
+        "resourceful",
+        "thoughtful",
+        "ambitious"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Hindu",
+      "height_centimeters": 173,
+      "city_town": "Manchester",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aarav_sharma"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:35:44.095+00:00",
+  "updated_at": "2025-11-14T23:31:47.329Z",
+  "version": 14
+}

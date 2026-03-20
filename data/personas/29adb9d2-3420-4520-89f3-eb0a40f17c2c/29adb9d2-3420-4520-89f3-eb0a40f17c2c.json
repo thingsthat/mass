@@ -1,0 +1,136 @@
+{
+  "id": "29adb9d2-3420-4520-89f3-eb0a40f17c2c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Malik Corvan",
+    "metadata": {
+      "age": 22,
+      "accent": "Edinburgh Scottish (subtle, less pronounced than broad Glasgow)",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "she/they",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Legal Assistant (Volunteer)",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Legal",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Sincere",
+        "Stoic",
+        "Analytical",
+        "Idealistic",
+        "Independent",
+        "Curious",
+        "Perfectionist"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "malik_corvan",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Tuscany, Italy (with frequent international moves)",
+      "family_structure": "Nuclear",
+      "trauma_history": "Early childhood adoption and frequent, disruptive international relocation causing identity dissonance.",
+      "income_range": "Under 20k",
+      "career_stage": "Student",
+      "work_environment": "Office",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Withdrawn"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Independent"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Justice",
+        "Growth",
+        "Integrity",
+        "Freedom",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Smart TV"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Books",
+        "Streaming services",
+        "Music"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Anxiety",
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Walk",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T15:11:33.167+00:00",
+  "updated_at": "2025-11-14T23:31:11.968Z",
+  "version": 12
+}

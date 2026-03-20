@@ -1,0 +1,134 @@
+{
+  "id": "a8bf68bc-e7ca-4251-8fb0-3d52cc75d82a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Thian du Plessis",
+    "metadata": {
+      "age": 69,
+      "accent": "South African with a subtle British influence",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Freelance Documentary Film Editor",
+      "languages": "English",
+      "birth_date": "1955-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Ambitious",
+        "Adaptable",
+        "Competitive",
+        "Observant",
+        "Resourceful",
+        "Thoughtful",
+        "Night Owl"
+      ],
+      "relationship_status": "in a relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 175,
+      "city_town": "Bristol",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "thianduplessis",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Gray hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Cape Town, South Africa",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced socio-political oppression and instability growing up during the apartheid era in South Africa, followed by the significant challenge and disruption of international immigration in early adulthood.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Remote",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Integrity",
+        "Growth",
+        "Creativity",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Desktop",
+        "Smartphone"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music",
+        "Documentaries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:15:15.25+00:00",
+  "updated_at": "2025-11-14T23:31:46.969Z",
+  "version": 14
+}

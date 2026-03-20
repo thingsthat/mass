@@ -1,0 +1,43 @@
+{
+  "id": "e8c403a1-3d17-4b59-9510-51e95e00d490",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Akashdeep Gill",
+    "metadata": {
+      "age": 25,
+      "accent": "Neutral American",
+      "gender": "nonbinary",
+      "location": "United States",
+      "pronouns": "she/they",
+      "education": "Some college or university",
+      "ethnicity": "South Asian",
+      "job_title": "Junior DevOps Engineer",
+      "languages": "English",
+      "birth_date": "1999-02-05",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Technology",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "disciplined",
+        "romantic",
+        "witty",
+        "intuitive",
+        "resourceful",
+        "curious"
+      ],
+      "relationship_status": "polyamorous",
+      "religion": "Sikh",
+      "height_centimeters": 168,
+      "city_town": "Brooklyn",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "akashdeep_gill"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T17:58:00.335+00:00",
+  "updated_at": "2025-11-14T23:32:06.491Z",
+  "version": 14
+}

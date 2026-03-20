@@ -1,0 +1,61 @@
+{
+  "id": "a42e7a6f-7bb7-4574-aa79-e5c274dc8297",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Large",
+      "childhood_location": "Bristol, United Kingdom",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced profound challenges and shock becoming a single parent at 19, which required immense resilience.",
+      "myers_briggs_type": "ESFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Compassion",
+        "Responsibility",
+        "Integrity",
+        "Community",
+        "Growth"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Podcasts",
+        "Streaming services",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Budget-conscious"
+    }
+  }
+}

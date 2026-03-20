@@ -1,0 +1,152 @@
+{
+  "id": "c63d77e3-4744-49e9-b73d-681b1d365cb9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Rhiannon Tanaka Silva",
+    "metadata": {
+      "age": 42,
+      "accent": "Brazilian Portuguese (Educated, subtle cadence), American English (Near-native)",
+      "gender": "woman",
+      "location": "Brazil",
+      "pronouns": "she/her",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "Mixed",
+      "job_title": "Former Corporate Counsel (Currently Unemployed)",
+      "languages": "English",
+      "birth_date": "1982-04-12",
+      "zodiac_sign": "Aries",
+      "job_industry": "Legal",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Insightful",
+        "Analytical",
+        "Contemplative",
+        "Ethical",
+        "Loyal",
+        "Curious"
+      ],
+      "relationship_status": "married",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Florian\u00f3polis",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "rhiannon_tanaka_",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Dyed hair",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "No specific diet",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "S\u00e3o Paulo, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced severe professional burnout and a major ethical conflict that led to career termination.",
+      "income_range": "100k-150k",
+      "career_stage": "Career change",
+      "work_environment": "Office",
+      "job_satisfaction": "Very dissatisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Anxious",
+        "Withdrawn",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Visual"
+      ],
+      "core_values": [
+        "Growth",
+        "Authenticity",
+        "Justice",
+        "Compassion",
+        "Knowledge"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Museums",
+        "Podcasts",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Married once",
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Childfree by choice",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Anxiety",
+        "Sleep disorder"
+      ],
+      "medication_usage": [
+        "Anti-anxiety",
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Current",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Rideshare"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    },
+    "connections": [
+      {
+        "persona_id": "bae509c2-7534-43c0-b0c9-6d9e0d0bcfb0",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Lucas Costa Silva"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:31:08.503+00:00",
+  "updated_at": "2025-11-14T23:31:56.902Z",
+  "version": 12
+}

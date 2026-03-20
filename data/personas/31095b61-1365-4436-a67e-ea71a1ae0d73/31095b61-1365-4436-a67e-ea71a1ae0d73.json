@@ -1,0 +1,134 @@
+{
+  "id": "31095b61-1365-4436-a67e-ea71a1ae0d73",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Miraal Desai",
+    "metadata": {
+      "age": 22,
+      "accent": "Cultivated English (Home Counties inflection)",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "Junior Content Creator",
+      "languages": "English",
+      "birth_date": "2002-10-30",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Conservative",
+      "personality_traits": [
+        "Overachiever",
+        "Calm Under Pressure",
+        "Analytical",
+        "Principled",
+        "Quirky",
+        "Reserved in Crowds"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "London",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "miraaldesai",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Piercings",
+        "Short hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Heavy",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Kent, England",
+      "family_structure": "Nuclear",
+      "trauma_history": "None disclosed or relevant to professional history.",
+      "income_range": "40k-60k",
+      "career_stage": "Entry-level",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Theoretical"
+      ],
+      "core_values": [
+        "Integrity",
+        "Responsibility",
+        "Achievement",
+        "Security"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Podcasts",
+        "Streaming services",
+        "Live events",
+        "Books"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Currently single",
+        "Few relationships"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Open to it",
+      "housing_situation": "Shared housing",
+      "transportation": [
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T14:23:16.51+00:00",
+  "updated_at": "2025-11-14T23:31:14.113Z",
+  "version": 12
+}

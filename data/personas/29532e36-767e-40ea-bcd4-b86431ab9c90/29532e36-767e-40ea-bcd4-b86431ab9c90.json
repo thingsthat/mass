@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Penelope Davies",
+    "metadata": {
+      "age": 55,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "White",
+      "accent": "Standard British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Construction",
+      "education": "Master\u2019s degree",
+      "personality_traits": [
+        "Sarcastic",
+        "Attention-Seeking",
+        "Procrastinator",
+        "Resilient",
+        "Diligent",
+        "Pragmatic"
+      ],
+      "job_title": "Senior Project Manager",
+      "relationship_status": "married",
+      "political_leaning": "Conservative",
+      "birth_date": "1969-05-12",
+      "zodiac_sign": "Taurus",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 168,
+      "city_town": "Birmingham"
+    },
+    "username": "pdavies",
+    "connections": [
+      {
+        "persona_id": "39650882-4367-4cc0-835b-e1d0842c4c1f",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Stephen Davies"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:44:35.597Z",
+  "updated_at": "2025-11-14T23:31:11.854Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "29532e36-767e-40ea-bcd4-b86431ab9c90"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fb41c91f-33d5-447a-a213-7519225573f7",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Solveig Lund",
+    "metadata": {
+      "age": 33,
+      "accent": "Standard British English with a subtle Northern inflection",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Agnostic",
+      "city_town": "Manchester",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Principal Policy Advisor",
+      "languages": "English",
+      "birth_date": "1991-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Government",
+      "political_leaning": "Progressive",
+      "height_centimeters": 168,
+      "personality_traits": [
+        "Idealistic",
+        "Empathetic",
+        "Inquisitive",
+        "Resilient",
+        "Authentic",
+        "Witty",
+        "Community-Oriented"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "solveig_lund",
+    "metadata_extended": {
+      "body_type": "Average",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "sleep_schedule": "Early bird",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Car owner",
+        "Walk",
+        "Public transit"
+      ],
+      "trauma_history": "Navigating the unexpected breakdown of the co-parenting relationship during pregnancy, necessitating adjustment to single parenthood and reshaping future plans; handled through resilience and a strong support network.",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "parental_status": "Has children",
+      "spending_habits": "Value-seeking",
+      "attachment_style": "Secure",
+      "diet_preferences": "Mediterranean",
+      "family_structure": "Nuclear",
+      "news_consumption": "Heavy",
+      "travel_frequency": "Occasional",
+      "housing_situation": "Own",
+      "myers_briggs_type": "INFJ",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "childhood_location": "Small, picturesque town in Cumbria, UK",
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Medium",
+      "social_media_usage": "Moderate",
+      "therapy_experience": "Past",
+      "communication_style": "Empathetic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "mental_health_status": "Good",
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries"
+      ],
+      "environmental_consciousness": "High"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T09:52:28.663+00:00",
+  "updated_at": "2025-11-14T23:32:13.108Z",
+  "version": 8
+}

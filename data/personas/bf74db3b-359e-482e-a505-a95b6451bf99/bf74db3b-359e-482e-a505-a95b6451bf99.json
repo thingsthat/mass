@@ -1,0 +1,136 @@
+{
+  "id": "bf74db3b-359e-482e-a505-a95b6451bf99",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kaiyan Sivam",
+    "metadata": {
+      "age": 31,
+      "accent": "South Asian English with a slight Brazilian Portuguese cadence",
+      "gender": "man",
+      "location": "Brazil",
+      "pronouns": "he/him",
+      "education": "Professional degree (e.g., JD, MD)",
+      "ethnicity": "South Asian",
+      "job_title": "Municipal Policy Analyst",
+      "languages": "English",
+      "birth_date": "1993-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Government",
+      "political_leaning": "Moderate-Liberal",
+      "personality_traits": [
+        "Analytical",
+        "Outgoing",
+        "Creative",
+        "Practical",
+        "Loyal",
+        "Determined"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Rio de Janeiro",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "ksivam",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Chennai, India; Sydney, Australia; Rio de Janeiro, Brazil",
+      "family_structure": "Nuclear",
+      "trauma_history": "Frequent international relocation during formative years resulted in feelings of cultural displacement, balanced by strong adaptability.",
+      "income_range": "80k-100k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "ENTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Growth",
+        "Integrity",
+        "Success",
+        "Community",
+        "Responsibility"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Social contract",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Gaming",
+        "Documentaries",
+        "Music",
+        "Books",
+        "Streaming services"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "Wants children",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Car owner"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:30:28.931+00:00",
+  "updated_at": "2025-11-14T23:31:54.718Z",
+  "version": 12
+}

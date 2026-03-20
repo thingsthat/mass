@@ -1,0 +1,136 @@
+{
+  "id": "ca3967ca-6522-45fe-818a-c91bfb5d3d83",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Zola Mthethwa",
+    "metadata": {
+      "age": 38,
+      "accent": "Soft South African English, with a hint of Scottish lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "Black",
+      "job_title": "Textile Artist",
+      "languages": "English",
+      "birth_date": "1986-07-15",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Arts & Design",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Competitive",
+        "Analytical",
+        "Resourceful",
+        "Disciplined",
+        "Observant",
+        "Grounded"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "zolamthethwa",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Long hair",
+        "Glasses"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Small",
+      "childhood_location": "Eastern Cape, South Africa",
+      "family_structure": "Extended",
+      "trauma_history": "Experienced significant cultural dislocation and navigated systemic challenges within the predominantly white UK art world after moving from South Africa for her Master's degree, fostering a strong sense of independence and resilience.",
+      "income_range": "60k-80k",
+      "career_stage": "Self-employed",
+      "work_environment": "Home",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Kinesthetic",
+        "Experiential"
+      ],
+      "core_values": [
+        "Creativity",
+        "Integrity",
+        "Growth",
+        "Responsibility",
+        "Tradition"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Documentaries",
+        "Books",
+        "Music",
+        "Art galleries"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Currently single",
+        "Long-term relationships",
+        "Few relationships"
+      ],
+      "parental_status": "Childfree by choice",
+      "sexual_orientation": "heterosexual",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-08-28T18:35:27.888+00:00",
+  "updated_at": "2025-11-14T23:31:58.465Z",
+  "version": 13
+}

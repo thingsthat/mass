@@ -1,0 +1,23 @@
+{
+  "name": "Young Politically Active in the United Kingdom",
+  "description": "Young people who are politically active and engaged in the political process.",
+  "data": {
+    "persona_ids": [
+      "4078e1c7-7a36-452b-884a-01749cfa090d",
+      "61179dce-ac8b-4658-83ae-b7a163352dbb",
+      "4aacc590-752a-4b1f-8f95-d04d06012467",
+      "499d023f-07b6-4315-bcc0-97baacf7a828",
+      "29adb9d2-3420-4520-89f3-eb0a40f17c2c",
+      "fd8778b2-613c-44aa-8ecf-8a2945f85377",
+      "0ac70e3b-f807-4d14-a38a-b0cda78fdf9b",
+      "f957f8d1-ac85-4606-b4f0-03021fe8f498",
+      "37ca492b-0bac-432f-856b-a1f0a4752bf5",
+      "b52c7df5-6937-43f1-be0d-d717f4150b3a"
+    ],
+    "metadata": {
+      "locations": [
+        "United Kingdom"
+      ]
+    }
+  }
+}

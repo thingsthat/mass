@@ -1,0 +1,141 @@
+{
+  "id": "e6478f3c-6cdc-42ca-ba9c-ba077bdf5edb",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Cl\u00e9mence Dubois",
+    "metadata": {
+      "age": 22,
+      "accent": "Parisian French (Slightly hushed and elegant)",
+      "gender": "transgender",
+      "location": "France",
+      "pronouns": "they/them",
+      "education": "Some college or university",
+      "ethnicity": "White",
+      "job_title": "Student Care Assistant",
+      "languages": "English",
+      "birth_date": "2001-10-18",
+      "zodiac_sign": "Libra",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Acquiescing",
+        "Pensive",
+        "Neurotic (Internal Worry)",
+        "Empathetic",
+        "Energetic (Focused)",
+        "Refined"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Paris",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "cdubois",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "distinctive_features": [
+        "Piercings",
+        "Long hair",
+        "Dyed hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Cannabis",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Empathetic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Accommodating",
+      "social_circle_size": "Small",
+      "childhood_location": "French Riviera, isolated family estate",
+      "family_structure": "Nuclear",
+      "trauma_history": "Profound isolation/shelter during childhood, followed by an identity realization catalyzed by severe illness while traveling alone.",
+      "income_range": "20k-40k",
+      "career_stage": "Student",
+      "work_environment": "Hospital",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Passion pursuing",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Anxious",
+        "Productive",
+        "Self-isolating"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive",
+        "Cautious"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Compassion",
+        "Responsibility",
+        "Integrity",
+        "Health",
+        "Growth"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Existentialist"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Music",
+        "Art galleries"
+      ],
+      "attachment_style": "Anxious",
+      "relationship_history": [
+        "Few relationships",
+        "Currently single",
+        "Short-term relationships"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "queer",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "chronic_conditions": [
+        "Anxiety"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-29T15:45:55.282+00:00",
+  "updated_at": "2025-11-14T23:32:04.702Z",
+  "version": 12
+}

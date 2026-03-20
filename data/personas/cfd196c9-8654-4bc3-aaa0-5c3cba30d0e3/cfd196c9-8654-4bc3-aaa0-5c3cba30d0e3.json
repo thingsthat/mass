@@ -1,0 +1,44 @@
+{
+  "id": "cfd196c9-8654-4bc3-aaa0-5c3cba30d0e3",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sverre Tavares",
+    "metadata": {
+      "age": 62,
+      "accent": "Subtle Scandinavian lilt with Portuguese inflections.",
+      "gender": "nonbinary",
+      "location": "Brazil",
+      "pronouns": "prefer not to say",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Mixed",
+      "job_title": "Consultant Ethnobotanist",
+      "languages": "English",
+      "birth_date": "1962-09-15",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Agriculture",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "analytical",
+        "witty",
+        "observant",
+        "philosophical",
+        "affectionate",
+        "determined",
+        "adventurous"
+      ],
+      "relationship_status": "divorced",
+      "religion": "Spiritual",
+      "height_centimeters": 170,
+      "city_town": "Salvador",
+      "sexual_orientation": "queer"
+    },
+    "username": "sverretavares"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:34:39.821+00:00",
+  "updated_at": "2025-11-14T23:31:59.452Z",
+  "version": 12
+}

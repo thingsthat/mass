@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Imogen Wren",
+    "metadata": {
+      "age": 26,
+      "gender": "woman",
+      "pronouns": "they/she",
+      "ethnicity": "White",
+      "accent": "Imogen primarily speaks with a contemporary Estuary English accent, though it's often subtly modulated. Having moved frequently in her childhood, she has an uncanny ability to pick up and sometimes unconsciously blend mild regional inflections. This means her speech can shift slightly depending on who she's talking to or the topic at hand, ranging from a slightly more formal, neutral tone for official discussions to a warmer, more pronounced local cadence when chatting with friends or community members. This subtle adaptability in her accent is less about mimicking and more about an unconscious resonance with her conversational partner, a legacy of always adapting to new environments.",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Government",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Observant",
+        "Flexible",
+        "Empathetic",
+        "Resilient",
+        "Resourceful",
+        "Community-oriented",
+        "Optimistic"
+      ],
+      "job_title": "Local Council Support Officer",
+      "relationship_status": "single",
+      "political_leaning": "Socialist",
+      "birth_date": "1998-03-05",
+      "zodiac_sign": "Pisces",
+      "religion": "Prefer not to say",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 165,
+      "city_town": "Cambridge"
+    },
+    "username": "imogenwren"
+  },
+  "type": "persona",
+  "created_at": "2025-11-05T16:23:14.900Z",
+  "updated_at": "2025-11-14T23:31:13.128Z",
+  "acl": {
+    "public": true
+  },
+  "version": 4,
+  "id": "2e42a134-dc0e-4911-8bb6-b13e0aa9908e"
+}

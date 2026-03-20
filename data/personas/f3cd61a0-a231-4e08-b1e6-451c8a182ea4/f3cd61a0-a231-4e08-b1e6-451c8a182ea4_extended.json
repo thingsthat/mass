@@ -1,0 +1,61 @@
+{
+  "id": "f3cd61a0-a231-4e08-b1e6-451c8a182ea4",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Gray hair",
+        "Beard"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Direct",
+      "social_circle_size": "Medium",
+      "childhood_location": "Marseille, France",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced the challenges of a working-class upbringing and navigating cultural shifts as an immigrant's son in France.",
+      "myers_briggs_type": "ESTJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Loyalty",
+        "Integrity",
+        "Responsibility",
+        "Tradition"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Sports",
+        "Music",
+        "Books"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Never",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Motorcycle"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "009a3b98-b7b7-471f-b381-063aa94b9fbe",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jianyu Almeida",
+    "metadata": {
+      "age": 39,
+      "accent": "Subtle Brazilian Portuguese accent when speaking English",
+      "gender": "nonbinary",
+      "location": "Brazil",
+      "pronouns": "he/they",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "East Asian",
+      "job_title": "Clinical Data Scientist",
+      "languages": "English",
+      "birth_date": "1985-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Analytical",
+        "Imaginative",
+        "Adaptable",
+        "Lives with Intention",
+        "Witty",
+        "Expert at Obscure Trivia"
+      ],
+      "relationship_status": "open relationship",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "S\u00e3o Paulo",
+      "sexual_orientation": "queer"
+    },
+    "username": "jianyu_almeida",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Macau",
+      "family_structure": "Extended",
+      "trauma_history": "The cumulative experience of repeated cultural dislocation and navigating identity formation, particularly as a nonbinary individual across diverse societal contexts, has fostered deep resilience and adaptability.",
+      "income_range": "150k-200k",
+      "career_stage": "Senior",
+      "work_environment": "Office",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "core_values": [
+        "Justice",
+        "Growth",
+        "Innovation",
+        "Authenticity",
+        "Compassion"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Gaming",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "queer",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "None"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Car owner",
+        "Public transit"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:31:23.692+00:00",
+  "updated_at": "2025-11-14T23:31:01.280Z",
+  "version": 12
+}

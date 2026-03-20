@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Figtree:ital,wght@0,300..900;1,300..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
+@import 'tailwindcss';
+
+/* Tailwind v4 plugins */
+@plugin 'tailwindcss-animate';
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 220 8% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 8% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 8% 4.9%;
+
+    --primary: 220 10% 45%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 220 10% 96.1%;
+    --secondary-foreground: 220 8% 11.2%;
+
+    --muted: 220 10% 96.1%;
+    --muted-foreground: 220 8% 46.9%;
+
+    --accent: 220 10% 96.1%;
+    --accent-foreground: 220 8% 11.2%;
+
+    --destructive: 0 10% 55%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 220 10% 91.4%;
+    --input: 220 10% 91.4%;
+    --ring: 220 10% 45%;
+    --radius: 0.5rem;
+
+    --shadcn-ring: oklch(0.708 0 0);
+  }
+
+  .dark {
+    --background: 220 8% 4.9%;
+    --foreground: 0 0% 98%;
+
+    --card: 220 8% 4.9%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 220 8% 4.9%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 220 10% 62%;
+    --primary-foreground: 220 8% 8%;
+
+    --secondary: 220 8% 17.5%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 220 8% 17.5%;
+    --muted-foreground: 220 6% 65.1%;
+
+    --accent: 220 8% 17.5%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 8% 42%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 220 8% 17.5%;
+    --input: 220 8% 17.5%;
+    --ring: 220 10% 55%;
+
+    --shadcn-ring: oklch(0.439 0 0);
+  }
+}
+
+@theme {
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  :root {
+    --color-background: hsl(var(--background));
+    --color-muted-foreground: hsl(var(--muted-foreground));
+    --color-ring: var(--shadcn-ring);
+  }
+
+  .dark {
+    --color-background: hsl(var(--background));
+    --color-muted-foreground: hsl(var(--muted-foreground));
+    --color-ring: var(--shadcn-ring);
+  }
+}
+
+@layer base {
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    @apply border-border;
+  }
+  * {
+    @apply min-w-0;
+  }
+  html {
+    text-rendering: optimizelegibility;
+  }
+  body {
+    @apply min-h-dvh;
+  }
+  input::placeholder,
+  textarea::placeholder {
+    @apply text-muted-foreground;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    @apply cursor-pointer;
+  }
+}
+
+/** Disable all transitions during theme switch so colours don't animate */
+html.theme-switching,
+html.theme-switching *,
+html.theme-switching *::before,
+html.theme-switching *::after {
+  transition: none !important;
+}
+
+/** DO NOT EDIT THE HTML FONT SIZE AGAIN, IT'S FINE!!! */
+html {
+  line-height: 1.5;
+  color-scheme: dark;
+  background-color: #010101;
+  font-size: 16px;
+}
+
+body {
+  font-size: 16px;
+  color: var(--color-foreground);
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  /* Prevent double-tap zoom on iOS */
+  touch-action: manipulation;
+}
+

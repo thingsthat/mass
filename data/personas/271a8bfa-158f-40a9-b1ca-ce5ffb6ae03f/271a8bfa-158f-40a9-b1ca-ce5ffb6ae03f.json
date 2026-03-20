@@ -1,0 +1,135 @@
+{
+  "id": "271a8bfa-158f-40a9-b1ca-ce5ffb6ae03f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Alun Vaughan",
+    "metadata": {
+      "age": 25,
+      "accent": "Standard British English with a subtle Welsh lilt",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Doctorate (PhD or equivalent)",
+      "ethnicity": "Middle Eastern",
+      "job_title": "PhD Candidate in Ancient Languages",
+      "languages": "English",
+      "job_industry": "Technology",
+      "personality_traits": [
+        "Independent",
+        "Curious",
+        "Diplomatic",
+        "Analytical",
+        "Thoughtful",
+        "Idealistic"
+      ],
+      "relationship_status": "it's complicated",
+      "sexual_orientation": "heterosexual",
+      "political_leaning": "Centrist",
+      "birth_date": "1998-05-15",
+      "zodiac_sign": "Taurus",
+      "religion": "Agnostic",
+      "height_centimeters": 178,
+      "city_town": "Cardiff"
+    },
+    "username": "alun_vaughan",
+    "metadata_extended": {
+      "body_type": "Slim",
+      "drugs_use": [
+        "Caffeine",
+        "Alcohol"
+      ],
+      "core_values": [
+        "Knowledge",
+        "Integrity",
+        "Growth",
+        "Authenticity",
+        "Freedom"
+      ],
+      "humor_style": "Witty",
+      "career_stage": "Student",
+      "drugs_status": "Never",
+      "income_range": "20k-40k",
+      "learning_style": [
+        "Visual",
+        "Reading/Writing"
+      ],
+      "sleep_schedule": "Irregular",
+      "tech_savviness": "Proficient",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "trauma_history": "Felt subtle isolation and pressure navigating dual cultural expectations (Welsh and Middle Eastern) growing up, leading to a strong, perhaps overly reliant, sense of independence and self-containment.",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics",
+        "Pragmatic"
+      ],
+      "parental_status": "No children",
+      "spending_habits": "Budget-conscious",
+      "stress_response": [
+        "Anxious",
+        "Withdrawn",
+        "Productive"
+      ],
+      "attachment_style": "Avoidant",
+      "career_ambitions": "Passion pursuing",
+      "diet_preferences": "Mediterranean",
+      "family_structure": "Nuclear",
+      "job_satisfaction": "Satisfied",
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "news_consumption": "Moderate",
+      "travel_frequency": "Occasional",
+      "work_environment": "Hybrid",
+      "housing_situation": "Rent",
+      "myers_briggs_type": "INFJ",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "childhood_location": "Rhondda Valley, Wales, UK",
+      "chronic_conditions": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "social_circle_size": "Small",
+      "social_media_usage": "Light",
+      "therapy_experience": "Open to it",
+      "communication_style": "Diplomatic",
+      "conflict_resolution": "Collaborative",
+      "distinctive_features": [
+        "Glasses",
+        "Short hair"
+      ],
+      "mental_health_status": "Good",
+      "relationship_history": [
+        "Few relationships",
+        "Currently single"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Cautious"
+      ],
+      "emotional_intelligence": "High",
+      "intimacy_comfort_level": "Private",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services",
+        "Podcasts",
+        "Movies"
+      ],
+      "environmental_consciousness": "Moderate"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-26T10:22:40.329+00:00",
+  "updated_at": "2025-11-14T23:31:11.275Z",
+  "version": 8
+}

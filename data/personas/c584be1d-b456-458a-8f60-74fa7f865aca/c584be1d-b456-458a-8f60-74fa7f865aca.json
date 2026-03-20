@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Owen Cuinn",
+    "metadata": {
+      "age": 31,
+      "gender": "man",
+      "pronouns": "he/him",
+      "ethnicity": "White",
+      "accent": "Standard American English",
+      "location": "United States",
+      "languages": "English",
+      "job_industry": "Human Resources",
+      "education": "Bachelor\u2019s degree",
+      "personality_traits": [
+        "Self-Effacing",
+        "Overcompensating",
+        "Conscientious",
+        "Analytical",
+        "Observant",
+        "Supportive",
+        "Reserved"
+      ],
+      "job_title": "HR Business Partner",
+      "relationship_status": "married",
+      "political_leaning": "Progressive",
+      "birth_date": "1993-07-10",
+      "zodiac_sign": "Cancer",
+      "religion": "Spiritual",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 180,
+      "city_town": "Denver"
+    },
+    "username": "ocuinn",
+    "connections": [
+      {
+        "persona_id": "e7a58a44-5258-40dd-9020-1a723abd14b9",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Eilis \u00d3 Cuinn"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:04:35.844Z",
+  "updated_at": "2025-11-14T23:31:56.645Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "c584be1d-b456-458a-8f60-74fa7f865aca"
+}

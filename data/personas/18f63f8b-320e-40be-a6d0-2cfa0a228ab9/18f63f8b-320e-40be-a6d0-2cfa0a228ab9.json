@@ -1,0 +1,44 @@
+{
+  "id": "18f63f8b-320e-40be-a6d0-2cfa0a228ab9",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Fiora Caldicot",
+    "metadata": {
+      "age": 61,
+      "accent": "Soft, melodious American English with a subtle South Asian lilt from early childhood",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "they/them",
+      "education": "Some college or university",
+      "ethnicity": "Mixed",
+      "job_title": "Medical Records Coordinator",
+      "languages": "English",
+      "birth_date": "1963-01-25",
+      "zodiac_sign": "Aquarius",
+      "job_industry": "Healthcare",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "resourceful",
+        "open-minded",
+        "generous",
+        "creative",
+        "loyal",
+        "intuitive",
+        "thoughtful"
+      ],
+      "relationship_status": "situationship",
+      "religion": "Spiritual",
+      "height_centimeters": 160,
+      "city_town": "Portland",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "fioracaldicot"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T17:24:14.04+00:00",
+  "updated_at": "2025-11-14T23:31:07.807Z",
+  "version": 12
+}

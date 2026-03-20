@@ -1,0 +1,44 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Divya Patel",
+    "metadata": {
+      "age": 26,
+      "gender": "woman",
+      "pronouns": "she/they",
+      "ethnicity": "South Asian",
+      "accent": "Neutral British English with subtle South Asian undertones",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Student",
+      "education": "Some college or university",
+      "personality_traits": [
+        "Direct",
+        "Emotionally Needy",
+        "Resourceful",
+        "Organized",
+        "Principled",
+        "Reserved",
+        "Observant"
+      ],
+      "job_title": "Environmental Science Student",
+      "relationship_status": "single",
+      "political_leaning": "Independent",
+      "birth_date": "1998-07-15",
+      "zodiac_sign": "Cancer",
+      "religion": "Sikh",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "Cambridge"
+    },
+    "username": "divyapatel"
+  },
+  "type": "persona",
+  "created_at": "2025-11-05T16:24:48.326Z",
+  "updated_at": "2025-11-14T23:31:55.431Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "c03259f3-2ee9-49e2-bc09-5528308d453e"
+}

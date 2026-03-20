@@ -1,0 +1,142 @@
+{
+  "id": "a6acdeb1-01c0-4f0f-bdaa-74aa79ef559f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jamie Evans",
+    "metadata": {
+      "age": 55,
+      "accent": "Midwestern American",
+      "gender": "transgender",
+      "location": "United States",
+      "pronouns": "he/they",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Public Policy Analyst",
+      "languages": "English",
+      "birth_date": "1969-04-12",
+      "zodiac_sign": "Aries",
+      "job_industry": "Government",
+      "political_leaning": "Liberal",
+      "personality_traits": [
+        "Grounded",
+        "Creative",
+        "Analytical",
+        "Disciplined",
+        "Observant",
+        "Empathetic",
+        "Patient"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 178,
+      "city_town": "Minneapolis",
+      "sexual_orientation": "bisexual"
+    },
+    "username": "jamieevans",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Beard",
+        "Long hair"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Former",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Diplomatic",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "A mid-sized working-class city in Ohio",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced significant family and social rejection when beginning gender transition in a conservative, working-class environment, leading to years of isolation and self-doubt before finding supportive community.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Satisfied",
+      "career_ambitions": "Work-life balance focused",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Productive",
+        "Rational",
+        "Seeking support"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Reading/Writing",
+        "Experiential"
+      ],
+      "core_values": [
+        "Justice",
+        "Integrity",
+        "Compassion",
+        "Growth",
+        "Community"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop",
+        "E-reader"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Documentaries",
+        "Live events",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Divorced",
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "sexual_orientation": "bisexual",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "Allergies",
+        "Vision problems"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts",
+        "Other prescription"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:32:16.416+00:00",
+  "updated_at": "2025-11-14T23:31:46.734Z",
+  "version": 14
+}

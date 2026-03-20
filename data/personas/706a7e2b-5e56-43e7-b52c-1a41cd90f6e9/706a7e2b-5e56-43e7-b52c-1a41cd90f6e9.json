@@ -1,0 +1,56 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Graham Griffiths",
+    "metadata": {
+      "age": 65,
+      "gender": "man",
+      "pronouns": "he/they",
+      "ethnicity": "Prefer not to say",
+      "accent": "Lancashire accent",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Manufacturing",
+      "education": "High school diploma or equivalent",
+      "personality_traits": [
+        "Solitary",
+        "Methodical",
+        "Loyal",
+        "Practical",
+        "Reserved",
+        "Observant",
+        "Dry-witted"
+      ],
+      "job_title": "Senior Production Supervisor",
+      "relationship_status": "married",
+      "political_leaning": "Moderate-Conservative",
+      "birth_date": "1959-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 178,
+      "city_town": "Blackburn"
+    },
+    "username": "ggriffiths",
+    "connections": [
+      {
+        "persona_id": "d4fc8665-0019-40c8-a056-86652d8f126e",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Helen Griffiths"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T15:02:11.220Z",
+  "updated_at": "2025-11-14T23:31:30.449Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "706a7e2b-5e56-43e7-b52c-1a41cd90f6e9"
+}

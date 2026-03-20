@@ -1,0 +1,43 @@
+{
+  "id": "fd8778b2-613c-44aa-8ecf-8a2945f85377",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Viraj Desai",
+    "metadata": {
+      "age": 38,
+      "accent": "Standard British with a subtle South Asian lilt",
+      "gender": "nonbinary",
+      "location": "United Kingdom",
+      "pronouns": "prefer not to say",
+      "education": "Some college or university",
+      "ethnicity": "South Asian",
+      "job_title": "Community Workshop Facilitator",
+      "languages": "English",
+      "birth_date": "1986-10-15",
+      "zodiac_sign": "Libra",
+      "job_industry": "Education",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Philosophical",
+        "Empathetic",
+        "Analytical",
+        "Conscientious",
+        "Creative",
+        "Quietly Assertive"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 168,
+      "city_town": "Bristol",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "virajdesai"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-01T15:09:44.43+00:00",
+  "updated_at": "2025-11-14T23:32:13.831Z",
+  "version": 12
+}

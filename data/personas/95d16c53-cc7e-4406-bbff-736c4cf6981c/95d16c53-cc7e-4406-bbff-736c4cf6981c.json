@@ -1,0 +1,55 @@
+{
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Sunita Sharma",
+    "metadata": {
+      "age": 51,
+      "gender": "woman",
+      "pronouns": "she/her",
+      "ethnicity": "South Asian",
+      "accent": "Standard British English",
+      "location": "United Kingdom",
+      "languages": "English",
+      "job_industry": "Healthcare",
+      "education": "Secondary education",
+      "personality_traits": [
+        "Self-effacing",
+        "Methodical",
+        "Loyal",
+        "Pragmatic",
+        "Observant",
+        "Resilient"
+      ],
+      "job_title": "Senior Healthcare Assistant",
+      "relationship_status": "married",
+      "political_leaning": "Conservative",
+      "birth_date": "1973-11-05",
+      "zodiac_sign": "Scorpio",
+      "religion": "Christian",
+      "sexual_orientation": "heterosexual",
+      "height_centimeters": 162,
+      "city_town": "Birmingham"
+    },
+    "username": "ssharma",
+    "connections": [
+      {
+        "persona_id": "7c73b956-e81a-4a80-b133-da7753b3316d",
+        "type": "relationship",
+        "metadata": {
+          "strength": "close",
+          "context": "married partner",
+          "status": "active",
+          "notes": "Married to Ravi Sharma"
+        }
+      }
+    ]
+  },
+  "type": "persona",
+  "created_at": "2025-11-09T14:52:03.398Z",
+  "updated_at": "2025-11-14T23:31:41.175Z",
+  "acl": {
+    "public": true
+  },
+  "version": 3,
+  "id": "95d16c53-cc7e-4406-bbff-736c4cf6981c"
+}

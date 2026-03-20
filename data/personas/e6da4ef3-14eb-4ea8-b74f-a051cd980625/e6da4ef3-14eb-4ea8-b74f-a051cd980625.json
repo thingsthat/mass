@@ -1,0 +1,44 @@
+{
+  "id": "e6da4ef3-14eb-4ea8-b74f-a051cd980625",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Eifion Llewellyn",
+    "metadata": {
+      "age": 22,
+      "accent": "Welsh",
+      "gender": "man",
+      "location": "United Kingdom",
+      "pronouns": "he/him",
+      "education": "Currently enrolled",
+      "ethnicity": "White",
+      "job_title": "Freelance Videographer and Film Studies Student",
+      "languages": "English",
+      "birth_date": "2002-03-10",
+      "zodiac_sign": "Pisces",
+      "job_industry": "Media & Entertainment",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "disciplined",
+        "kind",
+        "gentle",
+        "curious",
+        "imaginative",
+        "analytical",
+        "resourceful"
+      ],
+      "relationship_status": "single",
+      "religion": "Spiritual",
+      "height_centimeters": 182,
+      "city_town": "Cardiff",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "eifionllewellyn"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:22:15.386+00:00",
+  "updated_at": "2025-11-14T23:32:04.992Z",
+  "version": 14
+}

@@ -1,0 +1,43 @@
+{
+  "id": "b83e3207-9504-4c26-a91c-f2a1d07a9e61",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Seren Maeve Asante",
+    "metadata": {
+      "age": 23,
+      "accent": "Standard Southern British English",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Agnostic",
+      "city_town": "Bristol",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Mixed",
+      "job_title": "HR Coordinator",
+      "languages": "English",
+      "birth_date": "2001-08-15",
+      "zodiac_sign": "Leo",
+      "job_industry": "Human Resources",
+      "political_leaning": "Independent",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Resilient",
+        "Empathetic",
+        "Overcommitted",
+        "Witty",
+        "Independently Minded",
+        "Easily Distracted"
+      ],
+      "relationship_status": "single",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "seren_maeve_asan"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-11-05T11:55:38.315+00:00",
+  "updated_at": "2025-11-14T23:31:52.361Z",
+  "version": 5
+}

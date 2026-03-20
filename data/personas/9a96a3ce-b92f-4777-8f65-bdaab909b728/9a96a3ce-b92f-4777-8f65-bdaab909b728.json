@@ -1,0 +1,43 @@
+{
+  "id": "9a96a3ce-b92f-4777-8f65-bdaab909b728",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Elara Kaur",
+    "metadata": {
+      "age": 27,
+      "accent": "Glaswegian",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "religion": "Sikh",
+      "city_town": "Glasgow",
+      "education": "Secondary education",
+      "ethnicity": "Mixed or Multiracial",
+      "job_title": "Property Manager",
+      "languages": "English",
+      "birth_date": "1997-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Real Estate",
+      "political_leaning": "Centrist",
+      "height_centimeters": 165,
+      "personality_traits": [
+        "Diplomatic",
+        "Anxious",
+        "Detail-oriented",
+        "Resilient",
+        "Observant",
+        "Pragmatic"
+      ],
+      "relationship_status": "separated",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "elarakaur"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-10-19T15:12:21.62+00:00",
+  "updated_at": "2025-11-14T23:31:42.219Z",
+  "version": 5
+}

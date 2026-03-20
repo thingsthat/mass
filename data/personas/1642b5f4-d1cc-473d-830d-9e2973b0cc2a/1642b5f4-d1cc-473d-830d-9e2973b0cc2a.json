@@ -1,0 +1,137 @@
+{
+  "id": "1642b5f4-d1cc-473d-830d-9e2973b0cc2a",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Kavya MacFarlane",
+    "metadata": {
+      "age": 38,
+      "accent": "Scottish (Edinburgh) with a subtle South Asian lilt",
+      "gender": "woman",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "South Asian",
+      "job_title": "Senior Robotics Engineer",
+      "languages": "English",
+      "birth_date": "1986-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Disciplined",
+        "Intuitive",
+        "Laid-back",
+        "Analytical",
+        "Observant",
+        "Resourceful",
+        "Curious"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "kavyamacfarlane",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Long hair",
+        "Birthmarks"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Night owl",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Analytical",
+      "humor_style": "Dry",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Edinburgh, Scotland",
+      "family_structure": "Nuclear",
+      "trauma_history": "Witnessed significant hardship while volunteering after a natural disaster, which cemented her dedication to using technology for humanitarian aid.",
+      "income_range": "80k-100k",
+      "career_stage": "Senior",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Ambitious",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "stress_response": [
+        "Productive",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Independent",
+        "Data-driven"
+      ],
+      "learning_style": [
+        "Visual",
+        "Experiential"
+      ],
+      "core_values": [
+        "Growth",
+        "Innovation",
+        "Integrity",
+        "Adventure",
+        "Responsibility"
+      ],
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Gaming console"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Gaming",
+        "Podcasts",
+        "Documentaries"
+      ],
+      "attachment_style": "Avoidant",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently single"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements",
+        "Prescription glasses/contacts"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Bike"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T18:26:29.22+00:00",
+  "updated_at": "2025-11-14T23:31:06.865Z",
+  "version": 14
+}

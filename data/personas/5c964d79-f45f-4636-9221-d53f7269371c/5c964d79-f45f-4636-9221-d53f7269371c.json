@@ -1,0 +1,136 @@
+{
+  "id": "5c964d79-f45f-4636-9221-d53f7269371c",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Mairwen Beckett",
+    "metadata": {
+      "age": 38,
+      "accent": "British English (Southern)",
+      "gender": "prefer not to say",
+      "location": "United Kingdom",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Machine Learning Researcher",
+      "languages": "English",
+      "birth_date": "1986-07-21",
+      "zodiac_sign": "Cancer",
+      "job_industry": "Technology",
+      "political_leaning": "Centrist",
+      "personality_traits": [
+        "Outgoing",
+        "Charming",
+        "Creative",
+        "Traditional",
+        "Insightful",
+        "Thoughtful"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 165,
+      "city_town": "Edinburgh",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "mbeckett",
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Early bird",
+      "drugs_status": "Occasional",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "humor_style": "Witty",
+      "conflict_resolution": "Collaborative",
+      "social_circle_size": "Medium",
+      "childhood_location": "Rural North Wales, UK",
+      "family_structure": "Nuclear",
+      "trauma_history": "Navigating cultural differences and identity conflicts after moving from the US to the UK early in childhood; overcame intense academic pressure during postgraduate studies.",
+      "income_range": "100k-150k",
+      "career_stage": "Mid-career",
+      "work_environment": "Hybrid",
+      "job_satisfaction": "Very satisfied",
+      "career_ambitions": "Entrepreneurial",
+      "myers_briggs_type": "ENFJ",
+      "emotional_intelligence": "High",
+      "stress_response": [
+        "Calm",
+        "Rational"
+      ],
+      "decision_making_style": [
+        "Analytical",
+        "Intuitive"
+      ],
+      "learning_style": [
+        "Visual",
+        "Reading/Writing",
+        "Practical"
+      ],
+      "core_values": [
+        "Creativity",
+        "Integrity",
+        "Community",
+        "Growth",
+        "Wisdom"
+      ],
+      "moral_framework": [
+        "Virtue ethics",
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "Moderate",
+      "tech_savviness": "Expert",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone",
+        "Desktop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Podcasts",
+        "Documentaries",
+        "Live events",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "relationship_history": [
+        "Long-term relationships",
+        "Currently partnered"
+      ],
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Excellent",
+      "chronic_conditions": [
+        "None"
+      ],
+      "medication_usage": [
+        "Vitamins/Supplements"
+      ],
+      "therapy_experience": "Past",
+      "housing_situation": "Own",
+      "transportation": [
+        "Car owner",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Value-seeking"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-01T19:24:32.376+00:00",
+  "updated_at": "2025-11-14T23:31:25.245Z",
+  "version": 14
+}

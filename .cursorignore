@@ -1,0 +1,4 @@
+# Ignore all logs and dist folder
+*.log
+dist/
+.output/

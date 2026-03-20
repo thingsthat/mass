@@ -1,0 +1,97 @@
+{
+  "id": "3cf7038f-d783-489e-97bf-d435a87a130b",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Jalila Naim",
+    "metadata": {
+      "age": 31,
+      "accent": "Subtle Brazilian Portuguese intonation with hints of a cultivated international accent",
+      "gender": "woman",
+      "location": "Brazil",
+      "pronouns": "ze/zir",
+      "education": "Bachelor\u2019s degree",
+      "ethnicity": "Middle Eastern",
+      "job_title": "Graduate Research Assistant",
+      "languages": "English",
+      "birth_date": "1993-04-20",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Science & Research",
+      "political_leaning": "Green",
+      "personality_traits": [
+        "Analytical",
+        "Observant",
+        "Insightful",
+        "Curious",
+        "Independent",
+        "Witty",
+        "Collaborative"
+      ],
+      "relationship_status": "it's complicated",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Rio de Janeiro",
+      "sexual_orientation": "prefer not to say"
+    },
+    "username": "jnaim",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegetarian",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Light",
+      "communication_style": "Analytical",
+      "social_circle_size": "Small",
+      "childhood_location": "Beirut, Lebanon and various South American capitals",
+      "family_structure": "Nuclear",
+      "trauma_history": "Frequent cultural displacement during childhood; exposure to instability through parents' international aid work.",
+      "myers_briggs_type": "INTJ",
+      "emotional_intelligence": "Average",
+      "moral_framework": [
+        "Secular humanist",
+        "Pragmatic"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Laptop",
+        "Smartphone"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Streaming services"
+      ],
+      "attachment_style": "Avoidant",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Private",
+      "mental_health_status": "Good",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Frugal"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T22:33:39.17+00:00",
+  "updated_at": "2025-11-14T23:31:16.934Z",
+  "version": 12
+}

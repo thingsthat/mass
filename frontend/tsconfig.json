@@ -1,0 +1,59 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "types": [
+      "vite/client"
+    ],
+    "strict": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "baseUrl": ".",
+    "paths": {
+      "jaison": ["./src/jaison.d.ts"],
+      "~/*": ["../*"],
+      "data/*": [
+        "../data/*"
+      ],
+      "@/*": [
+        "./src/*"
+      ],
+      "frontend/*": [
+        "./*"
+      ],
+      "frontend/src/core/*": [
+        "./src/*"
+      ],
+      "core/*": [
+        "../core/*"
+      ],
+      "backend/*": [
+        "../backend/*"
+      ],
+      "src/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue",
+    "vite.config.ts",
+    "../data/index.json",
+    "../data/index_extended.json",
+    "../data/connections.json"
+  ],
+  "files": [
+    "src/main.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

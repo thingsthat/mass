@@ -1,0 +1,99 @@
+{
+  "id": "2029ab46-fdc0-4f77-8374-edf98ec03463",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Aislinn O'Rourke",
+    "metadata": {
+      "age": 31,
+      "accent": "Neutral American",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "she/her",
+      "education": "Master\u2019s degree",
+      "ethnicity": "White",
+      "job_title": "Sustainability Consultant",
+      "languages": "English",
+      "birth_date": "1993-05-15",
+      "zodiac_sign": "Taurus",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Observant",
+        "Authentic",
+        "Insightful",
+        "Idealistic",
+        "Passionate about Sustainability",
+        "Gentle",
+        "Analytical"
+      ],
+      "relationship_status": "single",
+      "religion": "Agnostic",
+      "height_centimeters": 168,
+      "city_town": "Philadelphia",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "aislinn_orourke",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Glasses",
+        "Tattoos"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Vegan",
+      "sleep_schedule": "Early bird",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "Cannabis"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Diplomatic",
+      "social_circle_size": "Medium",
+      "childhood_location": "Rural Pennsylvania",
+      "family_structure": "Nuclear",
+      "trauma_history": "Observed significant local environmental contamination during childhood, instilling a deep, urgent commitment to ecological advocacy.",
+      "myers_briggs_type": "INFJ",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Virtue ethics"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Heavy",
+      "entertainment_preferences": [
+        "Books",
+        "Documentaries",
+        "Art galleries"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Very open",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Bike",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:56:51.633+00:00",
+  "updated_at": "2025-11-14T23:31:09.562Z",
+  "version": 12
+}

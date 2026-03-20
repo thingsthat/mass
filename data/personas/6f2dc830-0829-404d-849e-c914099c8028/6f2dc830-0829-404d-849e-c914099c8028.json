@@ -1,0 +1,43 @@
+{
+  "id": "6f2dc830-0829-404d-849e-c914099c8028",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Riyana Devi",
+    "metadata": {
+      "age": 31,
+      "accent": "American English with a subtle South Asian lilt",
+      "gender": "woman",
+      "location": "United States",
+      "pronouns": "they/them",
+      "education": "Associate degree",
+      "ethnicity": "South Asian",
+      "job_title": "Research Assistant",
+      "languages": "English",
+      "birth_date": "1993-08-28",
+      "zodiac_sign": "Virgo",
+      "job_industry": "Science & Research",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "driven",
+        "philosophical",
+        "funny",
+        "analytical",
+        "observant",
+        "empathetic"
+      ],
+      "relationship_status": "single",
+      "religion": "Hindu",
+      "height_centimeters": 158,
+      "city_town": "Seattle",
+      "sexual_orientation": "pansexual"
+    },
+    "username": "riyanadevi"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-27T16:54:26.13+00:00",
+  "updated_at": "2025-11-14T23:31:30.203Z",
+  "version": 12
+}

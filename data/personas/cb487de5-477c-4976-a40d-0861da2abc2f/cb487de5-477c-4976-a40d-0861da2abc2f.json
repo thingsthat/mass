@@ -1,0 +1,99 @@
+{
+  "id": "cb487de5-477c-4976-a40d-0861da2abc2f",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Niamh Adewale",
+    "metadata": {
+      "age": 23,
+      "accent": "Parisian French with a smooth, clear cadence when speaking English.",
+      "gender": "woman",
+      "location": "France",
+      "pronouns": "they/them",
+      "education": "Some college or university",
+      "ethnicity": "Black",
+      "job_title": "Paralegal Assistant",
+      "languages": "English",
+      "birth_date": "2001-11-05",
+      "zodiac_sign": "Scorpio",
+      "job_industry": "Legal",
+      "political_leaning": "Progressive",
+      "personality_traits": [
+        "Principled",
+        "Creative",
+        "Romantic",
+        "Outgoing",
+        "Analytical",
+        "Resourceful"
+      ],
+      "relationship_status": "engaged",
+      "religion": "Spiritual",
+      "height_centimeters": 165,
+      "city_town": "Paris",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "niamh_adewale",
+    "metadata_extended": {
+      "body_type": "Athletic",
+      "distinctive_features": [
+        "Tattoos",
+        "Piercings",
+        "None notable"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Daily",
+      "diet_preferences": "Mediterranean",
+      "sleep_schedule": "Night owl",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine",
+        "None"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Assertive",
+      "social_circle_size": "Large",
+      "childhood_location": "Lyon, France",
+      "family_structure": "Nuclear",
+      "trauma_history": "Experienced microaggressions and navigating systems as a multi-ethnic individual in a predominantly homogeneous society, leading to a strong drive for justice work.",
+      "myers_briggs_type": "ENFP",
+      "emotional_intelligence": "High",
+      "moral_framework": [
+        "Secular humanist",
+        "Utilitarian"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "No children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Good",
+      "therapy_experience": "Past",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Bike",
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Occasional",
+      "spending_habits": "Budget-conscious"
+    }
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-09-28T15:37:18.718+00:00",
+  "updated_at": "2025-11-14T23:31:58.755Z",
+  "version": 12
+}

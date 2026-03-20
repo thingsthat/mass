@@ -1,0 +1,42 @@
+{
+  "id": "c763fe6d-ff29-41b2-bb78-1a29f46c9c54",
+  "creator_id": "deeb503f-3ee0-4110-b318-09273624a899",
+  "details": {
+    "name": "Javier Rodriguez",
+    "metadata": {
+      "age": 35,
+      "accent": "None",
+      "gender": "man",
+      "location": "United States",
+      "pronouns": "he/him",
+      "education": "Vocational or technical training",
+      "ethnicity": "White",
+      "job_title": "Construction Worker",
+      "languages": "English",
+      "birth_date": "1989-01-10",
+      "zodiac_sign": "Capricorn",
+      "job_industry": "Construction",
+      "political_leaning": "Moderate-Conservative",
+      "personality_traits": [
+        "resourceful",
+        "determined",
+        "adaptable",
+        "confident",
+        "disciplined"
+      ],
+      "relationship_status": "single",
+      "religion": "Christian",
+      "height_centimeters": 178,
+      "city_town": "Denver",
+      "sexual_orientation": "heterosexual"
+    },
+    "username": "javierrodriguez"
+  },
+  "type": "persona",
+  "acl": {
+    "public": true
+  },
+  "created_at": "2025-07-29T19:02:29.586+00:00",
+  "updated_at": "2025-11-14T23:31:57.296Z",
+  "version": 14
+}

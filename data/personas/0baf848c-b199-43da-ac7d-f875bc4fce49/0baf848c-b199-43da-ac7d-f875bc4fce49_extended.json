@@ -1,0 +1,62 @@
+{
+  "id": "0baf848c-b199-43da-ac7d-f875bc4fce49",
+  "details": {
+    "metadata_extended": {
+      "body_type": "Average",
+      "distinctive_features": [
+        "Freckles"
+      ],
+      "disabilities": [
+        "None"
+      ],
+      "exercise_frequency": "Weekly",
+      "diet_preferences": "Omnivore",
+      "sleep_schedule": "Irregular",
+      "drugs_use": [
+        "Alcohol",
+        "Caffeine"
+      ],
+      "social_media_usage": "Moderate",
+      "communication_style": "Empathetic",
+      "social_circle_size": "Small",
+      "childhood_location": "Bustling, working-class neighbourhood of Bristol",
+      "family_structure": "Extended",
+      "trauma_history": "Parents' early separation, becoming a single mother at 19, and navigating financial instability and societal judgment have been significant challenges.",
+      "myers_briggs_type": "ISFJ",
+      "emotional_intelligence": "High",
+      "core_values": [
+        "Family",
+        "Independence",
+        "Community",
+        "Authenticity",
+        "Growth",
+        "Justice"
+      ],
+      "environmental_consciousness": "High",
+      "tech_savviness": "Proficient",
+      "preferred_devices": [
+        "Smartphone",
+        "Laptop"
+      ],
+      "news_consumption": "Moderate",
+      "entertainment_preferences": [
+        "Streaming services",
+        "Books",
+        "Music",
+        "YouTube"
+      ],
+      "attachment_style": "Secure",
+      "parental_status": "Has children",
+      "intimacy_comfort_level": "Moderate",
+      "mental_health_status": "Fair",
+      "therapy_experience": "Open to it",
+      "housing_situation": "Rent",
+      "transportation": [
+        "Public transit",
+        "Walk"
+      ],
+      "travel_frequency": "Rare",
+      "spending_habits": "Frugal"
+    }
+  }
+}
