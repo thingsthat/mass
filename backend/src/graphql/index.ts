@@ -1,22 +1,14 @@
-import { Context } from 'backend/src/context';
 import { schema } from 'backend/src/graphql/schema';
-import { getCorsHeaders } from 'backend/src/helpers/cors';
 import { getDatabaseClient } from 'core/src/database/client';
 import { log } from 'core/src/helpers/logger';
 import { graphql } from 'graphql';
 
 import type { GraphQLRequest } from 'backend/src/graphql/graphql.types';
+import type { ServerContext } from 'backend/src/types/server';
 
-export default async (request: Request, _context: Context): Promise<Response> => {
-  const dynamicCorsHeaders = getCorsHeaders(request);
+const jsonHeaders = { 'Content-Type': 'application/json' };
 
-  if (request.method === 'OPTIONS') {
-    return new Response(null, {
-      status: 204,
-      headers: dynamicCorsHeaders,
-    });
-  }
-
+export default async (request: Request, _serverContext: ServerContext): Promise<Response> => {
   try {
     const bodyText = await request.text();
     const { query, variables = {} } = bodyText
@@ -26,7 +18,7 @@ export default async (request: Request, _context: Context): Promise<Response> =>
     if (!query) {
       return new Response(JSON.stringify({ errors: [{ message: 'Query is required' }] }), {
         status: 400,
-        headers: { ...dynamicCorsHeaders, 'Content-Type': 'application/json' },
+        headers: jsonHeaders,
       });
     }
 
@@ -50,7 +42,7 @@ export default async (request: Request, _context: Context): Promise<Response> =>
         JSON.stringify({ errors: result.errors.map(e => ({ message: e.message })) }),
         {
           status: 400,
-          headers: { ...dynamicCorsHeaders, 'Content-Type': 'application/json' },
+          headers: jsonHeaders,
         }
       );
     }
@@ -58,13 +50,13 @@ export default async (request: Request, _context: Context): Promise<Response> =>
     // Return the successful response
     return new Response(JSON.stringify(result), {
       status: 200,
-      headers: { ...dynamicCorsHeaders, 'Content-Type': 'application/json' },
+      headers: jsonHeaders,
     });
   } catch (error) {
     log.error('GRAPHQL', 'Server error:', error);
     return new Response(JSON.stringify({ errors: [{ message: 'Server error' }] }), {
       status: 500,
-      headers: { ...dynamicCorsHeaders, 'Content-Type': 'application/json' },
+      headers: jsonHeaders,
     });
   }
 };

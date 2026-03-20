@@ -117,9 +117,15 @@ importers:
 
   backend:
     dependencies:
+      '@hono/node-server':
+        specifier: ^1.19.11
+        version: 1.19.11(hono@4.12.8)
       graphql:
         specifier: 16.8.1
         version: 16.8.1
+      hono:
+        specifier: ^4.12.8
+        version: 4.12.8
     devDependencies:
       eslint:
         specifier: ^9.39.4
@@ -137,9 +143,6 @@ importers:
       '@types/inquirer':
         specifier: ^9.0.7
         version: 9.0.9
-      dotenv:
-        specifier: ^16.5.0
-        version: 16.6.1
       esbuild-plugin-tsconfig-paths:
         specifier: ^1.0.2
         version: 1.0.2
@@ -160,7 +163,7 @@ importers:
     dependencies:
       '@google/genai':
         specifier: ^1.45.0
-        version: 1.45.0(@modelcontextprotocol/sdk@1.25.3(hono@4.11.6)(zod@4.3.6))
+        version: 1.45.0(@modelcontextprotocol/sdk@1.25.3(hono@4.12.8)(zod@4.3.6))
       '@toon-format/toon':
         specifier: ^0.7.3
         version: 0.7.3
@@ -3352,8 +3355,8 @@ packages:
   hey-listen@1.0.8:
     resolution: {integrity: sha512-COpmrF2NOg4TBWUJ5UVyaCU2A88wEMkUPK4hNqyCkqHbxT92BbvfjoSozkAIIm6XhicGlJHhFdullInrdhwU8Q==}
 
-  hono@4.11.6:
-    resolution: {integrity: sha512-ofIiiHyl34SV6AuhE3YT2mhO5HRWokce+eUYE82TsP6z0/H3JeJcjVWEMSIAiw2QkjDOEpES/lYsg8eEbsLtdw==}
+  hono@4.12.8:
+    resolution: {integrity: sha512-VJCEvtrezO1IAR+kqEYnxUOoStaQPGrCmX3j4wDTNOcD1uRPFpGlwQUIW8niPuvHXaTUxeOUl5MMDGrl+tmO9A==}
     engines: {node: '>=16.9.0'}
 
   hookable@5.5.3:
@@ -6050,23 +6053,22 @@ snapshots:
       - '@vue/composition-api'
       - vue
 
-  '@google/genai@1.45.0(@modelcontextprotocol/sdk@1.25.3(hono@4.11.6)(zod@4.3.6))':
+  '@google/genai@1.45.0(@modelcontextprotocol/sdk@1.25.3(hono@4.12.8)(zod@4.3.6))':
     dependencies:
       google-auth-library: 10.4.2
       p-retry: 4.6.2
       protobufjs: 7.5.4
       ws: 8.19.0
     optionalDependencies:
-      '@modelcontextprotocol/sdk': 1.25.3(hono@4.11.6)(zod@4.3.6)
+      '@modelcontextprotocol/sdk': 1.25.3(hono@4.12.8)(zod@4.3.6)
     transitivePeerDependencies:
       - bufferutil
       - supports-color
       - utf-8-validate
 
-  '@hono/node-server@1.19.11(hono@4.11.6)':
+  '@hono/node-server@1.19.11(hono@4.12.8)':
     dependencies:
-      hono: 4.11.6
-    optional: true
+      hono: 4.12.8
 
   '@humanfs/core@0.19.1': {}
 
@@ -6395,9 +6397,9 @@ snapshots:
       '@jridgewell/sourcemap-codec': 1.5.5
     optional: true
 
-  '@modelcontextprotocol/sdk@1.25.3(hono@4.11.6)(zod@4.3.6)':
+  '@modelcontextprotocol/sdk@1.25.3(hono@4.12.8)(zod@4.3.6)':
     dependencies:
-      '@hono/node-server': 1.19.11(hono@4.11.6)
+      '@hono/node-server': 1.19.11(hono@4.12.8)
       ajv: 8.18.0
       ajv-formats: 3.0.1(ajv@8.18.0)
       content-type: 1.0.5
@@ -8764,8 +8766,7 @@ snapshots:
 
   hey-listen@1.0.8: {}
 
-  hono@4.11.6:
-    optional: true
+  hono@4.12.8: {}
 
   hookable@5.5.3: {}
 

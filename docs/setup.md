@@ -57,7 +57,25 @@ node dist/cli.js
 
 You can also link the `mass` bin from `package.json` and run `mass` if configured.
 
+## Running the web app and API
+
+The open-source workspace includes a **Vue 3** front end (`frontend/`) and an **HTTP API** (`backend/`) used by that UI. The API is a small **Hono** app on Node; routes include GraphQL (`POST /graphql`) and JSON endpoints such as `/prompt-ask` and `/report-start`.
+
+From the **repository root**:
+
+| Command | What it does |
+|---------|----------------|
+| `pnpm dev` | Starts **both** the API and the Vite dev server in parallel. |
+| `pnpm backend` | API only (`mass-backend`, default **http://localhost:3000**). |
+| `pnpm frontend` | Vite only (default **http://localhost:5173**). |
+
+- **`PORT`** – API listen port (default `3000`). Set in `.env` or the shell if something else already uses 3000.
+- **Local API base URL** – For `localhost`, `127.0.0.1`, or typical `192.168.*` hosts, the front end targets `http://localhost:<PORT>` for API calls (see `frontend/src/api/helpers.ts`). Other hosts use relative `/api` (for hosted or reverse-proxy setups).
+
+You still need the same **`.env`** LLM keys and optional `MASS_DATA_DIR` / `SQLITE_DB_PATH` as for the CLI.
+
 ## Next steps
 
+- [Frontend](frontend.md): UI stack and how it talks to the API.
 - [Concepts](concepts.md): cohorts, personas, workspaces, reports.
 - [Creating cohorts and personas](creating-personas.md): create and list cohorts and personas.

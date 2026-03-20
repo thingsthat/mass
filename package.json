@@ -15,6 +15,7 @@
     "node": ">=20.10.0"
   },
   "scripts": {
+    "dev": "pnpm --parallel -F mass-backend -F mass-frontend run dev",
     "backend": "pnpm -F mass-backend dev",
     "frontend": "pnpm -F mass-frontend dev",
     "typecheck": "tsc --noEmit --skipLibCheck && pnpm -r run typecheck",

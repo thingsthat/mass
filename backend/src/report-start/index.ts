@@ -4,22 +4,21 @@
  * processing in the background so the client can show an inline placeholder and poll.
  */
 
-import { getCorsHeaders } from 'backend/src/helpers/cors';
 import { log } from 'core/src/helpers/logger';
 import { processsReport, startReportGeneration } from 'core/src/reports/functions/processReport';
 
 import type { Handler } from 'backend/src/types/server';
 import type { ReportGenerateRequest } from 'core/src/reports/reportResponses.types';
 
-const jsonResponse = (body: object, status: number, request: Request): Response =>
+const jsonResponse = (body: object, status: number): Response =>
   new Response(JSON.stringify(body), {
     status,
-    headers: { 'Content-Type': 'application/json', ...getCorsHeaders(request) },
+    headers: { 'Content-Type': 'application/json' },
   });
 
 const handler: Handler = async (request, _context) => {
   if (request.method !== 'POST') {
-    return jsonResponse({ error: 'Method not allowed' }, 405, request);
+    return jsonResponse({ error: 'Method not allowed' }, 405);
   }
 
   let body: ReportGenerateRequest;
@@ -27,19 +26,18 @@ const handler: Handler = async (request, _context) => {
     const raw = await request.json();
     body = raw as ReportGenerateRequest;
   } catch {
-    return jsonResponse({ error: 'Invalid JSON body' }, 400, request);
+    return jsonResponse({ error: 'Invalid JSON body' }, 400);
   }
 
   const { workspace_id, prompt } = body;
   if (!workspace_id || !prompt) {
-    return jsonResponse({ error: 'workspace_id and prompt are required' }, 400, request);
+    return jsonResponse({ error: 'workspace_id and prompt are required' }, 400);
   }
 
   if (body.report_id) {
     return jsonResponse(
       { error: 'report_id must not be set; it is created by this endpoint' },
-      400,
-      request
+      400
     );
   }
 
@@ -51,13 +49,12 @@ const handler: Handler = async (request, _context) => {
         error: err instanceof Error ? err.message : String(err),
       });
     });
-    return jsonResponse({ report_id }, 200, request);
+    return jsonResponse({ report_id }, 200);
   } catch (err) {
     log.error('REPORT', 'Failed to start report', err);
     return jsonResponse(
       { error: err instanceof Error ? err.message : 'Failed to start report' },
-      500,
-      request
+      500
     );
   }
 };

@@ -12,6 +12,8 @@
     "eslint": "^9.39.4"
   },
   "dependencies": {
-    "graphql": "16.8.1"
+    "@hono/node-server": "^1.19.11",
+    "graphql": "16.8.1",
+    "hono": "^4.12.8"
   }
 }

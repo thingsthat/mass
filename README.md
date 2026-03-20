@@ -99,6 +99,16 @@ After cloning the repo:
    pnpm cli -- --help
    ```
 
+5. **Or run web UI and HTTP API**
+
+   From the repo root, start the Vue dev server and the API together:
+
+   ```bash
+   pnpm dev
+   ```
+
+   The UI is served by Vite (default [http://localhost:5173](http://localhost:5173)). The API listens on port **3000** by default (`PORT` overrides it). Local browsers call `http://localhost:3000` for GraphQL and workflow endpoints. To run only one side: `pnpm frontend` or `pnpm backend`. See [docs/setup.md](docs/setup.md) and [docs/frontend.md](docs/frontend.md).
+
 ## CLI
 
 All behaviour (cohorts, personas, chat, reports, workspaces) runs against a local file-based store. Data is stored under `data/` by default (override with `MASS_DATA_DIR` or `mass -d <path>`).
@@ -114,9 +124,18 @@ pnpm build:cli   # then node dist/cli.js or mass from bin
 
 1. Clone the repo and install dependencies (`pnpm install`).
 2. Copy [.env.example](.env.example) to `.env` and set at least one LLM API key (e.g. `GOOGLE_API_KEY` for Google Gemini).
-3. Run the CLI: `pnpm cli` or build with `pnpm build:cli` and run `node dist/cli.js`. No server or web app.
+3. Choose how you want to work:
+   - **CLI:** `pnpm cli` or build with `pnpm build:cli` and run `node dist/cli.js`.
+   - **Web app plus API:** `pnpm dev` (Vite on port 5173, Hono API on port 3000 by default). See [docs/setup.md](docs/setup.md).
 
 ## Project structure
+
+The workspace is a pnpm monorepo. Notable packages:
+
+- **`cli/`** – Commander-based CLI.
+- **`core/`** – Shared domain logic, LLM routing, JSON store, workflows.
+- **`backend/`** – HTTP API (GraphQL and REST-style routes) for the web app, built with [Hono](https://hono.dev/) on Node.
+- **`frontend/`** – Vue 3 + Vite SPA.
 
 ```
 cli/
@@ -146,7 +165,8 @@ core/
 
 | Layer | Technology |
 |-------|------------|
-| Interface | CLI only (commander) |
+| Interfaces | CLI (commander), Vue 3 web app (Vite) |
+| API | Hono on Node (GraphQL + JSON routes such as `/prompt-ask`, `/report-start`) |
 | Language | TypeScript |
 | Database | SQLite (better-sqlite3) and local JSON store |
 | LLM services | OpenRouter, Google Gemini, OpenAI |
@@ -155,14 +175,14 @@ core/
 
 - [docs/concepts.md](docs/concepts.md) – Cohorts, personas, workspaces, reports
 - [docs/examples.md](docs/examples.md) – In-depth walkthroughs (product feedback, persona interview, debate, questionnaire, ideas)
-- [docs/setup.md](docs/setup.md) – Install and environment
+- [docs/setup.md](docs/setup.md) – Install, environment, and running the web stack
+- [docs/frontend.md](docs/frontend.md) – Frontend dev server and API behaviour
 - [docs/creating-personas.md](docs/creating-personas.md) – Create and manage cohorts and personas
 - [docs/chat.md](docs/chat.md) – Chat with a persona
 - [docs/reports.md](docs/reports.md) – Generate and view reports
 - [docs/workspaces.md](docs/workspaces.md) – Workspace commands
 - [docs/testing-personas.md](docs/testing-personas.md) – Testing personas (chat and reports)
 - [docs/data-layout.md](docs/data-layout.md) – Data directory structure
-- [docs/serve.md](docs/serve.md) – Serve view reports
 
 ## Running a fork
 

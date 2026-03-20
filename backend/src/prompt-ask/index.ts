@@ -16,7 +16,7 @@ import { generatePersonaChatStream } from 'core/src/personas/llm/controllers/per
 import { getWorkspaceById } from 'core/src/workspace/controllers/workspaces';
 import { expandPersonaIds } from 'core/src/workspace/expandPersonaIds';
 
-import type { Handler } from 'backend/src/types/server';
+import type { Handler, ServerContext } from 'backend/src/types/server';
 import type { Message, SpeakerReply } from 'core/src/workspace/conversation.types';
 
 export type PromptAskRequestBody = {
@@ -42,7 +42,7 @@ const jsonResponse = (body: object, status: number): Response =>
     headers: { 'Content-Type': 'application/json' },
   });
 
-const handler: Handler = async (request, _context) => {
+const handler: Handler = async (request, _serverContext: ServerContext) => {
   if (request.method !== 'POST') {
     return jsonResponse({ error: 'Method not allowed' }, 405);
   }
@@ -50,8 +50,24 @@ const handler: Handler = async (request, _context) => {
   let body: PromptAskRequestBody;
   try {
     const raw = await request.json();
-    if (!raw || typeof raw.prompt !== 'string' || !raw.workspace_id) {
-      return jsonResponse({ error: 'Missing required fields: prompt, workspace_id' }, 400);
+    if (
+      !raw ||
+      typeof raw.prompt !== 'string' ||
+      typeof raw.workspace_id !== 'string' ||
+      typeof raw.userMessageId !== 'string' ||
+      typeof raw.answerMessageId !== 'string' ||
+      !raw.prompt.trim() ||
+      !raw.workspace_id.trim() ||
+      !raw.userMessageId.trim() ||
+      !raw.answerMessageId.trim()
+    ) {
+      return jsonResponse(
+        {
+          error:
+            'Missing required fields: prompt, workspace_id, userMessageId, answerMessageId',
+        },
+        400
+      );
     }
     body = raw as PromptAskRequestBody;
   } catch {
