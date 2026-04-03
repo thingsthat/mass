@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter } from 'core/src/llm/router';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
@@ -8,7 +10,6 @@ import {
   systemPromptDebateParticipant,
   systemPromptDebateReport,
 } from 'core/src/reports/llm/controllers/report-type-debate/systemPromptsReportTypeDebate';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { ProviderId } from 'core/src/llm/config';
 import type { Persona } from 'core/src/personas/persona.types';

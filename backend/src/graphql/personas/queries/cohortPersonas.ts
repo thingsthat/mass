@@ -1,7 +1,8 @@
-import { PersonaType } from 'backend/src/graphql/personas/types/persona';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLList, GraphQLNonNull, GraphQLObjectType } from 'graphql';
 import { GraphQLString } from 'graphql/type';
+
+import { PersonaType } from 'backend/src/graphql/personas/types/persona';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -48,7 +49,7 @@ const expandPersonaIdsByCohortId = async (
 };
 
 // Cohorts response type
-export const CohortsPersonasResponseType = new GraphQLObjectType({
+const CohortsPersonasResponseType = new GraphQLObjectType({
   name: 'CohortsPersonasResponse',
   fields: () => ({
     cohort_personas: { type: new GraphQLNonNull(new GraphQLList(PersonaType)) },

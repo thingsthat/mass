@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter, clearProviderCache } from 'core/src/llm/router';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
@@ -6,7 +8,6 @@ import {
   systemPromptPersonaResponse,
   systemPromptFeedbackReport,
 } from 'core/src/reports/llm/controllers/report-type-feedback/systemPromptsReportTypeFeedback';
-import { v4 as uuidv4 } from 'uuid';
 
 import { personaResponseSchema } from './schemaReportFeedbackResponse';
 

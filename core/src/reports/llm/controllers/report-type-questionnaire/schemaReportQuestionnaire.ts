@@ -1,5 +1,6 @@
-import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import { z } from 'zod';
+
+import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 
 const questionnaireOptionSchemaZod = z.object({
   id: z.string().describe('Unique identifier for the option.'),

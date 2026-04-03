@@ -6,14 +6,14 @@
 import 'core/src/env';
 
 import { serve } from '@hono/node-server';
+import { log } from 'core/src/helpers/logger';
 import { Hono } from 'hono';
 
 import { getCorsHeaders, withCorsHeaders } from 'backend/src/helpers/cors';
 import { ROUTES } from 'backend/src/routes';
-import { log } from 'core/src/helpers/logger';
 
-import type { Context } from 'hono';
 import type { Handler } from 'backend/src/types/server';
+import type { Context } from 'hono';
 
 const PORT = Number(process.env.PORT) || 3000;
 

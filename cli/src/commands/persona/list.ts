@@ -1,7 +1,7 @@
 import { getDatabaseClient } from 'core/src/database/client';
 import { log, LogCategory } from 'core/src/helpers/logger';
 
-export type PersonaListOptions = {
+type PersonaListOptions = {
   cohortId?: string;
 };
 

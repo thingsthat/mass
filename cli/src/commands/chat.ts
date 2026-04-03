@@ -24,7 +24,7 @@ const ansi = {
   cyan: '\x1b[36m',
 } as const;
 
-export type ChatOptions = {
+type ChatOptions = {
   workspaceId?: string;
   /** One or more persona IDs (overrides workspace membership when set). */
   personaIds?: string[];

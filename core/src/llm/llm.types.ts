@@ -172,18 +172,6 @@ export type FileGenerationResponse = {
 export type ImageGenerationRequest = FileGenerationRequest;
 
 /**
- * @deprecated Use FileGenerationResponse instead
- */
-export type ImageGenerationResponse = {
-  images: Array<{
-    url?: string;
-    base64?: string;
-    revisedPrompt?: string;
-  }>;
-  model?: string;
-};
-
-/**
  * Provider capabilities
  */
 export type ProviderCapabilities = {

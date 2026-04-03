@@ -1,5 +1,6 @@
-import { textContentZod } from 'core/src/reports/llm/schemas/schemaComponentTextContent';
 import { z } from 'zod';
+
+import { textContentZod } from 'core/src/reports/llm/schemas/schemaComponentTextContent';
 
 export const schemaComponentContentZod = z
   .array(z.union([textContentZod]))

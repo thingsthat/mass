@@ -8,7 +8,7 @@ export function isInteractive(): boolean {
   return Boolean(process.stdin.isTTY);
 }
 
-export type ListChoice = { value: string; name: string };
+type ListChoice = { value: string; name: string };
 
 export async function selectFromList(choices: ListChoice[], message: string): Promise<string> {
   const { value } = await inquirer.prompt<{ value: string }>([
@@ -58,18 +58,6 @@ export async function number(
         }
         return true;
       },
-    },
-  ]);
-  return answers.value;
-}
-
-export async function confirm(message: string, defaultAnswer = true): Promise<boolean> {
-  const answers = await inquirer.prompt<{ value: boolean }>([
-    {
-      type: 'confirm',
-      name: 'value',
-      message,
-      default: defaultAnswer,
     },
   ]);
   return answers.value;

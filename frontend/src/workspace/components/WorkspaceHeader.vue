@@ -122,7 +122,11 @@ function handleOpenDeleteConfirmDialog() {
           variant="ghost"
           size="sm"
           class="h-8 rounded px-3 text-sm font-medium transition-colors"
-          :class="!showSimulationGraph ? 'bg-accent text-accent-foreground' : 'text-muted-foreground hover:bg-accent/50 hover:text-foreground'"
+          :class="
+            !showSimulationGraph
+              ? 'bg-accent text-accent-foreground'
+              : 'text-muted-foreground hover:bg-accent/50 hover:text-foreground'
+          "
           @click="emit('update:showSimulationGraph', false)"
         >
           Chat
@@ -132,7 +136,11 @@ function handleOpenDeleteConfirmDialog() {
           variant="ghost"
           size="sm"
           class="h-8 rounded px-3 text-sm font-medium transition-colors"
-          :class="showSimulationGraph ? 'bg-accent text-accent-foreground' : 'text-muted-foreground hover:bg-accent/50 hover:text-foreground'"
+          :class="
+            showSimulationGraph
+              ? 'bg-accent text-accent-foreground'
+              : 'text-muted-foreground hover:bg-accent/50 hover:text-foreground'
+          "
           @click="emit('update:showSimulationGraph', true)"
         >
           Graph

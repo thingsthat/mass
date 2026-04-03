@@ -6,7 +6,7 @@ import {
 } from 'core/src/simulation/scenarioPresets';
 import { injectSimulationIntervention } from 'core/src/simulation/simulationController';
 
-export type RunSimulationInjectOptions = {
+type RunSimulationInjectOptions = {
   workspaceId: string;
   type: CreateInterventionInput['type'];
   title: string;

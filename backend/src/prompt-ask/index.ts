@@ -19,7 +19,7 @@ import { expandPersonaIds } from 'core/src/workspace/expandPersonaIds';
 import type { Handler, ServerContext } from 'backend/src/types/server';
 import type { Message, SpeakerReply } from 'core/src/workspace/conversation.types';
 
-export type PromptAskRequestBody = {
+type PromptAskRequestBody = {
   prompt: string;
   workspace_id: string;
   /** If provided, overrides workspace conversation and uses only this persona (single-speaker). */
@@ -63,8 +63,7 @@ const handler: Handler = async (request, _serverContext: ServerContext) => {
     ) {
       return jsonResponse(
         {
-          error:
-            'Missing required fields: prompt, workspace_id, userMessageId, answerMessageId',
+          error: 'Missing required fields: prompt, workspace_id, userMessageId, answerMessageId',
         },
         400
       );

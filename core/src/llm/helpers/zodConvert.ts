@@ -118,7 +118,10 @@ export const jsonSchemaToGeminiSchema = (jsonSchema: any): Schema => {
   }
 
   // Recursively convert additionalProperties only when it is a schema object (e.g. from z.record()); do not recurse into boolean false
-  if (converted.additionalProperties !== undefined && typeof converted.additionalProperties === 'object') {
+  if (
+    converted.additionalProperties !== undefined &&
+    typeof converted.additionalProperties === 'object'
+  ) {
     converted.additionalProperties = jsonSchemaToGeminiSchema(converted.additionalProperties);
   }
 

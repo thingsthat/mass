@@ -1,9 +1,10 @@
+import { GraphQLString } from 'graphql';
+
 import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import {
   createTypeSafeObjectType,
   createTypeSafeInputType,
 } from 'backend/src/graphql/utils/typeSafeGraphQL';
-import { GraphQLString } from 'graphql';
 
 import type { Conversation } from 'core/src/workspace/conversation.types';
 

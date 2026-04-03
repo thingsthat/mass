@@ -1,6 +1,7 @@
+import { GraphQLString, GraphQLNonNull } from 'graphql';
+
 import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { createTypeSafeObjectType } from 'backend/src/graphql/utils/typeSafeGraphQL';
-import { GraphQLObjectType, GraphQLString, GraphQLNonNull, GraphQLList } from 'graphql';
 
 import type { Report } from 'core/src/reports/reports.types';
 
@@ -18,15 +19,5 @@ export const ReportType = createTypeSafeObjectType<Report>({
     created_at: { type: new GraphQLNonNull(GraphQLString) },
     updated_at: { type: new GraphQLNonNull(GraphQLString) },
     status: { type: new GraphQLNonNull(GraphQLString) },
-  }),
-});
-
-/**
- * GraphQL type for reports list
- */
-export const ReportsType = new GraphQLObjectType({
-  name: 'Reports',
-  fields: () => ({
-    reports: { type: new GraphQLList(ReportType) },
   }),
 });

@@ -25,15 +25,6 @@ export function createSchemaDefinition(
   };
 }
 
-export type ResponseFormatType =
-  | 'content'
-  | 'persona_chat'
-  | 'persona_response'
-  | 'feedback_report'
-  | 'debate_report'
-  | 'questionnaire_report'
-  | 'ideas_report';
-
 /**
  * Helper to create a structured text response matching the expected format
  */

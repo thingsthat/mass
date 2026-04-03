@@ -1,6 +1,7 @@
 import { log } from 'core/src/helpers/logger';
-import { fetchTasks, fetchTask } from 'frontend/src/tasks/tasksApi';
 import { ref, computed, onUnmounted, watch, type Ref } from 'vue';
+
+import { fetchTasks, fetchTask } from 'frontend/src/tasks/tasksApi';
 
 import type { Task, TaskType } from 'core/src/tasks/tasks.types';
 

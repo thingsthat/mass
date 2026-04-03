@@ -1,7 +1,8 @@
-import { schema } from 'backend/src/graphql/schema';
 import { getDatabaseClient } from 'core/src/database/client';
 import { log } from 'core/src/helpers/logger';
 import { graphql } from 'graphql';
+
+import { schema } from 'backend/src/graphql/schema';
 
 import type { GraphQLRequest } from 'backend/src/graphql/graphql.types';
 import type { ServerContext } from 'backend/src/types/server';

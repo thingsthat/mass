@@ -1,5 +1,6 @@
-import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import { z } from 'zod';
+
+import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 
 const responseItemSchemaZod = z.object({
   question_id: z.string().describe('The ID of the question being answered.'),

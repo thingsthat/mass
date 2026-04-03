@@ -1,7 +1,8 @@
-import { CohortType } from 'backend/src/graphql/personas/types/cohort';
-import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLInt, GraphQLList, GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+
+import { CohortType } from 'backend/src/graphql/personas/types/cohort';
+import { GraphQLJSON } from 'backend/src/graphql/types/common';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -34,7 +35,7 @@ export const GET_COHORTS = `
 `;
 
 // Cohorts response type
-export const CohortsResponseType = new GraphQLObjectType({
+const CohortsResponseType = new GraphQLObjectType({
   name: 'CohortsResponse',
   fields: () => ({
     cohorts: { type: new GraphQLNonNull(new GraphQLList(CohortType)) },

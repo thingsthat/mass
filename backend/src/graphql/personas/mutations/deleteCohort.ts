@@ -6,7 +6,7 @@ import type { GraphResolver } from 'backend/src/graphql/graphql.types';
 
 export type DeleteCohortResponse = {
   delete_cohort: {
-    success: boolean;y
+    success: boolean;
   };
 };
 

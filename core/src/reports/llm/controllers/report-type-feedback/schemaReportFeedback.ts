@@ -1,5 +1,6 @@
-import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import { z } from 'zod';
+
+import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 
 const quoteSchemaZod = z.object({
   text: z.string().describe('The quote text only.'),

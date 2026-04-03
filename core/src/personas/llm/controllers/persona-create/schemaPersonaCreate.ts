@@ -1,3 +1,5 @@
+import { z } from 'zod';
+
 import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import {
   EDUCATION_OPTIONS,
@@ -13,7 +15,6 @@ import {
   ZODIAC_SIGN_OPTIONS,
 } from 'core/src/personas/options/personaOptions';
 import { RELIGIONS_OPTIONS } from 'core/src/personas/options/religions';
-import { z } from 'zod';
 
 const metadataSchemaZod = z.object({
   age: z.number().describe('Age of the persona'),

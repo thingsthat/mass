@@ -2,10 +2,11 @@
  * Unified report generation that combines feedback and debate analysis
  */
 
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter } from 'core/src/llm/router';
 import { reportUnifiedJsonSchema } from 'core/src/reports/llm/schemas/reportUnifiedSchema';
-import { v4 as uuidv4 } from 'uuid';
 
 import { systemPromptUnifiedReport } from './systemPromptsReportUnified';
 

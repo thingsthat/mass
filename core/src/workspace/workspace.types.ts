@@ -1,5 +1,5 @@
-import type { Conversation } from 'core/src/workspace/conversation.types';
 import type { SimulationWorkflow } from 'core/src/simulation/simulation.types';
+import type { Conversation } from 'core/src/workspace/conversation.types';
 
 export type Workspace = {
   id: string;

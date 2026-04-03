@@ -16,7 +16,6 @@
     "isolatedModules": true,
     "baseUrl": ".",
     "paths": {
-      "jaison": ["./src/jaison.d.ts"],
       "~/*": ["../*"],
       "data/*": [
         "../data/*"

@@ -3,7 +3,7 @@ import { log, LogCategory } from 'core/src/helpers/logger';
 import { getRandomPersonaIds } from 'core/src/personas/controllers/personas';
 import { createScenario, type ScenarioConfig } from 'core/src/simulation/scenarioPresets';
 
-export type RunScenarioCreateOptions = {
+type RunScenarioCreateOptions = {
   config: ScenarioConfig;
   name: string;
   description?: string;

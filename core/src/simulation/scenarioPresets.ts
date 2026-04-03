@@ -1,12 +1,12 @@
-import { expandPersonaIds } from 'core/src/workspace/expandPersonaIds';
 import { v4 as uuidv4 } from 'uuid';
+
+import { expandPersonaIds } from 'core/src/workspace/expandPersonaIds';
+
+import { ScenarioEventType, SimulationWorkflow } from './simulation.types';
 
 import type { DatabaseClient } from 'core/src/database/types';
 import type { Conversation } from 'core/src/workspace/conversation.types';
-import type { 
-  Workspace,
-} from 'core/src/workspace/workspace.types';
-import { ScenarioEventType, SimulationWorkflow } from './simulation.types';
+import type { Workspace } from 'core/src/workspace/workspace.types';
 
 /**
  * Dynamic configuration for a simulation scenario. Replaces presets so stances, variables, and core issue can be supplied per use case.

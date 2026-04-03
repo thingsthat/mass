@@ -1,4 +1,4 @@
-import { GraphQLInputObjectType, GraphQLInt, GraphQLScalarType, GraphQLString } from 'graphql';
+import { GraphQLScalarType } from 'graphql';
 import { Kind } from 'graphql/language';
 
 // Custom JSON scalar type
@@ -17,22 +17,6 @@ export const GraphQLJSON = new GraphQLScalarType({
         return null;
     }
   },
-});
-
-export const StringFilterType = new GraphQLInputObjectType({
-  name: 'StringFilter',
-  fields: () => ({
-    _eq: { type: GraphQLString },
-    _neq: { type: GraphQLString },
-  }),
-});
-
-export const IntFilterType = new GraphQLInputObjectType({
-  name: 'IntFilter',
-  fields: () => ({
-    _eq: { type: GraphQLInt },
-    _neq: { type: GraphQLInt },
-  }),
 });
 
 export const GraphQLUUID = new GraphQLScalarType({

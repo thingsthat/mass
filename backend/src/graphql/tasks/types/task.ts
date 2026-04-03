@@ -1,6 +1,7 @@
+import { GraphQLString, GraphQLNonNull } from 'graphql';
+
 import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { createTypeSafeObjectType } from 'backend/src/graphql/utils/typeSafeGraphQL';
-import { GraphQLString, GraphQLNonNull } from 'graphql';
 
 import type { Task } from 'core/src/tasks/tasks.types';
 

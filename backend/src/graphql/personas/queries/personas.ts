@@ -1,7 +1,8 @@
-import { PersonaType } from 'backend/src/graphql/personas/types/persona';
-import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLInt, GraphQLList, GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+
+import { PersonaType } from 'backend/src/graphql/personas/types/persona';
+import { GraphQLJSON } from 'backend/src/graphql/types/common';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -33,7 +34,7 @@ export const GET_PERSONAS = `
 `;
 
 // Personas response type
-export const PersonasResponseType = new GraphQLObjectType({
+const PersonasResponseType = new GraphQLObjectType({
   name: 'PersonasResponse',
   fields: () => ({
     personas: { type: new GraphQLNonNull(new GraphQLList(PersonaType)) },

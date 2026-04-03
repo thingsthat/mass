@@ -1,7 +1,8 @@
-import { WorkspaceType } from 'backend/src/graphql/workspace/types/workspace';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLObjectType, GraphQLString } from 'graphql';
 import { v4 as uuidv4 } from 'uuid';
+
+import { WorkspaceType } from 'backend/src/graphql/workspace/types/workspace';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';

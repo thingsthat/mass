@@ -1,6 +1,7 @@
-import { PersonaType } from 'backend/src/graphql/personas/types/persona';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+
+import { PersonaType } from 'backend/src/graphql/personas/types/persona';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -30,12 +31,12 @@ export const GET_PERSONA = `
 `;
 
 // Query variables
-export type PersonaQueryVariables = {
+type PersonaQueryVariables = {
   personaId?: string;
 };
 
 // Persona response type
-export const PersonaResponseType = new GraphQLObjectType({
+const PersonaResponseType = new GraphQLObjectType({
   name: 'PersonaResponse',
   fields: () => ({
     persona: { type: new GraphQLNonNull(PersonaType) },

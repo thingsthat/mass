@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { type ProviderId } from 'core/src/llm/config';
 import { LLMRouter } from 'core/src/llm/router';
@@ -5,7 +7,6 @@ import { personaSchema } from 'core/src/personas/llm/controllers/persona-create/
 import { personaCreation } from 'core/src/personas/llm/controllers/persona-create/systemPromptsPersonaCreation';
 import { Persona, PersonaMetadata } from 'core/src/personas/persona.types';
 import { PersonaArchetype } from 'core/src/personas/weights/archetypeWeights';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { CohortWeightedConfig } from 'core/src/personas/cohort.types';
 

@@ -14,7 +14,9 @@ const intervention = computed(() => props.message._metadata?.intervention);
 
 const stepLabel = computed(() => {
   const meta = intervention.value;
-  if (!meta) return '';
+  if (!meta) {
+    return '';
+  }
   if (meta.status === 'applied' && meta.applied_step !== undefined) {
     return `Applied at step ${meta.applied_step}`;
   }
@@ -26,7 +28,9 @@ const stepLabel = computed(() => {
 
 const effectsSummary = computed(() => {
   const effects = intervention.value?.effects;
-  if (!effects || typeof effects !== 'object') return '';
+  if (!effects || typeof effects !== 'object') {
+    return '';
+  }
   const entries = Object.entries(effects).map(([key, value]) => `${key}: ${String(value)}`);
   return entries.length ? entries.join(', ') : '';
 });
@@ -37,7 +41,9 @@ const effectsSummary = computed(() => {
     <Message from="system">
       <div class="workspace-message-system">
         <div class="workspace-message-system__header">
-          <span class="workspace-message-system__title">{{ intervention?.title ?? message.content }}</span>
+          <span class="workspace-message-system__title">{{
+            intervention?.title ?? message.content
+          }}</span>
           <span class="workspace-message-system__status" :data-status="intervention?.status">
             {{ intervention?.status }}
           </span>

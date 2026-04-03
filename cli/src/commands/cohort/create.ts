@@ -11,7 +11,7 @@ import {
   number,
 } from 'cli/src/commands/prompts';
 
-export type CohortCreateOptions = {
+type CohortCreateOptions = {
   name?: string;
   prompt?: string;
   count: string;

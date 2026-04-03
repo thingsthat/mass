@@ -19,7 +19,7 @@ const REPORT_TYPES = [
   { value: 'ideas', name: 'ideas' },
 ] as const;
 
-export type ReportOptions = {
+type ReportOptions = {
   prompt?: string;
   cohortId?: string;
   personaIds?: string[];

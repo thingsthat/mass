@@ -22,7 +22,7 @@ import {
  * @param options Optional: encryptResponse - request server to encrypt the response
  * @returns The response data
  */
-export type ExecuteGraphQLOptions = { encryptResponse?: boolean };
+type ExecuteGraphQLOptions = { encryptResponse?: boolean };
 
 export const executeGraphQL = async <T = any>(
   query: string,

@@ -1,9 +1,10 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter } from 'core/src/llm/router';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
 import { ideasResponseSchema } from 'core/src/reports/llm/controllers/report-type-ideas/schemaIdeasResponse';
 import { systemPromptPersonaIdeasResponse } from 'core/src/reports/llm/controllers/report-type-ideas/systemPromptsReportTypeIdeas';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { IdeasPersonaResponse } from './schemaIdeasResponse';
 import type { ProviderId } from 'core/src/llm/config';

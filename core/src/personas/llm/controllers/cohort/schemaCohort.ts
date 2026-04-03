@@ -1,3 +1,5 @@
+import { z } from 'zod';
+
 import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import {
   EDUCATION_OPTIONS,
@@ -11,7 +13,6 @@ import {
   SEXUAL_ORIENTATION_OPTIONS,
 } from 'core/src/personas/options/personaOptions';
 import { RELIGIONS_OPTIONS } from 'core/src/personas/options/religions';
-import { z } from 'zod';
 
 const ageRangeSchemaZod = z.object({
   min_age: z.number().min(18).max(75),

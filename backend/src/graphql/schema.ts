@@ -1,3 +1,5 @@
+import { GraphQLObjectType, GraphQLSchema } from 'graphql';
+
 import { DeleteCohortResolver } from 'backend/src/graphql/personas/mutations/deleteCohort';
 import { UpsertCohortResolver } from 'backend/src/graphql/personas/mutations/upsertCohort';
 import { UpsertPersonaResolver } from 'backend/src/graphql/personas/mutations/upsertPersona';
@@ -13,7 +15,6 @@ import { DeleteWorkspaceResolver } from 'backend/src/graphql/workspace/mutations
 import { UpsertWorkspaceResolver } from 'backend/src/graphql/workspace/mutations/upsertWorkspace';
 import { WorkspaceResolver } from 'backend/src/graphql/workspace/queries/workspace';
 import { WorkspacesResolver } from 'backend/src/graphql/workspace/queries/workspaces';
-import { GraphQLObjectType, GraphQLSchema } from 'graphql';
 
 /**
  * GraphQL schema for the API

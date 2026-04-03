@@ -1,5 +1,3 @@
-import { GraphQLJSON } from 'backend/src/graphql/types/common';
-import { ConversationInputType } from 'backend/src/graphql/workspace/types/conversation';
 import { log } from 'core/src/helpers/logger';
 import {
   GraphQLBoolean,
@@ -9,6 +7,9 @@ import {
   GraphQLString,
 } from 'graphql';
 import { v4 as uuidv4 } from 'uuid';
+
+import { GraphQLJSON } from 'backend/src/graphql/types/common';
+import { ConversationInputType } from 'backend/src/graphql/workspace/types/conversation';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -33,7 +34,7 @@ export const UPSERT_WORKSPACE = `
 `;
 
 // Workspace input type
-export const WorkspaceInputType = new GraphQLInputObjectType({
+const WorkspaceInputType = new GraphQLInputObjectType({
   name: 'WorkspaceInput',
   fields: () => ({
     id: { type: GraphQLString },
@@ -45,7 +46,7 @@ export const WorkspaceInputType = new GraphQLInputObjectType({
 });
 
 // Upsert workspace response type
-export const UpsertWorkspaceResponseType = new GraphQLObjectType({
+const UpsertWorkspaceResponseType = new GraphQLObjectType({
   name: 'UpsertWorkspaceResponse',
   fields: () => ({
     id: { type: new GraphQLNonNull(GraphQLString) },

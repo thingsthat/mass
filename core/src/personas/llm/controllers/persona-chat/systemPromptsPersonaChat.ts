@@ -1,10 +1,11 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { systemPromptSchemaStructuredResponse } from 'core/src/llm/systemprompt/systemPromptCommon';
 import {
   getCurrentDateSystemPrompt,
   getTimeContextSystemPrompt,
 } from 'core/src/llm/systemprompt/systemPromptHelper';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { Persona } from 'core/src/personas/persona.types';
 import type { Message } from 'core/src/workspace/conversation.types';

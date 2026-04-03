@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter } from 'core/src/llm/router';
 import { CohortWeightedConfig } from 'core/src/personas/cohort.types';
@@ -15,7 +17,6 @@ import {
   SEXUAL_ORIENTATION_OPTIONS,
 } from 'core/src/personas/options/personaOptions';
 import { RELIGIONS_OPTIONS } from 'core/src/personas/options/religions';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { ProviderId } from 'core/src/llm/config';
 

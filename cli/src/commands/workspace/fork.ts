@@ -2,7 +2,7 @@ import { getDatabaseClient } from 'core/src/database/client';
 import { log, LogCategory } from 'core/src/helpers/logger';
 import { branchSimulationWorkspace } from 'core/src/simulation/simulationController';
 
-export type WorkspaceForkOptions = {
+type WorkspaceForkOptions = {
   workspaceId: string;
   name?: string;
 };

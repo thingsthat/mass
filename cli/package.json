@@ -16,7 +16,6 @@
   "devDependencies": {
     "eslint": "^9.39.4",
     "@types/inquirer": "^9.0.7",
-    "esbuild-plugin-tsconfig-paths": "^1.0.2",
     "tsup": "^8.3.5",
     "tsx": "^4.19.2",
     "typescript": "^5.9.3"

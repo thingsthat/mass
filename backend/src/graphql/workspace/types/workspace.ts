@@ -1,7 +1,8 @@
+import { GraphQLString, GraphQLNonNull } from 'graphql';
+
 import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { createTypeSafeObjectType } from 'backend/src/graphql/utils/typeSafeGraphQL';
 import { ConversationType } from 'backend/src/graphql/workspace/types/conversation';
-import { GraphQLString, GraphQLNonNull } from 'graphql';
 
 import type { Workspace } from 'core/src/workspace/workspace.types';
 

@@ -1,8 +1,9 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { getCurrentDateSystemPrompt } from 'core/src/llm/systemprompt/systemPromptHelper';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
 import { Persona } from 'core/src/personas/persona.types';
 import { ReportPersonaResponse } from 'core/src/reports/reportResponses.types';
-import { v4 as uuidv4 } from 'uuid';
 
 import { ReportResponseChatRequest } from './reportResponseChatLLM';
 

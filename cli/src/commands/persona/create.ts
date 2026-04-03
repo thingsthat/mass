@@ -4,7 +4,7 @@ import { createPersonasBackground } from 'core/src/personas/functions/createPers
 
 import { isInteractive, number, selectFromList } from 'cli/src/commands/prompts';
 
-export type PersonaCreateOptions = {
+type PersonaCreateOptions = {
   cohortId?: string;
   count: string;
 };

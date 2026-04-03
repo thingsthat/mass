@@ -48,9 +48,7 @@ const parseStructuredResponse = <T>(
       if (!parsed.success) {
         log.error('LLM', 'Structured response failed Zod validation:', parsed.error.flatten());
         log.error('LLM', 'Response text (first 500 chars):', response.text.substring(0, 500));
-        throw new Error(
-          `Structured response validation failed: ${parsed.error.message}`
-        );
+        throw new Error(`Structured response validation failed: ${parsed.error.message}`);
       }
       data = parsed.data as T;
     } else {

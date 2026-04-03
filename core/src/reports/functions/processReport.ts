@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { getDatabaseClient } from 'core/src/database/client';
 import { log } from 'core/src/helpers/logger';
 import { getRandomSubset } from 'core/src/helpers/random';
@@ -24,7 +26,6 @@ import {
 } from 'core/src/tasks/tasksController';
 import { expandPersonaIds } from 'core/src/workspace/expandPersonaIds';
 import { Workspace } from 'core/src/workspace/workspace.types';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { IdeasPersonaResponse } from 'core/src/reports/llm/controllers/report-type-ideas/schemaIdeasResponse';
 import type { QuestionnairePersonaResponse } from 'core/src/reports/llm/controllers/report-type-questionnaire/questionnaireResponseLLM';

@@ -1,8 +1,9 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter, clearProviderCache } from 'core/src/llm/router';
 import { ideasReportSchema } from 'core/src/reports/llm/controllers/report-type-ideas/schemaReportIdeas';
 import { systemPromptIdeasReport } from 'core/src/reports/llm/controllers/report-type-ideas/systemPromptsReportTypeIdeas';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { ProviderId } from 'core/src/llm/config';
 import type { IdeaItem, ReportIdeas } from 'core/src/reports/reports.types';

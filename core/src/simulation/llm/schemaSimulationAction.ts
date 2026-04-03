@@ -1,5 +1,6 @@
-import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 import { z } from 'zod';
+
+import { createSchemaDefinition, type SchemaDefinition } from 'core/src/llm/schemas/schema';
 
 import type { SimulationEffect } from 'core/src/simulation/simulation.types';
 
@@ -70,9 +71,11 @@ export const createSimulationActionResponseFormat = (
         ),
     ])
   );
-  const stanceShiftsSchema = z.object(stanceShiftsShape).describe(
-    'Stance shifts for this step. Each key is a tracked stance; set 0 for unchanged. Only relevant when speaking.'
-  );
+  const stanceShiftsSchema = z
+    .object(stanceShiftsShape)
+    .describe(
+      'Stance shifts for this step. Each key is a tracked stance; set 0 for unchanged. Only relevant when speaking.'
+    );
 
   const worldDeltasShape: Record<string, z.ZodTypeAny> = Object.fromEntries(
     worldDeltaKeys.map(key => [
@@ -85,9 +88,11 @@ export const createSimulationActionResponseFormat = (
         ),
     ])
   );
-  const worldDeltasSchema = z.object(worldDeltasShape).describe(
-    'World variable deltas for this step. Only include variables you are influencing. Only relevant when speaking.'
-  );
+  const worldDeltasSchema = z
+    .object(worldDeltasShape)
+    .describe(
+      'World variable deltas for this step. Only include variables you are influencing. Only relevant when speaking.'
+    );
 
   const beliefVariables = stanceKeyList.join(', ');
   const worldVariables = worldDeltaKeys.join(', ');
@@ -121,10 +126,8 @@ export const createSimulationActionResponseFormat = (
           .describe(
             'Behavioural channel this effect works through. "belief" maps to stance axes. "world" maps to world variables. All other channels use the fixed vocabulary below.'
           ),
-        variable: z
-          .string()
-          .describe(
-            `Variable name for this effect. Use the correct vocabulary for each channel:
+        variable: z.string().describe(
+          `Variable name for this effect. Use the correct vocabulary for each channel:
 - belief: one of [${beliefVariables}]
 - world: one of [${worldVariables}]
 - emotion: one of [${emotionVars}]
@@ -132,7 +135,7 @@ export const createSimulationActionResponseFormat = (
 - identity: one of [${identityVars}]
 - appraisal: one of [${appraisalVars}]
 - relationship: one of [${relationshipVars}]`
-          ),
+        ),
         operator: z
           .enum(['add', 'set', 'decay'])
           .default('add')
@@ -142,11 +145,15 @@ export const createSimulationActionResponseFormat = (
         delta: z
           .number()
           .optional()
-          .describe('Required when operator is "add" or "decay". Small integer, e.g. -3 to +3. Omit when operator is "set".'),
+          .describe(
+            'Required when operator is "add" or "decay". Small integer, e.g. -3 to +3. Omit when operator is "set".'
+          ),
         value: z
           .number()
           .optional()
-          .describe('Required when operator is "set". Absolute target value. Omit when operator is "add" or "decay".'),
+          .describe(
+            'Required when operator is "set". Absolute target value. Omit when operator is "add" or "decay".'
+          ),
         because: z
           .string()
           .optional()
@@ -182,7 +189,9 @@ export const createSimulationActionResponseFormat = (
 export const sanitiseSimulationEffects = (
   effects: SimulationEffect[] | undefined
 ): SimulationEffect[] => {
-  if (!effects || effects.length === 0) return [];
+  if (!effects || effects.length === 0) {
+    return [];
+  }
   return effects.map(effect => {
     const sanitised = { ...effect };
 

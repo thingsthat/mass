@@ -1,8 +1,9 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { log } from 'core/src/helpers/logger';
 import { LLMRouter, clearProviderCache } from 'core/src/llm/router';
 import { questionnaireExtractionSchema } from 'core/src/reports/llm/controllers/report-type-questionnaire/schemaQuestionnaireExtraction';
 import { systemPromptQuestionnaireExtraction } from 'core/src/reports/llm/controllers/report-type-questionnaire/systemPromptsReportTypeQuestionnaire';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { ProviderId } from 'core/src/llm/config';
 import type { QuestionnaireQuestion } from 'core/src/reports/reports.types';

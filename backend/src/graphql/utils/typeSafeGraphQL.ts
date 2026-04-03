@@ -58,13 +58,3 @@ export function createTypeSafeInputType<T>(config: {
     fields: config.fields as () => GraphQLInputFieldConfigMap,
   });
 }
-
-/**
- * Utility type to check if all required fields are present
- * This will cause a TypeScript error if any field is missing
- */
-export type EnsureAllFields<T, U> = {
-  [K in keyof Required<T>]: K extends keyof U ? U[K] : never;
-} & {
-  [K in keyof U]: K extends keyof T ? U[K] : never;
-};

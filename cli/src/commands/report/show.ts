@@ -9,7 +9,7 @@ import { isInteractive, selectFromList } from 'cli/src/commands/prompts';
 
 import type { ReportData, ReportResult } from 'core/src/reports/reports.types';
 
-export type ReportShowOptions = {
+type ReportShowOptions = {
   reportId?: string;
   outPath?: string;
 };

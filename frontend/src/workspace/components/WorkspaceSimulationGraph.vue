@@ -1,13 +1,16 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted, watch, computed } from 'vue';
-import { X, CheckCircle2, ArrowUpRight } from 'lucide-vue-next';
 import * as d3 from 'd3';
+import { X, CheckCircle2 } from 'lucide-vue-next';
+import { ref, onMounted, onUnmounted, watch, computed } from 'vue';
 
 import PersonaAvatar from 'frontend/src/components/PersonaAvatar.vue';
 
-import type { Workspace } from 'core/src/workspace/workspace.types';
-import type { InterventionHistoryEntry, SimulationWorkflow } from 'core/src/simulation/simulation.types';
 import type { PersonaItem } from 'core/src/personas/persona.types';
+import type {
+  InterventionHistoryEntry,
+  SimulationWorkflow,
+} from 'core/src/simulation/simulation.types';
+import type { Workspace } from 'core/src/workspace/workspace.types';
 
 const CORE_ISSUE_NODE_ID = 'core-issue';
 const INTERVENTION_NODE_RADIUS = 12;
@@ -90,13 +93,7 @@ const availableStanceKeys = computed(() => {
   return keys?.length ? keys : ['default'];
 });
 
-const STANCE_LEGEND_COLOURS = [
-  '#dc2626',
-  '#2563eb',
-  '#059669',
-  '#d97706',
-  '#7c3aed',
-];
+const STANCE_LEGEND_COLOURS = ['#dc2626', '#2563eb', '#059669', '#d97706', '#7c3aed'];
 
 const stanceLegendItems = computed(() =>
   availableStanceKeys.value.map((key, index) => ({
@@ -116,10 +113,18 @@ function formatStanceKey(key: string): string {
 }
 
 function getNodeGroupLabel(group: GraphNode['group']): string {
-  if (group === 'issue') return 'Issue';
-  if (group === 'intervention') return 'Intervention';
-  if (group === 'variable') return 'Variable';
-  if (group === 'stanceAxis') return 'Stance axis';
+  if (group === 'issue') {
+    return 'Issue';
+  }
+  if (group === 'intervention') {
+    return 'Intervention';
+  }
+  if (group === 'variable') {
+    return 'Variable';
+  }
+  if (group === 'stanceAxis') {
+    return 'Stance axis';
+  }
   return 'Persona';
 }
 
@@ -135,7 +140,9 @@ function resolveDominantStanceKey(
   let maxDistance = -1;
   for (const key of keys) {
     const value = scores[key];
-    if (typeof value !== 'number' || Number.isNaN(value)) continue;
+    if (typeof value !== 'number' || Number.isNaN(value)) {
+      continue;
+    }
     const distance = Math.abs(value - NEUTRAL_STANCE);
     if (distance > maxDistance) {
       maxDistance = distance;
@@ -152,11 +159,17 @@ function resolveStanceDisplay(
 ): number {
   const scores = stanceScores ?? {};
   const keys = stanceKeys?.length ? stanceKeys : ['default'];
-  if (activeKey && typeof scores[activeKey] === 'number') return scores[activeKey];
+  if (activeKey && typeof scores[activeKey] === 'number') {
+    return scores[activeKey];
+  }
   const firstFound = keys.find(k => typeof scores[k] === 'number');
-  if (firstFound !== undefined) return scores[firstFound];
+  if (firstFound !== undefined) {
+    return scores[firstFound];
+  }
   const values = Object.values(scores).filter((v): v is number => typeof v === 'number');
-  if (values.length > 0) return values.reduce((a, b) => a + b, 0) / values.length;
+  if (values.length > 0) {
+    return values.reduce((a, b) => a + b, 0) / values.length;
+  }
   return NEUTRAL_STANCE;
 }
 
@@ -200,10 +213,14 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
 
   personaIds.forEach(personaId => {
     const persona = props.personasAll.find(p => p.id === personaId);
-    const meta = personaMetadata[personaId] as { stance_scores?: Record<string, number>; memories?: string[] } | undefined;
+    const meta = personaMetadata[personaId] as
+      | { stance_scores?: Record<string, number>; memories?: string[] }
+      | undefined;
     const stance = resolveStanceDisplay(meta?.stance_scores, stanceKeys, primaryKey);
     const dominantKey = resolveDominantStanceKey(meta?.stance_scores, keysForDominant);
-    const stanceColour = dominantKey ? (keyToColour.get(dominantKey) ?? neutralColour) : neutralColour;
+    const stanceColour = dominantKey
+      ? (keyToColour.get(dominantKey) ?? neutralColour)
+      : neutralColour;
     const name = persona?.name ?? personaId.slice(0, 8);
     nodes.push({
       id: personaId,
@@ -299,9 +316,13 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
     Object.entries(entry.effects ?? {}).forEach(([key, rawValue]) => {
       const numericValue =
         typeof rawValue === 'number' && !Number.isNaN(rawValue) ? rawValue : null;
-      if (numericValue == null) return;
+      if (numericValue == null) {
+        return;
+      }
       const variableNode = variableNodesByKey.get(key);
-      if (!variableNode) return;
+      if (!variableNode) {
+        return;
+      }
       const sign: 'positive' | 'negative' | undefined =
         numericValue > 0 ? 'positive' : numericValue < 0 ? 'negative' : undefined;
       links.push({
@@ -323,25 +344,40 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
 
   messages.forEach(message => {
     const personaId = message.persona_id;
-    if (!personaId || !personaIds.includes(personaId)) return;
+    if (!personaId || !personaIds.includes(personaId)) {
+      return;
+    }
     const meta = message._metadata;
     const simEffects = meta?.simulationEffects as SimulationEffectsMeta | undefined;
-    if (!simEffects) return;
+    if (!simEffects) {
+      return;
+    }
 
     const stanceShifts = simEffects.stance_shifts ?? {};
     Object.entries(stanceShifts).forEach(([key, delta]) => {
-      if (typeof delta !== 'number' || Number.isNaN(delta) || delta === 0) return;
-      if (!stanceAxisNodesByKey.has(key)) return;
+      if (typeof delta !== 'number' || Number.isNaN(delta) || delta === 0) {
+        return;
+      }
+      if (!stanceAxisNodesByKey.has(key)) {
+        return;
+      }
       const edgeKey = `${personaId}||stance-${key}`;
       personaStanceAccumulator.set(edgeKey, (personaStanceAccumulator.get(edgeKey) ?? 0) + delta);
     });
 
     const worldDeltas = simEffects.world_deltas ?? {};
     Object.entries(worldDeltas).forEach(([key, delta]) => {
-      if (typeof delta !== 'number' || Number.isNaN(delta) || delta === 0) return;
-      if (!variableNodesByKey.has(key)) return;
+      if (typeof delta !== 'number' || Number.isNaN(delta) || delta === 0) {
+        return;
+      }
+      if (!variableNodesByKey.has(key)) {
+        return;
+      }
       const edgeKey = `${personaId}||variable-${key}`;
-      personaVariableAccumulator.set(edgeKey, (personaVariableAccumulator.get(edgeKey) ?? 0) + delta);
+      personaVariableAccumulator.set(
+        edgeKey,
+        (personaVariableAccumulator.get(edgeKey) ?? 0) + delta
+      );
     });
   });
 
@@ -366,7 +402,9 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
   causalEdgeCandidates
     .sort((a, b) => Math.abs(b.netDelta) - Math.abs(a.netDelta))
     .forEach(({ edgeKey, netDelta, edgeType }) => {
-      if (Math.abs(netDelta) < EDGE_SIGNIFICANCE_THRESHOLD) return;
+      if (Math.abs(netDelta) < EDGE_SIGNIFICANCE_THRESHOLD) {
+        return;
+      }
       const separatorIndex = edgeKey.indexOf('||');
       const personaId = edgeKey.slice(0, separatorIndex);
       const rawTargetKey = edgeKey.slice(separatorIndex + 2);
@@ -375,7 +413,9 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
       if (edgeType === 'persona-stance') {
         const targetKey = rawTargetKey.replace('stance-', '');
         const stanceNode = stanceAxisNodesByKey.get(targetKey);
-        if (!stanceNode) return;
+        if (!stanceNode) {
+          return;
+        }
         links.push({
           source: personaId,
           target: stanceNode.id,
@@ -388,7 +428,9 @@ const graphData = computed((): { nodes: GraphNode[]; links: GraphLink[] } => {
       } else {
         const targetKey = rawTargetKey.replace('variable-', '');
         const variableNode = variableNodesByKey.get(targetKey);
-        if (!variableNode) return;
+        if (!variableNode) {
+          return;
+        }
         links.push({
           source: personaId,
           target: variableNode.id,
@@ -413,7 +455,9 @@ const filteredGraphData = computed((): { nodes: GraphNode[]; links: GraphLink[] 
   const stanceFilter = filterStanceKeys.value;
   const hasStanceFilter = stanceFilter.size > 0;
   nodes.forEach(node => {
-    if (node.group === 'issue') return;
+    if (node.group === 'issue') {
+      return;
+    }
     if (node.group === 'intervention') {
       includeNodeIds.add(node.id);
       return;
@@ -431,7 +475,9 @@ const filteredGraphData = computed((): { nodes: GraphNode[]; links: GraphLink[] 
     const passesStanceFilter =
       !hasStanceFilter ||
       (node.dominantStanceKey != null && stanceFilter.has(node.dominantStanceKey));
-    if (!passesStanceFilter) return;
+    if (!passesStanceFilter) {
+      return;
+    }
     const stance = node.stance ?? 5;
     const isLow = stance <= 5;
     const isHigh = stance >= 5;
@@ -448,30 +494,31 @@ const filteredGraphData = computed((): { nodes: GraphNode[]; links: GraphLink[] 
 
 function toggleStanceFilter(key: string): void {
   const next = new Set(filterStanceKeys.value);
-  if (next.has(key)) next.delete(key);
-  else next.add(key);
+  if (next.has(key)) {
+    next.delete(key);
+  } else {
+    next.add(key);
+  }
   filterStanceKeys.value = next;
 }
 
 function isStanceFilterActive(key: string): boolean {
   const stanceFilter = filterStanceKeys.value;
-  if (stanceFilter.size === 0) return true;
+  if (stanceFilter.size === 0) {
+    return true;
+  }
   return stanceFilter.has(key);
 }
 
 const dashboardVariables = computed(() => {
   const wf = simulationWorkflow.value;
-  if (!wf?.variables) return null;
+  if (!wf?.variables) {
+    return null;
+  }
   return wf.variables as Record<string, number | string | boolean>;
 });
 
-const VARIABLE_CHART_COLOURS = [
-  '#dc2626',
-  '#2563eb',
-  '#059669',
-  '#d97706',
-  '#7c3aed',
-];
+const VARIABLE_CHART_COLOURS = ['#dc2626', '#2563eb', '#059669', '#d97706', '#7c3aed'];
 
 type VariableChartSeries = {
   key: string;
@@ -482,7 +529,9 @@ type VariableChartSeries = {
 
 const variableChartSeries = computed((): VariableChartSeries[] => {
   const wf = simulationWorkflow.value;
-  if (!wf) return [];
+  if (!wf) {
+    return [];
+  }
   const history = wf.variable_history ?? [];
   const current = wf.variables ?? {};
   const stepsAndVars =
@@ -491,7 +540,9 @@ const variableChartSeries = computed((): VariableChartSeries[] => {
   const numericKeys = new Set<string>();
   sorted.forEach(({ variables }) => {
     Object.entries(variables).forEach(([k, v]) => {
-      if (typeof v === 'number' && !Number.isNaN(v)) numericKeys.add(k);
+      if (typeof v === 'number' && !Number.isNaN(v)) {
+        numericKeys.add(k);
+      }
     });
   });
   return Array.from(numericKeys)
@@ -551,17 +602,24 @@ const appliedInterventions = computed(() => {
 });
 
 function formatInterventionEffects(effects: Record<string, unknown>): string {
-  if (!effects || typeof effects !== 'object') return '';
+  if (!effects || typeof effects !== 'object') {
+    return '';
+  }
   return Object.entries(effects)
     .map(([key, value]) => `${formatStanceKey(key)}: ${String(value)}`)
     .join(', ');
 }
 
 let resizeObserver: ResizeObserver | null = null;
-let simulation: d3.Simulation<d3.SimulationNodeDatum & GraphNode, d3.SimulationLinkDatum<d3.SimulationNodeDatum & GraphNode>> | null = null;
+let simulation: d3.Simulation<
+  d3.SimulationNodeDatum & GraphNode,
+  d3.SimulationLinkDatum<d3.SimulationNodeDatum & GraphNode>
+> | null = null;
 
 function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
-  if (!svgRef.value || dimensions.value.width === 0) return;
+  if (!svgRef.value || dimensions.value.width === 0) {
+    return;
+  }
   const svg = d3.select(svgRef.value);
   svg.selectAll('*').remove();
 
@@ -594,11 +652,12 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
 
   const nodesWithPosition = nodes.map(n => ({ ...n })) as (GraphNode & d3.SimulationNodeDatum)[];
   const interventionNodes = nodesWithPosition.filter(n => n.group === 'intervention');
-  interventionNodes.forEach((node, index) => {
+  for (let index = 0; index < interventionNodes.length; index++) {
+    const node = interventionNodes[index];
     const angle = (index / Math.max(1, interventionNodes.length)) * 2 * Math.PI - Math.PI / 2;
     node.fx = INTERVENTION_RING_RADIUS * Math.cos(angle);
     node.fy = INTERVENTION_RING_RADIUS * Math.sin(angle);
-  });
+  }
   const linksWithNodes = links.map(l => ({
     ...l,
     source: l.source,
@@ -618,22 +677,40 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
     .force('center', d3.forceCenter(0, 0))
     .force(
       'y',
-      d3.forceY<GraphNode & d3.SimulationNodeDatum>(d => {
-        if (d.group === 'intervention') return -80;
-        if (d.group === 'variable') return 0;
-        if (d.group === 'stanceAxis') return 40;
-        if (d.group === 'persona') return 100;
-        return 0;
-      }).strength(0.08)
+      d3
+        .forceY<GraphNode & d3.SimulationNodeDatum>(d => {
+          if (d.group === 'intervention') {
+            return -80;
+          }
+          if (d.group === 'variable') {
+            return 0;
+          }
+          if (d.group === 'stanceAxis') {
+            return 40;
+          }
+          if (d.group === 'persona') {
+            return 100;
+          }
+          return 0;
+        })
+        .strength(0.08)
     )
     .force(
       'x',
-      d3.forceX<GraphNode & d3.SimulationNodeDatum>(d => {
-        if (d.group === 'intervention') return -60;
-        if (d.group === 'variable') return 0;
-        if (d.group === 'stanceAxis') return 80;
-        return 0;
-      }).strength(0.06)
+      d3
+        .forceX<GraphNode & d3.SimulationNodeDatum>(d => {
+          if (d.group === 'intervention') {
+            return -60;
+          }
+          if (d.group === 'variable') {
+            return 0;
+          }
+          if (d.group === 'stanceAxis') {
+            return 80;
+          }
+          return 0;
+        })
+        .strength(0.06)
     )
     .force(
       'collide',
@@ -648,16 +725,26 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
     .attr('class', 'graph-link')
     .attr('stroke', (d: GraphLink & { value: number }) => {
       if (d.type === 'intervention-variable') {
-        if (d.sign === 'positive') return '#16a34a';
-        if (d.sign === 'negative') return '#dc2626';
+        if (d.sign === 'positive') {
+          return '#16a34a';
+        }
+        if (d.sign === 'negative') {
+          return '#dc2626';
+        }
         return '#7c3aed';
       }
       if (d.type === 'persona-variable' || d.type === 'persona-stance') {
-        if (d.sign === 'positive') return '#22c55e';
-        if (d.sign === 'negative') return '#f97316';
+        if (d.sign === 'positive') {
+          return '#22c55e';
+        }
+        if (d.sign === 'negative') {
+          return '#f97316';
+        }
         return '#60a5fa';
       }
-      if (d.type === 'intervention-issue') return '#7c3aed';
+      if (d.type === 'intervention-issue') {
+        return '#7c3aed';
+      }
       return '#fca5a5';
     })
     .attr('stroke-width', (d: GraphLink & { value: number; weight?: number }) => {
@@ -665,8 +752,12 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
       return Math.max(0.8, Math.min(4, Math.sqrt(base)));
     })
     .attr('stroke-opacity', (d: GraphLink & { value: number }) => {
-      if (d.type === 'intervention-variable' || d.type === 'intervention-issue') return 0.85;
-      if (d.type === 'persona-variable' || d.type === 'persona-stance') return 0.2;
+      if (d.type === 'intervention-variable' || d.type === 'intervention-issue') {
+        return 0.85;
+      }
+      if (d.type === 'persona-variable' || d.type === 'persona-stance') {
+        return 0.2;
+      }
       return 0.45;
     });
 
@@ -683,7 +774,9 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
     .attr('class', 'graph-node')
     .attr('r', (d: GraphNode & d3.SimulationNodeDatum) => d.radius ?? 5)
     .attr('fill', (d: GraphNode & d3.SimulationNodeDatum) => {
-      if (d.group === 'issue') return '#6b7280';
+      if (d.group === 'issue') {
+        return '#6b7280';
+      }
       return d.stanceColour ?? '#6b7280';
     })
     .attr('cursor', 'pointer')
@@ -710,9 +803,7 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
 
   const nodesWithLabels = nodesWithPosition.filter(
     (d: GraphNode & d3.SimulationNodeDatum) =>
-      d.group === 'intervention' ||
-      d.group === 'issue' ||
-      d.group === 'variable'
+      d.group === 'intervention' || d.group === 'issue' || d.group === 'variable'
   );
   const labels = g
     .append('g')
@@ -744,8 +835,12 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
       linksWithNodes.forEach(l => {
         const src = String(l.source);
         const tgt = String(l.target);
-        if (src === selectedId) neighbourIds.add(tgt);
-        if (tgt === selectedId) neighbourIds.add(src);
+        if (src === selectedId) {
+          neighbourIds.add(tgt);
+        }
+        if (tgt === selectedId) {
+          neighbourIds.add(src);
+        }
       });
     }
 
@@ -761,18 +856,25 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
             : d.type === 'persona-variable' || d.type === 'persona-stance'
               ? 0.2
               : 0.45;
-        if (!selectedId) return baseOpacity;
+        if (!selectedId) {
+          return baseOpacity;
+        }
         const src = String(d.source);
         const tgt = String(d.target);
         const isNeighbour =
-          src === selectedId || tgt === selectedId || neighbourIds.has(src) || neighbourIds.has(tgt);
+          src === selectedId ||
+          tgt === selectedId ||
+          neighbourIds.has(src) ||
+          neighbourIds.has(tgt);
         return isNeighbour ? Math.min(baseOpacity * 2.5, 0.9) : baseOpacity * 0.1;
       });
     node
       .attr('cx', (d: GraphNode & d3.SimulationNodeDatum) => d.x ?? 0)
       .attr('cy', (d: GraphNode & d3.SimulationNodeDatum) => d.y ?? 0)
       .attr('fill-opacity', (d: GraphNode & d3.SimulationNodeDatum) => {
-        if (!selectedId) return 1;
+        if (!selectedId) {
+          return 1;
+        }
         const isSelected = d.id === selectedId;
         const isNeighbour = neighbourIds.has(d.id);
         return isSelected || isNeighbour ? 1 : 0.2;
@@ -781,7 +883,9 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
       .attr('cx', (d: GraphNode & d3.SimulationNodeDatum) => d.x ?? 0)
       .attr('cy', (d: GraphNode & d3.SimulationNodeDatum) => d.y ?? 0)
       .attr('fill-opacity', (d: GraphNode & d3.SimulationNodeDatum) => {
-        if (!selectedId) return 1;
+        if (!selectedId) {
+          return 1;
+        }
         const isSelected = d.id === selectedId;
         const isNeighbour = neighbourIds.has(d.id);
         return isSelected || isNeighbour ? 1 : 0.2;
@@ -793,7 +897,9 @@ function runSimulation(nodes: GraphNode[], links: GraphLink[]) {
       })
       .attr('y', (d: GraphNode & d3.SimulationNodeDatum) => d.y ?? 0)
       .attr('fill-opacity', (d: GraphNode & d3.SimulationNodeDatum) => {
-        if (!selectedId) return 1;
+        if (!selectedId) {
+          return 1;
+        }
         const isSelected = d.id === selectedId;
         const isNeighbour = neighbourIds.has(d.id);
         return isSelected || isNeighbour ? 1 : 0.15;
@@ -836,9 +942,13 @@ watch(
 function drawVariableChart() {
   const container = variableChartRef.value;
   const series = variableChartSeries.value;
-  if (!container || series.length === 0) return;
+  if (!container || series.length === 0) {
+    return;
+  }
   const width = container.clientWidth;
-  if (width <= 0) return;
+  if (width <= 0) {
+    return;
+  }
 
   const margin = { top: 12, right: 12, bottom: 24, left: 36 };
   const height = variableChartHeight - margin.top - margin.bottom;
@@ -860,10 +970,7 @@ function drawVariableChart() {
   const valueMaxPadded = valueMax + padding;
 
   const xScale = d3.scaleLinear().domain([stepDomainMin, stepDomainMax]).range([0, innerWidth]);
-  const yScale = d3
-    .scaleLinear()
-    .domain([valueMinPadded, valueMaxPadded])
-    .range([height, 0]);
+  const yScale = d3.scaleLinear().domain([valueMinPadded, valueMaxPadded]).range([height, 0]);
 
   const line = d3
     .line<{ step: number; value: number }>()
@@ -889,11 +996,21 @@ function drawVariableChart() {
   const xAxis = d3.axisBottom(xScale).ticks(Math.min(stepMax - stepMin + 1, 10));
   const yAxis = d3.axisLeft(yScale);
 
-  gEnter.append('g').attr('transform', `translate(0,${height})`).call(xAxis).attr('class', 'text-muted-foreground');
+  gEnter
+    .append('g')
+    .attr('transform', `translate(0,${height})`)
+    .call(xAxis)
+    .attr('class', 'text-muted-foreground');
   gEnter.append('g').call(yAxis).attr('class', 'text-muted-foreground');
 
   series.forEach(s => {
-    gEnter.append('path').datum(s.points).attr('fill', 'none').attr('stroke', s.colour).attr('stroke-width', 2).attr('d', line);
+    gEnter
+      .append('path')
+      .datum(s.points)
+      .attr('fill', 'none')
+      .attr('stroke', s.colour)
+      .attr('stroke-width', 2)
+      .attr('d', line);
 
     gEnter
       .selectAll(`circle.chart-point-${s.key}`)
@@ -907,11 +1024,10 @@ function drawVariableChart() {
   });
 }
 
-watch(
-  [variableChartRef, variableChartSeries],
-  () => drawVariableChart(),
-  { flush: 'post', deep: true }
-);
+watch([variableChartRef, variableChartSeries], () => drawVariableChart(), {
+  flush: 'post',
+  deep: true,
+});
 
 const clearSelection = () => {
   selectedNode.value = null;
@@ -938,10 +1054,16 @@ const clearSelection = () => {
             <span class="font-medium text-foreground">{{ selectedNode.name }}</span>
           </div>
           <div class="flex items-center gap-2">
-            <span class="rounded-full px-2 py-0.5 text-xs font-medium border border-border bg-muted text-muted-foreground">
+            <span
+              class="rounded-full px-2 py-0.5 text-xs font-medium border border-border bg-muted text-muted-foreground"
+            >
               {{ getNodeGroupLabel(selectedNode.group) }}
             </span>
-            <button type="button" class="cursor-pointer text-muted-foreground hover:text-muted-foreground" @click="clearSelection">
+            <button
+              type="button"
+              class="cursor-pointer text-muted-foreground hover:text-muted-foreground"
+              @click="clearSelection"
+            >
               <X class="h-4 w-4" />
             </button>
           </div>
@@ -953,47 +1075,85 @@ const clearSelection = () => {
               <span class="text-foreground">{{ selectedNode.interventionEntry.status }}</span>
               <span class="text-muted-foreground">Type</span>
               <span class="text-foreground">{{ selectedNode.interventionEntry.type }}</span>
-              <span v-if="selectedNode.interventionEntry.trigger_step !== undefined" class="text-muted-foreground">Trigger step</span>
-              <span v-if="selectedNode.interventionEntry.trigger_step !== undefined" class="text-foreground">{{ selectedNode.interventionEntry.trigger_step }}</span>
-              <span v-if="selectedNode.interventionEntry.applied_step !== undefined" class="text-muted-foreground">Applied step</span>
-              <span v-if="selectedNode.interventionEntry.applied_step !== undefined" class="text-foreground">{{ selectedNode.interventionEntry.applied_step }}</span>
+              <span
+                v-if="selectedNode.interventionEntry.trigger_step !== undefined"
+                class="text-muted-foreground"
+                >Trigger step</span
+              >
+              <span
+                v-if="selectedNode.interventionEntry.trigger_step !== undefined"
+                class="text-foreground"
+                >{{ selectedNode.interventionEntry.trigger_step }}</span
+              >
+              <span
+                v-if="selectedNode.interventionEntry.applied_step !== undefined"
+                class="text-muted-foreground"
+                >Applied step</span
+              >
+              <span
+                v-if="selectedNode.interventionEntry.applied_step !== undefined"
+                class="text-foreground"
+                >{{ selectedNode.interventionEntry.applied_step }}</span
+              >
             </div>
             <div v-if="selectedNode.interventionEntry.description">
               <h3 class="mb-1 text-sm font-medium text-foreground">Description</h3>
-              <p class="text-sm leading-relaxed text-muted-foreground">{{ selectedNode.interventionEntry.description }}</p>
+              <p class="text-sm leading-relaxed text-muted-foreground">
+                {{ selectedNode.interventionEntry.description }}
+              </p>
             </div>
             <div v-if="formatInterventionEffects(selectedNode.interventionEntry.effects)">
               <h3 class="mb-1 text-sm font-medium text-foreground">Effects</h3>
-              <p class="text-xs font-mono text-muted-foreground">{{ formatInterventionEffects(selectedNode.interventionEntry.effects) }}</p>
+              <p class="text-xs font-mono text-muted-foreground">
+                {{ formatInterventionEffects(selectedNode.interventionEntry.effects) }}
+              </p>
             </div>
           </template>
           <template v-else>
             <div class="grid grid-cols-[80px_1fr] gap-y-2 text-sm">
-              <template v-if="selectedNode.group === 'persona' && selectedNode.stance !== undefined">
-                <span class="text-muted-foreground">{{ availableStanceKeys[0] === 'default' ? 'Stance' : formatStanceKey(availableStanceKeys[0]) }}:</span>
+              <template
+                v-if="selectedNode.group === 'persona' && selectedNode.stance !== undefined"
+              >
+                <span class="text-muted-foreground"
+                  >{{
+                    availableStanceKeys[0] === 'default'
+                      ? 'Stance'
+                      : formatStanceKey(availableStanceKeys[0])
+                  }}:</span
+                >
                 <span class="text-foreground">{{ selectedNode.stance }}/10</span>
               </template>
               <template v-else-if="selectedNode.group === 'variable'">
                 <span class="text-muted-foreground">Value</span>
                 <span class="text-foreground">{{ selectedNode.details.summary || 'Unknown' }}</span>
                 <span v-if="selectedNode.graphKey" class="text-muted-foreground">Key</span>
-                <span v-if="selectedNode.graphKey" class="text-foreground">{{ selectedNode.graphKey }}</span>
+                <span v-if="selectedNode.graphKey" class="text-foreground">{{
+                  selectedNode.graphKey
+                }}</span>
               </template>
               <template v-else-if="selectedNode.group === 'stanceAxis'">
                 <span class="text-muted-foreground">Axis key</span>
-                <span class="text-foreground">{{ selectedNode.graphKey ?? selectedNode.name }}</span>
+                <span class="text-foreground">{{
+                  selectedNode.graphKey ?? selectedNode.name
+                }}</span>
               </template>
             </div>
             <div v-if="selectedNode.group === 'persona' && selectedNode.details.summary">
               <h3 class="mb-1 text-sm font-medium text-foreground">Summary</h3>
-              <p class="text-sm leading-relaxed text-muted-foreground">{{ selectedNode.details.summary }}</p>
+              <p class="text-sm leading-relaxed text-muted-foreground">
+                {{ selectedNode.details.summary }}
+              </p>
             </div>
           </template>
         </div>
       </div>
 
-      <div class="absolute max-w-xl bottom-4 left-4 z-10 rounded-lg border border-border bg-background/90 p-3 shadow-sm backdrop-blur-sm">
-        <h3 class="mb-2 text-sm font-medium tracking-wider text-muted-foreground">Persona stances</h3>
+      <div
+        class="absolute max-w-xl bottom-4 left-4 z-10 rounded-lg border border-border bg-background/90 p-3 shadow-sm backdrop-blur-sm"
+      >
+        <h3 class="mb-2 text-sm font-medium tracking-wider text-muted-foreground">
+          Persona stances
+        </h3>
         <div class="flex flex-wrap items-center gap-3 text-sm text-foreground">
           <button
             type="button"
@@ -1044,9 +1204,13 @@ const clearSelection = () => {
       <div class="flex flex-col gap-6 p-4 pt-20">
         <div class="rounded-xl border border-border bg-background p-5 shadow-sm">
           <p class="mb-4 text-sm text-muted-foreground">
-            Simulation workflow state and world variables. Personas are linked to the core issue by stance.
+            Simulation workflow state and world variables. Personas are linked to the core issue by
+            stance.
           </p>
-          <div v-if="dashboardVariables" class="grid grid-cols-3 divide-x divide-border text-center">
+          <div
+            v-if="dashboardVariables"
+            class="grid grid-cols-3 divide-x divide-border text-center"
+          >
             <template v-for="(val, key) in dashboardVariables" :key="key">
               <div class="flex flex-col">
                 <span class="text-3xl font-bold text-foreground">{{ val }}</span>
@@ -1056,24 +1220,35 @@ const clearSelection = () => {
           </div>
           <div v-else class="text-sm text-muted-foreground">No variables yet.</div>
           <div v-if="simulationWorkflow && variableChartSeries.length > 0" class="mt-4">
-            <div ref="variableChartRef" class="w-full" :style="{ height: `${variableChartHeight}px` }" />
+            <div
+              ref="variableChartRef"
+              class="w-full"
+              :style="{ height: `${variableChartHeight}px` }"
+            />
             <div class="mt-2 flex flex-wrap gap-3 text-xs text-muted-foreground">
-              <span
-                v-for="s in variableChartSeries"
-                :key="s.key"
-                class="flex items-center gap-1.5"
-              >
-                <span class="h-2 w-2 shrink-0 rounded-full" :style="{ backgroundColor: s.colour }" />
+              <span v-for="s in variableChartSeries" :key="s.key" class="flex items-center gap-1.5">
+                <span
+                  class="h-2 w-2 shrink-0 rounded-full"
+                  :style="{ backgroundColor: s.colour }"
+                />
                 {{ s.label }}
               </span>
             </div>
           </div>
-          <p v-else-if="simulationWorkflow && dashboardVariables && Object.keys(dashboardVariables).length > 0" class="mt-4 text-sm text-muted-foreground">
+          <p
+            v-else-if="
+              simulationWorkflow && dashboardVariables && Object.keys(dashboardVariables).length > 0
+            "
+            class="mt-4 text-sm text-muted-foreground"
+          >
             Run simulation to see change over time.
           </p>
         </div>
 
-        <div v-if="simulationWorkflow" class="flex flex-col gap-4 rounded-xl border border-border bg-background p-5 shadow-sm">
+        <div
+          v-if="simulationWorkflow"
+          class="flex flex-col gap-4 rounded-xl border border-border bg-background p-5 shadow-sm"
+        >
           <div class="flex items-start justify-between">
             <div>
               <h2 class="text-lg font-semibold text-foreground">Simulation</h2>
@@ -1109,7 +1284,9 @@ const clearSelection = () => {
             >
               <div class="flex items-center justify-between gap-2">
                 <span class="font-medium text-foreground">{{ entry.title }}</span>
-                <span class="shrink-0 rounded px-2 py-0.5 text-xs font-medium border border-amber-200 bg-amber-50 text-amber-800">
+                <span
+                  class="shrink-0 rounded px-2 py-0.5 text-xs font-medium border border-amber-200 bg-amber-50 text-amber-800"
+                >
                   {{ entry.type }}
                 </span>
               </div>
@@ -1119,7 +1296,10 @@ const clearSelection = () => {
               <p v-if="entry.description" class="text-sm text-muted-foreground">
                 {{ entry.description }}
               </p>
-              <p v-if="formatInterventionEffects(entry.effects)" class="text-xs font-mono text-muted-foreground">
+              <p
+                v-if="formatInterventionEffects(entry.effects)"
+                class="text-xs font-mono text-muted-foreground"
+              >
                 Effects: {{ formatInterventionEffects(entry.effects) }}
               </p>
             </li>
@@ -1139,7 +1319,9 @@ const clearSelection = () => {
             >
               <div class="flex items-center justify-between gap-2">
                 <span class="font-medium text-foreground">{{ entry.title }}</span>
-                <span class="shrink-0 rounded px-2 py-0.5 text-xs font-medium border border-emerald-200 bg-emerald-50 text-emerald-800">
+                <span
+                  class="shrink-0 rounded px-2 py-0.5 text-xs font-medium border border-emerald-200 bg-emerald-50 text-emerald-800"
+                >
                   {{ entry.type }}
                 </span>
               </div>
@@ -1149,7 +1331,10 @@ const clearSelection = () => {
               <p v-if="entry.description" class="text-sm text-muted-foreground">
                 {{ entry.description }}
               </p>
-              <p v-if="formatInterventionEffects(entry.effects)" class="text-xs font-mono text-muted-foreground">
+              <p
+                v-if="formatInterventionEffects(entry.effects)"
+                class="text-xs font-mono text-muted-foreground"
+              >
                 Effects: {{ formatInterventionEffects(entry.effects) }}
               </p>
             </li>
@@ -1173,8 +1358,15 @@ const clearSelection = () => {
                   <template v-if="Object.keys(agent.stanceScores).length === 0">
                     <span class="text-xs text-muted-foreground">Stance –/10</span>
                   </template>
-                  <template v-else-if="Object.keys(agent.stanceScores).length === 1 && 'default' in agent.stanceScores">
-                    <span class="text-xs text-muted-foreground">Stance {{ agent.stanceScores.default }}/10</span>
+                  <template
+                    v-else-if="
+                      Object.keys(agent.stanceScores).length === 1 &&
+                      'default' in agent.stanceScores
+                    "
+                  >
+                    <span class="text-xs text-muted-foreground"
+                      >Stance {{ agent.stanceScores.default }}/10</span
+                    >
                   </template>
                   <template v-else>
                     <span
@@ -1190,10 +1382,7 @@ const clearSelection = () => {
             </div>
           </div>
         </div>
-
-        
       </div>
-
     </div>
   </div>
 </template>

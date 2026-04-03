@@ -1,5 +1,6 @@
-import { getEnv } from 'core/src/env';
 import packageJson from '~/package.json';
+
+import { getEnv } from 'core/src/env';
 
 /**
  * Universal logger utility that works in both browser and Node.js environments.
@@ -43,8 +44,7 @@ const isNode =
 const isCli = getEnv('MASS_CLI') === 'true' || getEnv('MASS_USE_JSON_STORE') === 'true';
 const usePlainLog = isNode || isCli;
 
-const isDev = (): boolean =>
-  isNode && getEnv('NODE_ENV') !== 'production';
+const isDev = (): boolean => isNode && getEnv('NODE_ENV') !== 'production';
 
 const isVerbose = (): boolean =>
   isDev() ||

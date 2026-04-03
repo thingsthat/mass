@@ -1,6 +1,7 @@
+import { GraphQLString, GraphQLNonNull } from 'graphql';
+
 import { GraphQLJSON, GraphQLUUID } from 'backend/src/graphql/types/common';
 import { createTypeSafeObjectType } from 'backend/src/graphql/utils/typeSafeGraphQL';
-import { GraphQLString, GraphQLNonNull } from 'graphql';
 
 import type { Cohort } from 'core/src/personas/cohort.types';
 

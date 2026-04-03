@@ -7,7 +7,7 @@ import {
 } from 'core/src/simulation/simulationController';
 import { getTaskById } from 'core/src/tasks/tasksController';
 
-export type RunSimulationRunOptions = {
+type RunSimulationRunOptions = {
   taskId?: string;
   workspaceId?: string;
   maxSteps?: number;

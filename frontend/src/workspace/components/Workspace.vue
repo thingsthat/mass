@@ -33,13 +33,13 @@ import {
   upsertWorkspaceConversation,
 } from 'frontend/src/workspace/workspaceApi';
 
+import type { SimulationWorkflow } from 'core/src/simulation/simulation.types';
 import type {
   InlineReportMessagePayload,
   InlineReportType,
   Message as ConversationMessage,
 } from 'core/src/workspace/conversation.types';
 import type { Workspace } from 'core/src/workspace/workspace.types';
-import type { SimulationWorkflow } from 'core/src/simulation/simulation.types';
 import type { PromptInputMessage } from 'frontend/src/components/ai-elements/prompt-input/types';
 import type { ModeOption, PromptMode } from 'frontend/src/workspace/components/WorkspacePrompt.vue';
 
@@ -82,7 +82,9 @@ const isSimulationWorkspace = computed((): boolean => {
 
 const isSimulationRunning = computed((): boolean => {
   const wf = workspace.value?.workflow;
-  if (!wf || typeof wf !== 'object') return false;
+  if (!wf || typeof wf !== 'object') {
+    return false;
+  }
   const sim = wf as SimulationWorkflow;
   return sim.type === 'simulation' && sim.status === 'running';
 });
@@ -230,7 +232,9 @@ let simulationPollIntervalId: ReturnType<typeof setInterval> | null = null;
 
 async function refreshWorkspaceForSimulation() {
   const id = currentWorkspaceId.value;
-  if (!id) return;
+  if (!id) {
+    return;
+  }
   try {
     const next = await fetchWorkspace(id);
     workspace.value = next;

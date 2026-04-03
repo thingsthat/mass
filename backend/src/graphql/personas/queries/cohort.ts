@@ -1,6 +1,7 @@
-import { CohortType } from 'backend/src/graphql/personas/types/cohort';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLNonNull, GraphQLObjectType, GraphQLString } from 'graphql';
+
+import { CohortType } from 'backend/src/graphql/personas/types/cohort';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';
@@ -31,12 +32,12 @@ export const GET_COHORT = `
 `;
 
 // Query variables
-export type CohortQueryVariables = {
+type CohortQueryVariables = {
   cohortId?: string;
 };
 
 // Cohort response type
-export const CohortResponseType = new GraphQLObjectType({
+const CohortResponseType = new GraphQLObjectType({
   name: 'CohortResponse',
   fields: () => ({
     cohort: { type: new GraphQLNonNull(CohortType) },

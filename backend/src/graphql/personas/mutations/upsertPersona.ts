@@ -1,4 +1,3 @@
-import { GraphQLJSON } from 'backend/src/graphql/types/common';
 import { log } from 'core/src/helpers/logger';
 import {
   GraphQLBoolean,
@@ -8,6 +7,8 @@ import {
   GraphQLString,
 } from 'graphql';
 import { v4 as uuidv4 } from 'uuid';
+
+import { GraphQLJSON } from 'backend/src/graphql/types/common';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';

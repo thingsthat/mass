@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { getDatabaseClient } from 'core/src/database/client';
 import { log, LogCategory } from 'core/src/helpers/logger';
 import { getRandomSubset } from 'core/src/helpers/random';
@@ -16,15 +18,21 @@ import {
   updateTaskProgress,
 } from 'core/src/tasks/tasksController';
 import { getWorkspaceById } from 'core/src/workspace/controllers/workspaces';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { DatabaseClient } from 'core/src/database/types';
+import type {
+  SimulationEffectsMeta,
+  ScenarioEvent,
+  SimulationWorkflow,
+  InterventionHistoryEntry,
+  CausalHistoryEntry,
+  SimulationWorkflowStatus,
+} from 'core/src/simulation/simulation.types';
 import type {
   Conversation,
   Message,
   PersonaRelationshipState,
 } from 'core/src/workspace/conversation.types';
-import type { SimulationEffectsMeta, ScenarioEvent, SimulationWorkflow, InterventionHistoryEntry, CausalHistoryEntry, SimulationWorkflowStatus } from 'core/src/simulation/simulation.types';
 import type { Workspace } from 'core/src/workspace/workspace.types';
 
 export { getWorkspaceById };
@@ -316,7 +324,8 @@ export const runSimulationStep = async (
     const nextMemories = [...existingMemories, memoryEntry].slice(-MAX_PERSONA_MEMORIES);
 
     // Update relationship state from typed effects where channel is 'relationship' and a specific target persona is named.
-    const existingRelationships = (existing.relationships as Record<string, PersonaRelationshipState> | undefined) ?? {};
+    const existingRelationships =
+      (existing.relationships as Record<string, PersonaRelationshipState> | undefined) ?? {};
     const nextRelationships = { ...existingRelationships };
     const relationshipEffects = (result.effects ?? []).filter(
       e => e.channel === 'relationship' && e.targetType === 'persona' && e.targetId
@@ -422,11 +431,7 @@ export const runSimulationStep = async (
 
   const updatedConversation: Conversation = {
     ...conversation,
-    messages: [
-      ...conversation.messages,
-      ...appliedInterventionMessages,
-      ...newMessages,
-    ],
+    messages: [...conversation.messages, ...appliedInterventionMessages, ...newMessages],
     persona_metadata:
       Object.keys(personaMetadata).length > 0 ? personaMetadata : conversation.persona_metadata,
   };
@@ -435,7 +440,10 @@ export const runSimulationStep = async (
   const isDone = nextStep >= workflow.max_steps;
   const status: SimulationWorkflowStatus = isDone ? 'completed' : 'running';
 
-  const variableHistoryExistingByStep = new Map<number, { step: number; variables: Record<string, number | string | boolean> }>();
+  const variableHistoryExistingByStep = new Map<
+    number,
+    { step: number; variables: Record<string, number | string | boolean> }
+  >();
   for (const entry of variableHistoryBase) {
     if (typeof entry.step === 'number' && !Number.isNaN(entry.step)) {
       variableHistoryExistingByStep.set(entry.step, {
@@ -478,55 +486,58 @@ export const runSimulationStep = async (
 
   const latestWorkspace = await getWorkspaceById(db, workspace.id);
   const latestWorkflow = latestWorkspace?.workflow;
-  const mergedWorkflow: SimulationWorkflow = !latestWorkflow || !isSimulationWorkflow(latestWorkflow)
-    ? updatedWorkflow
-    : (() => {
-        const latestSimulationWorkflow = latestWorkflow as SimulationWorkflow;
-        const baseInterventionHistory = latestSimulationWorkflow.intervention_history ?? [];
-        const baseScheduledEvents = latestSimulationWorkflow.scheduled_events ?? [];
-        const baseActiveEvents = latestSimulationWorkflow.active_events ?? [];
+  const mergedWorkflow: SimulationWorkflow =
+    !latestWorkflow || !isSimulationWorkflow(latestWorkflow)
+      ? updatedWorkflow
+      : (() => {
+          const latestSimulationWorkflow = latestWorkflow as SimulationWorkflow;
+          const baseInterventionHistory = latestSimulationWorkflow.intervention_history ?? [];
+          const baseScheduledEvents = latestSimulationWorkflow.scheduled_events ?? [];
+          const baseActiveEvents = latestSimulationWorkflow.active_events ?? [];
 
-        const updatedHistoryEntries = updatedWorkflow.intervention_history ?? [];
-        const updatedHistoryById = new Map<string, InterventionHistoryEntry>();
-        for (const entry of updatedHistoryEntries) {
-          updatedHistoryById.set(entry.id, entry);
-        }
-        const mergedHistory: InterventionHistoryEntry[] = [
-          ...baseInterventionHistory.filter(entry => !updatedHistoryById.has(entry.id)),
-          ...updatedHistoryEntries,
-        ];
+          const updatedHistoryEntries = updatedWorkflow.intervention_history ?? [];
+          const updatedHistoryById = new Map<string, InterventionHistoryEntry>();
+          for (const entry of updatedHistoryEntries) {
+            updatedHistoryById.set(entry.id, entry);
+          }
+          const mergedHistory: InterventionHistoryEntry[] = [
+            ...baseInterventionHistory.filter(entry => !updatedHistoryById.has(entry.id)),
+            ...updatedHistoryEntries,
+          ];
 
-        const existingScheduledIds = new Set((updatedWorkflow.scheduled_events ?? []).map(e => e.id));
-        const mergedScheduled = [
-          ...(updatedWorkflow.scheduled_events ?? []),
-          ...baseScheduledEvents.filter(event => !existingScheduledIds.has(event.id)),
-        ];
+          const existingScheduledIds = new Set(
+            (updatedWorkflow.scheduled_events ?? []).map(e => e.id)
+          );
+          const mergedScheduled = [
+            ...(updatedWorkflow.scheduled_events ?? []),
+            ...baseScheduledEvents.filter(event => !existingScheduledIds.has(event.id)),
+          ];
 
-        const existingActiveIds = new Set((updatedWorkflow.active_events ?? []).map(e => e.id));
-        const mergedActiveEvents = [
-          ...(updatedWorkflow.active_events ?? []),
-          ...baseActiveEvents.filter(event => !existingActiveIds.has(event.id)),
-        ];
+          const existingActiveIds = new Set((updatedWorkflow.active_events ?? []).map(e => e.id));
+          const mergedActiveEvents = [
+            ...(updatedWorkflow.active_events ?? []),
+            ...baseActiveEvents.filter(event => !existingActiveIds.has(event.id)),
+          ];
 
-        // Merge causal history: preserve any entries from the latest persisted state that this step did not emit,
-        // then append this step's new entries without duplicating by step+actorId.
-        const baseCausalHistory = latestSimulationWorkflow.causal_history ?? [];
-        const updatedCausalKeys = new Set(
-          (updatedWorkflow.causal_history ?? []).map(e => `${e.step}||${e.actorId}`)
-        );
-        const mergedCausalHistory: CausalHistoryEntry[] = [
-          ...baseCausalHistory.filter(e => !updatedCausalKeys.has(`${e.step}||${e.actorId}`)),
-          ...(updatedWorkflow.causal_history ?? []),
-        ];
+          // Merge causal history: preserve any entries from the latest persisted state that this step did not emit,
+          // then append this step's new entries without duplicating by step+actorId.
+          const baseCausalHistory = latestSimulationWorkflow.causal_history ?? [];
+          const updatedCausalKeys = new Set(
+            (updatedWorkflow.causal_history ?? []).map(e => `${e.step}||${e.actorId}`)
+          );
+          const mergedCausalHistory: CausalHistoryEntry[] = [
+            ...baseCausalHistory.filter(e => !updatedCausalKeys.has(`${e.step}||${e.actorId}`)),
+            ...(updatedWorkflow.causal_history ?? []),
+          ];
 
-        return {
-          ...updatedWorkflow,
-          active_events: mergedActiveEvents,
-          scheduled_events: mergedScheduled,
-          intervention_history: mergedHistory,
-          causal_history: mergedCausalHistory,
-        };
-      })();
+          return {
+            ...updatedWorkflow,
+            active_events: mergedActiveEvents,
+            scheduled_events: mergedScheduled,
+            intervention_history: mergedHistory,
+            causal_history: mergedCausalHistory,
+          };
+        })();
 
   const latestConversation = latestWorkspace?.conversation ?? workspace.conversation;
   const existingMessagesById = new Map(

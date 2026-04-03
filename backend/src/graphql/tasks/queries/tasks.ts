@@ -1,6 +1,7 @@
-import { TaskType } from 'backend/src/graphql/tasks/types/task';
 import { log } from 'core/src/helpers/logger';
 import { GraphQLList, GraphQLObjectType, GraphQLString } from 'graphql';
+
+import { TaskType } from 'backend/src/graphql/tasks/types/task';
 
 import type { Context } from 'backend/src/context';
 import type { GraphResolver } from 'backend/src/graphql/graphql.types';

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://unpkg.com/knip@6/schema.json",
+  "workspaces": {
+    "frontend": {
+      "entry": ["index.html", "src/**/*.{ts,vue}"],
+      "project": ["src/**/*.{ts,vue}", "index.html"],
+      "paths": {
+        "@/*": ["./src/*"],
+        "backend/*": ["../backend/*"],
+        "core/*": ["../core/*"],
+        "data/*": ["../data/*"],
+        "frontend/*": ["./*"],
+        "frontend/src/core/*": ["./src/*"],
+        "src/*": ["./src/*"],
+        "~/*": ["../core/*"]
+      },
+      "vite": true,
+      "vue": true,
+      "ignoreDependencies": ["mass-core"]
+    },
+    "core": {
+      "entry": ["src/**/*.ts"],
+      "project": ["src/**/*.ts"],
+      "paths": {
+        "core/*": ["./*"]
+      }
+    }
+  }
+}

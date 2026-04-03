@@ -1,3 +1,5 @@
+import { v4 as uuidv4 } from 'uuid';
+
 import { LLMRouter } from 'core/src/llm/router';
 import { systemPromptPersonaContext } from 'core/src/personas/llm/systemprompt/systemPromptsPersonaContext';
 import {
@@ -5,7 +7,6 @@ import {
   sanitiseSimulationEffects,
   type SimulationActionResult,
 } from 'core/src/simulation/llm/schemaSimulationAction';
-import { v4 as uuidv4 } from 'uuid';
 
 import type { ProviderId } from 'core/src/llm/config';
 import type { Persona } from 'core/src/personas/persona.types';
